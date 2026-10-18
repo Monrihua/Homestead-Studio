@@ -1,0 +1,327 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "家園工坊 V31 輕量配置",
+  "type": "object",
+  "required": [
+    "format",
+    "version",
+    "assetMode",
+    "map",
+    "placed"
+  ],
+  "properties": {
+    "format": {
+      "const": "homestead-planner"
+    },
+    "version": {
+      "const": 31
+    },
+    "assetMode": {
+      "const": "catalog"
+    },
+    "map": {
+      "const": {
+        "blockSize": 16,
+        "rows": [
+          [
+            6,
+            12
+          ],
+          [
+            5,
+            12
+          ],
+          [
+            5,
+            13
+          ],
+          [
+            5,
+            14
+          ],
+          [
+            5,
+            14
+          ],
+          [
+            5,
+            13
+          ],
+          [
+            5,
+            12
+          ],
+          [
+            4,
+            11
+          ],
+          [
+            0,
+            10
+          ],
+          [
+            0,
+            9
+          ],
+          [
+            0,
+            8
+          ],
+          [
+            0,
+            7
+          ]
+        ]
+      }
+    },
+    "assetOverrides": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      }
+    },
+    "placed": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "asset",
+          "x",
+          "y",
+          "flip"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "asset": {
+            "enum": [
+              "tent",
+              "birdhouse",
+              "stump",
+              "grill",
+              "fire",
+              "pot",
+              "stool",
+              "windmill",
+              "pocket_house",
+              "kiln",
+              "chicken_coop",
+              "cow_pen",
+              "rice_field",
+              "wood_fence",
+              "grass_tile",
+              "path_tile",
+              "water_tile",
+              "hotpot",
+              "jade_wall",
+              "jade_gate",
+              "jade_wall_up",
+              "jade_wall_down",
+              "jade_wall_side",
+              "reunion_gift",
+              "firework_cart",
+              "cushion",
+              "gold_ingots",
+              "firecrackers",
+              "antique_tile",
+              "item_7854",
+              "item_7855",
+              "item_7856",
+              "item_7857",
+              "item_7858",
+              "item_7859",
+              "item_7871",
+              "item_7872",
+              "item_7873",
+              "item_7874",
+              "item_7875",
+              "item_7876",
+              "item_7877",
+              "item_7878",
+              "item_7879",
+              "item_7880",
+              "item_7881",
+              "item_7882",
+              "item_7883",
+              "item_7884",
+              "item_7885",
+              "item_7886",
+              "item_7887",
+              "item_7888",
+              "item_7889",
+              "item_7890",
+              "item_7891",
+              "item_7892",
+              "item_7893",
+              "item_7894",
+              "item_7895",
+              "item_7896",
+              "item_7897",
+              "item_7898",
+              "item_7899",
+              "item_7900",
+              "item_7901",
+              "item_7902",
+              "item_7903",
+              "item_7904",
+              "item_7905",
+              "item_7906",
+              "item_7907",
+              "item_7908",
+              "item_7909",
+              "item_7910",
+              "item_7911",
+              "item_7912",
+              "item_7913",
+              "item_7914",
+              "item_7915",
+              "item_7916",
+              "item_7917",
+              "item_7918",
+              "item_7919",
+              "item_7920",
+              "item_7921",
+              "item_7922",
+              "item_7923",
+              "item_7924",
+              "item_7925",
+              "item_7926",
+              "item_7927",
+              "item_7928",
+              "item_7929",
+              "item_7930",
+              "item_7931",
+              "item_7932",
+              "item_7933",
+              "item_7934",
+              "item_7935",
+              "item_7936",
+              "item_7937",
+              "item_7938",
+              "item_7939",
+              "item_7940",
+              "item_7941",
+              "item_7942",
+              "item_7943",
+              "item_7944",
+              "item_7945",
+              "item_7946",
+              "item_7947",
+              "item_7948",
+              "item_7949",
+              "item_7950",
+              "item_7951",
+              "item_7952",
+              "item_7953",
+              "item_7954",
+              "item_7955",
+              "item_7956",
+              "item_7957",
+              "item_7958",
+              "item_7959",
+              "item_7960",
+              "item_7961",
+              "item_7962",
+              "item_7963",
+              "item_7964",
+              "item_7965",
+              "item_7966",
+              "item_7967",
+              "item_7968",
+              "item_7969",
+              "item_7970",
+              "item_7971",
+              "item_7972",
+              "item_7973",
+              "item_7974",
+              "item_7975",
+              "item_7976",
+              "item_7977",
+              "item_7978",
+              "item_7979",
+              "item_7980",
+              "item_7981",
+              "item_7982",
+              "item_7983",
+              "reward_8055",
+              "reward_8056",
+              "reward_8057",
+              "reward_8058",
+              "reward_8059",
+              "reward_8060",
+              "reward_8061",
+              "reward_8062",
+              "reward_8063",
+              "reward_8064",
+              "item_64431",
+              "item_64430",
+              "item_64429",
+              "item_64428",
+              "item_64427",
+              "item_64426",
+              "item_64425",
+              "item_64424",
+              "item_64423",
+              "item_64422",
+              "item_64421",
+              "item_64420",
+              "item_64419",
+              "item_64418",
+              "item_64417",
+              "item_64416",
+              "item_64415",
+              "item_64414",
+              "item_64413",
+              "item_64412",
+              "item_64411",
+              "item_64410",
+              "item_64409",
+              "item_64407",
+              "item_64406",
+              "item_64405",
+              "item_64404",
+              "item_64403",
+              "item_64402",
+              "item_64401",
+              "item_64400",
+              "item_64399",
+              "item_64398",
+              "item_64397"
+            ]
+          },
+          "x": {
+            "type": "number"
+          },
+          "y": {
+            "type": "number"
+          },
+          "flip": {
+            "type": "boolean"
+          },
+          "mirror": {
+            "type": "boolean",
+            "default": false
+          },
+          "zIndex": {
+            "type": "integer",
+            "minimum": -100,
+            "maximum": 100
+          }
+        }
+      }
+    }
+  },
+  "description": "此結構供內建素材配置使用；自訂素材另由 assetOverrides 定義。碰撞、互斥及連通性須另檢查。"
+}
