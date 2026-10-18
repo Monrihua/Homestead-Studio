@@ -1,0 +1,22 @@
+<!doctype html><html lang="zh-Hant"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>家園工坊｜給 AI 的設計資料</title>
+<style>body{font:16px/1.8 system-ui;background:#f5f7ec;color:#29463b;max-width:900px;margin:0 auto;padding:32px 22px 80px}a{color:#22654a}header{border-bottom:1px solid #c6d5bc;padding-bottom:24px}h1{font-size:34px}h2{margin-top:36px}pre,blockquote{background:white;border:1px solid #d8e1cb;border-radius:12px;padding:20px;margin:16px 0;white-space:pre-wrap;overflow-wrap:anywhere}code{font-size:14px}.links{display:flex;flex-wrap:wrap;gap:12px}.links a{padding:8px 16px;background:#e5eedb;border-radius:8px}li{margin-bottom:8px}</style>
+<header><a href="index.html">← 家園工坊</a><h1>把家園交給 AI 設計</h1><p>把本頁網址貼給能讀取網頁的 AI。這裡提供完整的素材名稱、圖片連結、占地、地圖形狀、擺放規則與可匯入的配置格式。</p><div class="links"><a href="AI資料/design-kit.json">素材與地圖 JSON</a><a href="asset-catalog.html">192 款圖片圖鑑</a><a href="AI資料/blank-layout.json">空白配置</a><a href="AI資料/layout-schema.json">JSON 結構</a><a href="配置範例/二十二主題生活家園.json">22 主題設計範例</a></div></header>
+<h2>可以直接交給 AI 的需求</h2><blockquote>請先讀取本頁的素材與地圖 JSON，並查看圖片圖鑑及必要的原始 PNG。幫我規劃家園：每種主題集中成一個場景，盡量運用整張地圖，保留連通道路，每種能同時存在的家具至少放一個。聖杯、武道、爭霸各選一個獎勵。依家具用途設計，房門朝道路、攤位前留空、座位朝活動中心；圍欄圍出有開口的庭院，高樹不要擋門。需要時使用鏡像。最後提供可直接用「讀取配置」載入的 V31 JSON，先檢查越界、重疊、地板支撐、互斥和入口連通，並說明你的場景安排。</blockquote>
+<h2>座標與圖片</h2><ul>
+<li>地圖每個區塊為 16×16，<code>map.rows</code> 的每列為 [起始欄,結束欄)，使用 0 起算、結束不含。物件 <code>x,y</code> 是占地矩形左上角。必須讓整個占地都在有效範圍內。</li>
+<li>螢幕投影為 <code>screenX=10*(x+y)</code>、<code>screenY=5*(y-x)</code>。W 正面是 x 減少方向，畫面左下；S 正面是 y 增加方向，畫面右下。</li>
+<li><code>defaultFacing</code> 是已判讀的原圖正面提示；仍請看圖確認實際門口。<code>mirror:true</code> 會水平鏡像，讓 W 與 S 互換。<code>flip:true</code> 交換長寬並翻面；所有現有素材都是正方形，一般使用 <code>flip:false</code>。</li>
+<li>只有這兩個可見正面，不能生成背面或另外兩個視角。圖片角度、縮放不會縮小碰撞占地。PNG 的透明空白、屋頂和樹冠也不能當成可走範圍的判據。</li>
+<li>圖片路徑以 JSON 本身所在的 AI資料 資料夾為基準；圖鑑的連結可直接開啟。不要把 1254×1254 畫布尺寸當成家具占地。</li></ul>
+<h2>必須遵守的擺放規則</h2><ul>
+<li>普通家具占地不可互相重疊；普通地板可以在家具下面，但地板彼此不能重疊。相鄰地板以 4 格對齊比較容易拼接。草地 <code>grass_tile</code> 是清除地板工具，不必實際放置。</li>
+<li><code>isThemeBuilding:true</code> 是同一素材 ID 限一棟，不是整個主題只能有一棟。三種 <code>exclusiveGroup</code> 分別限一件獎勵，不能同一組放多個名次。</li>
+<li><code>requiresWater:true</code> 的三艘船，整個占地必須鋪滿 <code>water_tile</code>。水池上不能放其他家具。名稱有「池」的家具不一定是水池，請依 <code>kind</code>。</li>
+<li><code>needsStarFloor:true</code> 的異星家具，整個占地須鋪滿 <code>item_7937</code> 星空窗；<code>item_7936</code> 木星磚為普通地板，不能承載它們。星空窗上不能放其他主題的家具。</li>
+<li>一般圍欄的實際碰撞是沿中線、半個占地寬的帶狀。<code>fenceBase.y1&lt;y0</code> 時原向中線沿 x，否則沿 y；鏡像後交換方向。圍欄只能端點接端點，不可重疊牆身或形成 T 字、交叉。可以沿家具共同邊界，不能穿入家具內部。</li>
+<li>有 <code>wall.path</code> 的翠瓦圍牆使用該正規化折線；鏡像以 <code>(u,v)→(1-v,1-u)</code> 轉換。有 <code>wall.noOverlap</code> 時，完整占地不能與其他圍牆占地重疊。</li>
+<li>全局道路與每個需要進出的門口要連通。建議主路 4 格、門前至少 4 格淨空。圍欄需有開口。橋、牌樓目前仍有家具占地，請預留旁路，不要假設程式能從其占地中穿過。</li></ul>
+<h2>交付檔案格式</h2><p>下載空白配置，保留 <code>format</code>、<code>version:31</code>、<code>assetMode:catalog</code> 和完整 <code>map</code>；將擺放記錄填入 <code>placed</code>。每個物件的 <code>id</code> 必須唯一，<code>asset</code> 必須使用清單中的 ID。</p>
+<pre>{ "id":"mushroom-home-1", "asset":"item_7893", "x":100, "y":32, "flip":false, "mirror":true }</pre>
+<p><code>assetOverrides:[]</code> 表示沿用網站素材資料。一般設計不需要帶圖片或複製全部素材。若延續使用者配置，請保留原有 assetOverrides，以免遺失素材校正；自訂圖片可能保存在其中。完成後交付 UTF-8 JSON，使用者在工坊按「讀取配置」即可載入。</p>
+<p>只通過 JSON 結構檢查不代表可放置；工坊會再檢查地圖、碰撞與支撐。若目前 AI 無法讀圖片，請清楚說明尚未完成視覺判讀，不能宣稱已確認門口與遮擋。</p></html>
