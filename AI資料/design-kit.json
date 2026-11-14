@@ -1,7 +1,7 @@
 {
   "format": "homestead-design-kit",
   "version": 31,
-  "catalogFingerprint": "f4849221b24be276b930",
+  "catalogFingerprint": "7593ebe0b0f99004f4da",
   "map": {
     "blockSize": 16,
     "rows": [
@@ -74,9 +74,38 @@
       "kind": "furniture",
       "comfort": 15,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "W",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E7%87%9F%E7%81%AB%E7%87%9F%E5%9C%B0/%E7%B0%A1%E6%98%93%E5%B8%B3%E7%AF%B7__8x8.png?v=6beb71866f169566",
       "needsStarFloor": false,
-      "defaultFacing": "W"
+      "defaultFacing": "W",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "mirrored": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 0.234375
     },
     {
       "id": "birdhouse",
@@ -87,8 +116,19 @@
       "kind": "furniture",
       "comfort": 5,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E7%87%9F%E7%81%AB%E7%87%9F%E5%9C%B0/%E5%A4%A9%E7%A9%BA%E9%A9%9B%E7%AB%99__2x2.png?v=98da5ebd8823e17f",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 1.25
     },
     {
       "id": "stump",
@@ -99,8 +139,19 @@
       "kind": "furniture",
       "comfort": 8,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E7%87%9F%E7%81%AB%E7%87%9F%E5%9C%B0/%E5%8A%88%E6%9F%B4%E5%9E%9B__4x4.png?v=9c83a5456fe5a85b",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.5
     },
     {
       "id": "grill",
@@ -111,8 +162,19 @@
       "kind": "furniture",
       "comfort": 8,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E7%87%9F%E7%81%AB%E7%87%9F%E5%9C%B0/%E7%83%A4%E8%82%89%E6%9E%B6__4x4.png?v=290d6a0cc4dfab2d",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.5
     },
     {
       "id": "fire",
@@ -123,8 +185,19 @@
       "kind": "furniture",
       "comfort": 8,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E7%87%9F%E7%81%AB%E7%87%9F%E5%9C%B0/%E7%87%9F%E7%81%AB__4x4.png?v=6427f47f214a55f8",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.5
     },
     {
       "id": "pot",
@@ -135,8 +208,19 @@
       "kind": "furniture",
       "comfort": 8,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E7%87%9F%E7%81%AB%E7%87%9F%E5%9C%B0/%E9%9C%B2%E7%87%9F%E9%8D%8B__4x4.png?v=893d484976169654",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.5
     },
     {
       "id": "stool",
@@ -147,8 +231,19 @@
       "kind": "furniture",
       "comfort": 5,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E7%87%9F%E7%81%AB%E7%87%9F%E5%9C%B0/%E5%B0%8F%E6%9D%BF%E5%87%B3__2x2.png?v=8d290f03f95b5043",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 1.25
     },
     {
       "id": "windmill",
@@ -159,9 +254,38 @@
       "kind": "furniture",
       "comfort": 80,
       "isThemeBuilding": true,
+      "designHints": {
+        "facing": "S",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E7%89%A7%E6%AD%8C%E7%94%B0%E5%9C%92/%E9%A2%A8%E8%BB%8A%E5%B1%8B__16x16.png?v=dcca0d578c937a92",
       "needsStarFloor": false,
-      "defaultFacing": "S"
+      "defaultFacing": "S",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "mirrored": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 0.3125
     },
     {
       "id": "pocket_house",
@@ -172,9 +296,38 @@
       "kind": "furniture",
       "comfort": 20,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "S",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E7%89%A7%E6%AD%8C%E7%94%B0%E5%9C%92/%E5%8F%A3%E8%A2%8B%E5%B1%8B__8x8.png?v=085203ca139a515b",
       "needsStarFloor": false,
-      "defaultFacing": "S"
+      "defaultFacing": "S",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "mirrored": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 0.3125
     },
     {
       "id": "kiln",
@@ -185,9 +338,38 @@
       "kind": "furniture",
       "comfort": 20,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "W",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E7%89%A7%E6%AD%8C%E7%94%B0%E5%9C%92/%E9%99%B6%E5%9D%8A__8x8.png?v=d8b9eff46ed87f5a",
       "needsStarFloor": false,
-      "defaultFacing": "W"
+      "defaultFacing": "W",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "mirrored": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 0.3125
     },
     {
       "id": "chicken_coop",
@@ -198,9 +380,38 @@
       "kind": "furniture",
       "comfort": 33,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "S",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E7%89%A7%E6%AD%8C%E7%94%B0%E5%9C%92/%E9%9B%9E%E8%88%8D__16x16.png?v=fd1f825993193f0f",
       "needsStarFloor": false,
-      "defaultFacing": "S"
+      "defaultFacing": "S",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "mirrored": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 0.128906
     },
     {
       "id": "cow_pen",
@@ -211,9 +422,38 @@
       "kind": "furniture",
       "comfort": 33,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "S",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E7%89%A7%E6%AD%8C%E7%94%B0%E5%9C%92/%E7%89%9B%E5%9C%88__16x16.png?v=5a480481fd0d0871",
       "needsStarFloor": false,
-      "defaultFacing": "S"
+      "defaultFacing": "S",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "mirrored": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 0.128906
     },
     {
       "id": "rice_field",
@@ -224,8 +464,19 @@
       "kind": "furniture",
       "comfort": 20,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E7%89%A7%E6%AD%8C%E7%94%B0%E5%9C%92/%E7%A8%BB%E7%94%B0__8x8.png?v=745d801e90512c7a",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.3125
     },
     {
       "id": "wood_fence",
@@ -242,8 +493,64 @@
         "x1": 0.883,
         "y1": 0.972
       },
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E7%89%A7%E6%AD%8C%E7%94%B0%E5%9C%92/%E5%9C%8D%E6%AC%84__4x4.png?v=fdc4ece56362c278",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "fenceConnections": {
+        "shape": "straight",
+        "path": [
+          [
+            0.5,
+            0
+          ],
+          [
+            0.5,
+            1
+          ]
+        ],
+        "mirroredPath": [
+          [
+            1,
+            0.5
+          ],
+          [
+            0,
+            0.5
+          ]
+        ],
+        "endpoints": [
+          [
+            0.5,
+            0
+          ],
+          [
+            0.5,
+            1
+          ]
+        ],
+        "mirroredEndpoints": [
+          [
+            1,
+            0.5
+          ],
+          [
+            0,
+            0.5
+          ]
+        ],
+        "coordinateSystem": "normalized footprint",
+        "joinRule": "endpoints only; no T-junction or crossing; courtyard must have an opening"
+      },
+      "comfortPerCell": 0.625
     },
     {
       "id": "grass_tile",
@@ -254,8 +561,19 @@
       "kind": "floor",
       "comfort": 0,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E7%89%A7%E6%AD%8C%E7%94%B0%E5%9C%92/%E8%8D%89%E5%9C%B0__4x4.png?v=5573425deb152fa9",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.0
     },
     {
       "id": "path_tile",
@@ -266,8 +584,19 @@
       "kind": "floor",
       "comfort": 0,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E7%89%A7%E6%AD%8C%E7%94%B0%E5%9C%92/%E5%B0%8F%E8%B7%AF__4x4.png?v=4a657205ef7b1463",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.0
     },
     {
       "id": "water_tile",
@@ -278,8 +607,19 @@
       "kind": "water",
       "comfort": 0,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E7%89%A7%E6%AD%8C%E7%94%B0%E5%9C%92/%E6%B0%B4%E6%B1%A0__4x4.png?v=c675592c3d2e0263",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.0
     },
     {
       "id": "hotpot",
@@ -290,9 +630,38 @@
       "kind": "furniture",
       "comfort": 270,
       "isThemeBuilding": true,
+      "designHints": {
+        "facing": "S",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%90%88%E5%AE%B6%E6%AD%A1%E6%A8%82/%E7%81%AB%E9%8D%8B__16x16.png?v=cdee72d6c76d82fb",
       "needsStarFloor": false,
-      "defaultFacing": "S"
+      "defaultFacing": "S",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "mirrored": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 1.054688
     },
     {
       "id": "jade_wall",
@@ -303,6 +672,14 @@
       "kind": "fence",
       "comfort": 18,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "wall": {
         "path": [
           [
@@ -317,7 +694,55 @@
         "noOverlap": true
       },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%90%88%E5%AE%B6%E6%AD%A1%E6%A8%82/%E7%BF%A0%E7%93%A6%E5%9C%8D%E7%89%86__4x4.png?v=46215c960e09a22a",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "fenceConnections": {
+        "shape": "straight",
+        "path": [
+          [
+            0,
+            0.5
+          ],
+          [
+            1,
+            0.5
+          ]
+        ],
+        "mirroredPath": [
+          [
+            0.5,
+            1
+          ],
+          [
+            0.5,
+            0
+          ]
+        ],
+        "endpoints": [
+          [
+            0,
+            0.5
+          ],
+          [
+            1,
+            0.5
+          ]
+        ],
+        "mirroredEndpoints": [
+          [
+            0.5,
+            1
+          ],
+          [
+            0.5,
+            0
+          ]
+        ],
+        "coordinateSystem": "normalized footprint",
+        "joinRule": "endpoints only; no T-junction or crossing; courtyard must have an opening"
+      },
+      "comfortPerCell": 1.125
     },
     {
       "id": "jade_gate",
@@ -328,9 +753,38 @@
       "kind": "furniture",
       "comfort": 29,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "W",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%90%88%E5%AE%B6%E6%AD%A1%E6%A8%82/%E7%BF%A0%E7%93%A6%E7%89%8C%E6%A8%93__8x8.png?v=7121eb8ff8a312fa",
       "needsStarFloor": false,
-      "defaultFacing": "W"
+      "defaultFacing": "W",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "mirrored": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 0.453125
     },
     {
       "id": "jade_wall_up",
@@ -341,6 +795,14 @@
       "kind": "fence",
       "comfort": 18,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "wall": {
         "path": [
           [
@@ -359,7 +821,63 @@
         "noOverlap": true
       },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%90%88%E5%AE%B6%E6%AD%A1%E6%A8%82/%E7%BF%A0%E7%93%A6%E4%B8%8A%E5%9C%8D%E7%89%86__4x4.png?v=0c6bff6a9a981c48",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "fenceConnections": {
+        "shape": "corner",
+        "path": [
+          [
+            0,
+            0.5
+          ],
+          [
+            0.5,
+            0.5
+          ],
+          [
+            0.5,
+            1
+          ]
+        ],
+        "mirroredPath": [
+          [
+            0.5,
+            1
+          ],
+          [
+            0.5,
+            0.5
+          ],
+          [
+            0,
+            0.5
+          ]
+        ],
+        "endpoints": [
+          [
+            0,
+            0.5
+          ],
+          [
+            0.5,
+            1
+          ]
+        ],
+        "mirroredEndpoints": [
+          [
+            0.5,
+            1
+          ],
+          [
+            0,
+            0.5
+          ]
+        ],
+        "coordinateSystem": "normalized footprint",
+        "joinRule": "endpoints only; no T-junction or crossing; courtyard must have an opening"
+      },
+      "comfortPerCell": 1.125
     },
     {
       "id": "jade_wall_down",
@@ -370,6 +888,14 @@
       "kind": "fence",
       "comfort": 18,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "wall": {
         "path": [
           [
@@ -388,7 +914,63 @@
         "noOverlap": true
       },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%90%88%E5%AE%B6%E6%AD%A1%E6%A8%82/%E7%BF%A0%E7%93%A6%E4%B8%8B%E5%9C%8D%E7%89%86__4x4.png?v=ba3dfe539077e946",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "fenceConnections": {
+        "shape": "corner",
+        "path": [
+          [
+            0.5,
+            0
+          ],
+          [
+            0.5,
+            0.5
+          ],
+          [
+            1,
+            0.5
+          ]
+        ],
+        "mirroredPath": [
+          [
+            1,
+            0.5
+          ],
+          [
+            0.5,
+            0.5
+          ],
+          [
+            0.5,
+            0
+          ]
+        ],
+        "endpoints": [
+          [
+            0.5,
+            0
+          ],
+          [
+            1,
+            0.5
+          ]
+        ],
+        "mirroredEndpoints": [
+          [
+            1,
+            0.5
+          ],
+          [
+            0.5,
+            0
+          ]
+        ],
+        "coordinateSystem": "normalized footprint",
+        "joinRule": "endpoints only; no T-junction or crossing; courtyard must have an opening"
+      },
+      "comfortPerCell": 1.125
     },
     {
       "id": "jade_wall_side",
@@ -399,6 +981,14 @@
       "kind": "fence",
       "comfort": 18,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "wall": {
         "path": [
           [
@@ -417,7 +1007,63 @@
         "noOverlap": true
       },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%90%88%E5%AE%B6%E6%AD%A1%E6%A8%82/%E7%BF%A0%E7%93%A6%E5%81%B4%E5%9C%8D%E7%89%86__4x4.png?v=183082de0fcc3f4c",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "fenceConnections": {
+        "shape": "corner",
+        "path": [
+          [
+            1,
+            0.5
+          ],
+          [
+            0.5,
+            0.5
+          ],
+          [
+            0.5,
+            1
+          ]
+        ],
+        "mirroredPath": [
+          [
+            0.5,
+            0
+          ],
+          [
+            0.5,
+            0.5
+          ],
+          [
+            0,
+            0.5
+          ]
+        ],
+        "endpoints": [
+          [
+            1,
+            0.5
+          ],
+          [
+            0.5,
+            1
+          ]
+        ],
+        "mirroredEndpoints": [
+          [
+            0.5,
+            0
+          ],
+          [
+            0,
+            0.5
+          ]
+        ],
+        "coordinateSystem": "normalized footprint",
+        "joinRule": "endpoints only; no T-junction or crossing; courtyard must have an opening"
+      },
+      "comfortPerCell": 1.125
     },
     {
       "id": "reunion_gift",
@@ -428,8 +1074,19 @@
       "kind": "furniture",
       "comfort": 18,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%90%88%E5%AE%B6%E6%AD%A1%E6%A8%82/%E5%9C%98%E5%9C%93%E7%A6%AE%E7%9B%92__4x4.png?v=bbac5625445ee462",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 1.125
     },
     {
       "id": "firework_cart",
@@ -440,8 +1097,19 @@
       "kind": "furniture",
       "comfort": 18,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%90%88%E5%AE%B6%E6%AD%A1%E6%A8%82/%E7%88%86%E7%AB%B9%E6%8E%A8%E8%BB%8A__4x4.png?v=04a1f2f5c5aed4d5",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 1.125
     },
     {
       "id": "cushion",
@@ -452,8 +1120,19 @@
       "kind": "furniture",
       "comfort": 18,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%90%88%E5%AE%B6%E6%AD%A1%E6%A8%82/%E8%92%B2%E5%9C%98__4x4.png?v=cc2c52df528bfe0e",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 1.125
     },
     {
       "id": "gold_ingots",
@@ -464,8 +1143,19 @@
       "kind": "furniture",
       "comfort": 11,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%90%88%E5%AE%B6%E6%AD%A1%E6%A8%82/%E5%85%83%E5%AF%B6__2x2.png?v=a33e09669887a064",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 2.75
     },
     {
       "id": "firecrackers",
@@ -476,8 +1166,19 @@
       "kind": "furniture",
       "comfort": 11,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%90%88%E5%AE%B6%E6%AD%A1%E6%A8%82/%E9%9E%AD%E7%82%AE__2x2.png?v=d0af4e7baf32df97",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 2.75
     },
     {
       "id": "antique_tile",
@@ -488,8 +1189,19 @@
       "kind": "floor",
       "comfort": 0,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%90%88%E5%AE%B6%E6%AD%A1%E6%A8%82/%E4%BB%BF%E5%8F%A4%E5%9C%B0%E7%A3%9A__4x4.png?v=3e33b991b414b8fc",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.0
     },
     {
       "id": "item_7854",
@@ -500,9 +1212,38 @@
       "kind": "furniture",
       "comfort": 200,
       "isThemeBuilding": true,
+      "designHints": {
+        "facing": "S",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E9%B9%B9%E9%AD%9A%E7%BF%BB%E8%BA%AB/%E5%8D%A1%E7%9A%AE%E6%BA%AB%E6%B3%89__16x16.png?v=9975631627a72b96",
       "needsStarFloor": false,
-      "defaultFacing": "S"
+      "defaultFacing": "S",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "mirrored": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 0.78125
     },
     {
       "id": "item_7855",
@@ -513,9 +1254,38 @@
       "kind": "furniture",
       "comfort": 12,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "W",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E9%B9%B9%E9%AD%9A%E7%BF%BB%E8%BA%AB/%E7%AB%B9%E6%90%96%E6%A4%85__4x4.png?v=44213d3d4483b054",
       "needsStarFloor": false,
-      "defaultFacing": "W"
+      "defaultFacing": "W",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "mirrored": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 0.75
     },
     {
       "id": "item_7856",
@@ -526,8 +1296,19 @@
       "kind": "furniture",
       "comfort": 12,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E9%B9%B9%E9%AD%9A%E7%BF%BB%E8%BA%AB/%E5%9C%8D%E7%88%90%E7%85%AE%E8%8C%B6__4x4.png?v=b98d8c199bdc28ba",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.75
     },
     {
       "id": "item_7857",
@@ -538,8 +1319,19 @@
       "kind": "furniture",
       "comfort": 8,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E9%B9%B9%E9%AD%9A%E7%BF%BB%E8%BA%AB/%E9%9D%92%E8%8B%94%E7%9F%B3%E7%87%88__2x2.png?v=5fa1ecd2947f74fc",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 2.0
     },
     {
       "id": "item_7858",
@@ -550,8 +1342,19 @@
       "kind": "furniture",
       "comfort": 10,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E9%B9%B9%E9%AD%9A%E7%BF%BB%E8%BA%AB/%E7%BF%A0%E7%AB%B9__4x4.png?v=8c22f05c66d381bc",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.625
     },
     {
       "id": "item_7859",
@@ -562,8 +1365,19 @@
       "kind": "floor",
       "comfort": 0,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E9%B9%B9%E9%AD%9A%E7%BF%BB%E8%BA%AB/%E6%9A%96%E6%9C%A8%E5%9C%B0%E6%9D%BF__4x4.png?v=96df7aac91f0e49d",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.0
     },
     {
       "id": "item_7871",
@@ -574,8 +1388,19 @@
       "kind": "furniture",
       "comfort": 8,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E8%91%B1%E9%AC%B1%E6%A3%AE%E6%9E%97/%E7%B1%B3%E5%A5%87%E6%A8%B9__4x4.png?v=cb9b7ebc73c8f5c3",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.5
     },
     {
       "id": "item_7872",
@@ -586,8 +1411,19 @@
       "kind": "furniture",
       "comfort": 8,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E8%91%B1%E9%AC%B1%E6%A3%AE%E6%9E%97/%E7%B6%A0%E5%A1%94%E6%A8%B9__4x4.png?v=4e7905c9a3b313ab",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.5
     },
     {
       "id": "item_7873",
@@ -598,8 +1434,19 @@
       "kind": "furniture",
       "comfort": 8,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E8%91%B1%E9%AC%B1%E6%A3%AE%E6%9E%97/%E9%97%8A%E8%91%89%E6%A8%B9__4x4.png?v=36a9962b43c209d9",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.5
     },
     {
       "id": "item_7874",
@@ -610,8 +1457,19 @@
       "kind": "furniture",
       "comfort": 8,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E8%91%B1%E9%AC%B1%E6%A3%AE%E6%9E%97/%E9%9B%99%E7%94%9F%E6%9D%BE%E6%A8%B9__4x4.png?v=5171fa9188a92836",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.5
     },
     {
       "id": "item_7875",
@@ -622,8 +1480,19 @@
       "kind": "furniture",
       "comfort": 8,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E8%91%B1%E9%AC%B1%E6%A3%AE%E6%9E%97/%E5%A4%9A%E7%94%9F%E6%9D%BE%E6%A8%B9__4x4.png?v=89d23e1bc287f403",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.5
     },
     {
       "id": "item_7876",
@@ -634,8 +1503,19 @@
       "kind": "furniture",
       "comfort": 8,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E8%91%B1%E9%AC%B1%E6%A3%AE%E6%9E%97/%E6%A4%B0%E5%AD%90%E6%A8%B9__4x4.png?v=9d2b43a9b3882b11",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.5
     },
     {
       "id": "item_7877",
@@ -646,8 +1526,19 @@
       "kind": "furniture",
       "comfort": 8,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E8%91%B1%E9%AC%B1%E6%A3%AE%E6%9E%97/%E8%8A%B1%E5%9C%83__4x4.png?v=b0dee908abe890cd",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.5
     },
     {
       "id": "item_7878",
@@ -658,9 +1549,38 @@
       "kind": "furniture",
       "comfort": 290,
       "isThemeBuilding": true,
+      "designHints": {
+        "facing": "W",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E9%9B%95%E5%83%8F%E5%85%AC%E5%9C%92/%E5%8D%A1%E7%9A%AE%E5%8B%87%E8%80%85%E9%9B%95%E5%83%8F__16x16.png?v=1d6e693e31076791",
       "needsStarFloor": false,
-      "defaultFacing": "W"
+      "defaultFacing": "W",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "mirrored": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 1.132812
     },
     {
       "id": "item_7879",
@@ -671,9 +1591,38 @@
       "kind": "furniture",
       "comfort": 37,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "W",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E9%9B%95%E5%83%8F%E5%85%AC%E5%9C%92/%E5%8A%A0%E5%8A%A0%E6%9E%97%E9%9B%95%E5%83%8F__8x8.png?v=f1986d6f34acee2b",
       "needsStarFloor": false,
-      "defaultFacing": "W"
+      "defaultFacing": "W",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "mirrored": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 0.578125
     },
     {
       "id": "item_7880",
@@ -684,9 +1633,38 @@
       "kind": "furniture",
       "comfort": 37,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "W",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E9%9B%95%E5%83%8F%E5%85%AC%E5%9C%92/%E5%AD%AB%E6%82%9F%E7%A9%BA%E9%9B%95%E5%83%8F__8x8.png?v=90fac4a9786f1559",
       "needsStarFloor": false,
-      "defaultFacing": "W"
+      "defaultFacing": "W",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "mirrored": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 0.578125
     },
     {
       "id": "item_7881",
@@ -697,9 +1675,38 @@
       "kind": "furniture",
       "comfort": 37,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "W",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E9%9B%95%E5%83%8F%E5%85%AC%E5%9C%92/%E5%B0%8F%E9%BE%8D%E5%A5%B3%E9%9B%95%E5%83%8F__8x8.png?v=1c4d956054a36b11",
       "needsStarFloor": false,
-      "defaultFacing": "W"
+      "defaultFacing": "W",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "mirrored": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 0.578125
     },
     {
       "id": "item_7882",
@@ -710,9 +1717,38 @@
       "kind": "furniture",
       "comfort": 37,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "W",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E9%9B%95%E5%83%8F%E5%85%AC%E5%9C%92/%E7%86%8A%E8%B2%93%E5%A4%A7%E4%BF%A0%E9%9B%95%E5%83%8F__8x8.png?v=fcf4a165017a14c4",
       "needsStarFloor": false,
-      "defaultFacing": "W"
+      "defaultFacing": "W",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "mirrored": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 0.578125
     },
     {
       "id": "item_7883",
@@ -723,8 +1759,19 @@
       "kind": "furniture",
       "comfort": 19,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E9%9B%95%E5%83%8F%E5%85%AC%E5%9C%92/%E7%9F%B3%E4%B8%AD%E5%8A%8D__4x4.png?v=89daea219a2c10be",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 1.1875
     },
     {
       "id": "item_7884",
@@ -735,9 +1782,38 @@
       "kind": "furniture",
       "comfort": 19,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "W",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E9%9B%95%E5%83%8F%E5%85%AC%E5%9C%92/%E7%9F%B3%E6%A4%85__4x4.png?v=63b30ee3b23c954c",
       "needsStarFloor": false,
-      "defaultFacing": "W"
+      "defaultFacing": "W",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "mirrored": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 1.1875
     },
     {
       "id": "item_7885",
@@ -748,8 +1824,19 @@
       "kind": "furniture",
       "comfort": 19,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E9%9B%95%E5%83%8F%E5%85%AC%E5%9C%92/%E7%9F%B3%E5%87%B3__4x4.png?v=bad2969b7dd98925",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 1.1875
     },
     {
       "id": "item_7886",
@@ -766,8 +1853,64 @@
         "x1": 0.8451053283767038,
         "y1": 0.926829268292683
       },
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E9%9B%95%E5%83%8F%E5%85%AC%E5%9C%92/%E5%A4%A7%E7%90%86%E7%9F%B3%E6%AC%84%E6%9D%86__4x4.png?v=da3744aae6006dd4",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "fenceConnections": {
+        "shape": "straight",
+        "path": [
+          [
+            0.5,
+            0
+          ],
+          [
+            0.5,
+            1
+          ]
+        ],
+        "mirroredPath": [
+          [
+            1,
+            0.5
+          ],
+          [
+            0,
+            0.5
+          ]
+        ],
+        "endpoints": [
+          [
+            0.5,
+            0
+          ],
+          [
+            0.5,
+            1
+          ]
+        ],
+        "mirroredEndpoints": [
+          [
+            1,
+            0.5
+          ],
+          [
+            0,
+            0.5
+          ]
+        ],
+        "coordinateSystem": "normalized footprint",
+        "joinRule": "endpoints only; no T-junction or crossing; courtyard must have an opening"
+      },
+      "comfortPerCell": 1.1875
     },
     {
       "id": "item_7887",
@@ -778,8 +1921,19 @@
       "kind": "furniture",
       "comfort": 12,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E9%9B%95%E5%83%8F%E5%85%AC%E5%9C%92/%E9%87%91%E5%AF%B6%E4%B8%89%E6%8E%9B%E7%87%88__2x2.png?v=49bb288453f6d97c",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 3.0
     },
     {
       "id": "item_7888",
@@ -790,8 +1944,19 @@
       "kind": "furniture",
       "comfort": 12,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E9%9B%95%E5%83%8F%E5%85%AC%E5%9C%92/%E5%B8%8C%E6%9C%9B%E4%B9%8B%E7%87%88__2x2.png?v=0ab0bf55b5f977a3",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 3.0
     },
     {
       "id": "item_7889",
@@ -802,8 +1967,19 @@
       "kind": "furniture",
       "comfort": 23,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E9%9B%95%E5%83%8F%E5%85%AC%E5%9C%92/%E8%8F%B1%E5%BD%A2%E5%9C%92%E6%99%AF%E6%A8%B9__8x8.png?v=2fe19a02129c5e52",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.359375
     },
     {
       "id": "item_7890",
@@ -820,8 +1996,64 @@
         "x1": 0.83,
         "y1": 0.977525
       },
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E9%9B%95%E5%83%8F%E5%85%AC%E5%9C%92/%E9%95%B7%E5%BD%A2%E5%9C%92%E6%99%AF%E6%A8%B9__4x4.png?v=de3e7735b7e2f704",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "fenceConnections": {
+        "shape": "straight",
+        "path": [
+          [
+            0.5,
+            0
+          ],
+          [
+            0.5,
+            1
+          ]
+        ],
+        "mirroredPath": [
+          [
+            1,
+            0.5
+          ],
+          [
+            0,
+            0.5
+          ]
+        ],
+        "endpoints": [
+          [
+            0.5,
+            0
+          ],
+          [
+            0.5,
+            1
+          ]
+        ],
+        "mirroredEndpoints": [
+          [
+            1,
+            0.5
+          ],
+          [
+            0,
+            0.5
+          ]
+        ],
+        "coordinateSystem": "normalized footprint",
+        "joinRule": "endpoints only; no T-junction or crossing; courtyard must have an opening"
+      },
+      "comfortPerCell": 0.9375
     },
     {
       "id": "item_7891",
@@ -832,8 +2064,19 @@
       "kind": "floor",
       "comfort": 0,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E9%9B%95%E5%83%8F%E5%85%AC%E5%9C%92/%E5%A4%A7%E7%90%86%E7%9F%B3%E5%9C%B0%E7%A3%9A__4x4.png?v=b750da222fc78563",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.0
     },
     {
       "id": "item_7892",
@@ -844,9 +2087,38 @@
       "kind": "furniture",
       "comfort": 270,
       "isThemeBuilding": true,
+      "designHints": {
+        "facing": "S",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E8%98%91%E8%8F%87%E6%9D%91/%E9%9F%B3%E6%A8%82%E7%A5%AD__16x16.png?v=70841374271299b7",
       "needsStarFloor": false,
-      "defaultFacing": "S"
+      "defaultFacing": "S",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "mirrored": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 1.054688
     },
     {
       "id": "item_7893",
@@ -857,9 +2129,38 @@
       "kind": "furniture",
       "comfort": 35,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "W",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E8%98%91%E8%8F%87%E6%9D%91/%E8%98%91%E8%8F%87%E5%B1%8B__8x8.png?v=52a101a0ca9ed87c",
       "needsStarFloor": false,
-      "defaultFacing": "W"
+      "defaultFacing": "W",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "mirrored": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 0.546875
     },
     {
       "id": "item_7894",
@@ -870,8 +2171,19 @@
       "kind": "furniture",
       "comfort": 29,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E8%98%91%E8%8F%87%E6%9D%91/%E8%98%91%E8%8F%87%E6%8E%A8%E8%BB%8A__8x8.png?v=81767313211ba3a7",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.453125
     },
     {
       "id": "item_7895",
@@ -882,8 +2194,19 @@
       "kind": "furniture",
       "comfort": 18,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E8%98%91%E8%8F%87%E6%9D%91/%E6%8C%87%E8%B7%AF%E7%89%8C__4x4.png?v=42f829e26d655002",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 1.125
     },
     {
       "id": "item_7896",
@@ -894,9 +2217,38 @@
       "kind": "furniture",
       "comfort": 29,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "W",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E8%98%91%E8%8F%87%E6%9D%91/%E9%9E%A6%E9%9F%86__8x8.png?v=a4ed71ddc91d5e3b",
       "needsStarFloor": false,
-      "defaultFacing": "W"
+      "defaultFacing": "W",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "mirrored": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 0.453125
     },
     {
       "id": "item_7897",
@@ -907,8 +2259,19 @@
       "kind": "furniture",
       "comfort": 18,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E8%98%91%E8%8F%87%E6%9D%91/%E7%B1%83%E5%AD%90__4x4.png?v=ee1307b80fd70725",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 1.125
     },
     {
       "id": "item_7898",
@@ -925,8 +2288,64 @@
         "x1": 0.847,
         "y1": 0.974
       },
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E8%98%91%E8%8F%87%E6%9D%91/%E5%96%AE%E7%B9%A9%E5%9C%8D%E6%AC%84__4x4.png?v=21783ec74ae5ac0e",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "fenceConnections": {
+        "shape": "straight",
+        "path": [
+          [
+            0.5,
+            0
+          ],
+          [
+            0.5,
+            1
+          ]
+        ],
+        "mirroredPath": [
+          [
+            1,
+            0.5
+          ],
+          [
+            0,
+            0.5
+          ]
+        ],
+        "endpoints": [
+          [
+            0.5,
+            0
+          ],
+          [
+            0.5,
+            1
+          ]
+        ],
+        "mirroredEndpoints": [
+          [
+            1,
+            0.5
+          ],
+          [
+            0,
+            0.5
+          ]
+        ],
+        "coordinateSystem": "normalized footprint",
+        "joinRule": "endpoints only; no T-junction or crossing; courtyard must have an opening"
+      },
+      "comfortPerCell": 1.125
     },
     {
       "id": "item_7899",
@@ -937,8 +2356,19 @@
       "kind": "furniture",
       "comfort": 11,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E8%98%91%E8%8F%87%E6%9D%91/%E8%98%91%E8%8F%87%E8%B7%AF%E7%87%88__2x2.png?v=dcbf8b5de8feb918",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 2.75
     },
     {
       "id": "item_7900",
@@ -949,8 +2379,19 @@
       "kind": "furniture",
       "comfort": 80,
       "isThemeBuilding": true,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%8D%A1%E7%9A%AE%E5%B8%82%E9%9B%86/%E5%99%B4%E6%B3%89__16x16.png?v=3f6592cc212da986",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.3125
     },
     {
       "id": "item_7901",
@@ -961,9 +2402,38 @@
       "kind": "furniture",
       "comfort": 33,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "W",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%8D%A1%E7%9A%AE%E5%B8%82%E9%9B%86/%E9%AE%AE%E8%8A%B1%E5%9D%8A__16x16.png?v=3f084f58c3db94ae",
       "needsStarFloor": false,
-      "defaultFacing": "W"
+      "defaultFacing": "W",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "mirrored": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 0.128906
     },
     {
       "id": "item_7902",
@@ -974,9 +2444,38 @@
       "kind": "furniture",
       "comfort": 20,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "S",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%8D%A1%E7%9A%AE%E5%B8%82%E9%9B%86/%E7%B3%96%E6%9E%9C%E9%8B%AA__8x8.png?v=3b5c182171e71ef8",
       "needsStarFloor": false,
-      "defaultFacing": "S"
+      "defaultFacing": "S",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "mirrored": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 0.3125
     },
     {
       "id": "item_7903",
@@ -987,9 +2486,38 @@
       "kind": "furniture",
       "comfort": 20,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "W",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%8D%A1%E7%9A%AE%E5%B8%82%E9%9B%86/%E8%94%AC%E6%9E%9C%E6%94%A4__8x8.png?v=21e3d68c83d671ce",
       "needsStarFloor": false,
-      "defaultFacing": "W"
+      "defaultFacing": "W",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "mirrored": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 0.3125
     },
     {
       "id": "item_7904",
@@ -1000,9 +2528,38 @@
       "kind": "furniture",
       "comfort": 20,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "W",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%8D%A1%E7%9A%AE%E5%B8%82%E9%9B%86/%E8%82%89%E6%94%A4__8x8.png?v=67154d0956eb60ff",
       "needsStarFloor": false,
-      "defaultFacing": "W"
+      "defaultFacing": "W",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "mirrored": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 0.3125
     },
     {
       "id": "item_7905",
@@ -1013,9 +2570,38 @@
       "kind": "furniture",
       "comfort": 12,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "W",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%8D%A1%E7%9A%AE%E5%B8%82%E9%9B%86/%E6%A3%89%E8%8A%B1%E7%B3%96%E8%BB%8A__4x4.png?v=45d6dc5b119c8d67",
       "needsStarFloor": false,
-      "defaultFacing": "W"
+      "defaultFacing": "W",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "mirrored": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 0.75
     },
     {
       "id": "item_7906",
@@ -1026,9 +2612,38 @@
       "kind": "furniture",
       "comfort": 17,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "S",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%8D%A1%E7%9A%AE%E5%B8%82%E9%9B%86/%E9%9B%99%E4%BA%BA%E9%A4%90%E6%A1%8C__8x8.png?v=cea36a75b3b04e8f",
       "needsStarFloor": false,
-      "defaultFacing": "S"
+      "defaultFacing": "S",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "mirrored": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 0.265625
     },
     {
       "id": "item_7907",
@@ -1039,9 +2654,38 @@
       "kind": "furniture",
       "comfort": 10,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "S",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%8D%A1%E7%9A%AE%E5%B8%82%E9%9B%86/%E5%96%AE%E4%BA%BA%E9%A4%90%E6%A1%8C__4x4.png?v=6c088106139911dd",
       "needsStarFloor": false,
-      "defaultFacing": "S"
+      "defaultFacing": "S",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "mirrored": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 0.625
     },
     {
       "id": "item_7908",
@@ -1052,8 +2696,19 @@
       "kind": "furniture",
       "comfort": 10,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%8D%A1%E7%9A%AE%E5%B8%82%E9%9B%86/%E8%94%AC%E8%8F%9C%E6%A1%B6__4x4.png?v=213d07496d2bb4ae",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.625
     },
     {
       "id": "item_7909",
@@ -1064,8 +2719,19 @@
       "kind": "furniture",
       "comfort": 10,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%8D%A1%E7%9A%AE%E5%B8%82%E9%9B%86/%E6%A8%B9%E6%A8%81%E7%A0%A7%E6%9D%BF__4x4.png?v=0bdb283b1710c1ae",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.625
     },
     {
       "id": "item_7910",
@@ -1076,8 +2742,19 @@
       "kind": "furniture",
       "comfort": 10,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%8D%A1%E7%9A%AE%E5%B8%82%E9%9B%86/%E6%AA%B8%E6%AA%AC%E6%A1%B6__4x4.png?v=80d8b8706226e606",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.625
     },
     {
       "id": "item_7911",
@@ -1088,8 +2765,19 @@
       "kind": "furniture",
       "comfort": 10,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%8D%A1%E7%9A%AE%E5%B8%82%E9%9B%86/%E7%89%9B%E5%A5%B6%E8%BB%8A__4x4.png?v=300a844101049f63",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.625
     },
     {
       "id": "item_7912",
@@ -1100,9 +2788,38 @@
       "kind": "furniture",
       "comfort": 10,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "S",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%8D%A1%E7%9A%AE%E5%B8%82%E9%9B%86/%E9%95%B7%E6%A4%85__4x4.png?v=830c5f38beaae368",
       "needsStarFloor": false,
-      "defaultFacing": "S"
+      "defaultFacing": "S",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "mirrored": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 0.625
     },
     {
       "id": "item_7913",
@@ -1113,8 +2830,19 @@
       "kind": "floor",
       "comfort": 0,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%8D%A1%E7%9A%AE%E5%B8%82%E9%9B%86/%E5%8D%A1%E8%B7%AF%E9%87%8C%E5%9C%B0%E6%9D%BF__4x4.png?v=f5b434ccb3cd2da0",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.0
     },
     {
       "id": "item_7914",
@@ -1125,9 +2853,38 @@
       "kind": "furniture",
       "comfort": 270,
       "isThemeBuilding": true,
+      "designHints": {
+        "facing": "W",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E8%90%AC%E8%81%96%E7%AF%80/%E9%AC%BC%E5%B1%8B__16x16.png?v=2f48d8172c2fa9d9",
       "needsStarFloor": false,
-      "defaultFacing": "W"
+      "defaultFacing": "W",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "mirrored": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 1.054688
     },
     {
       "id": "item_7915",
@@ -1138,9 +2895,38 @@
       "kind": "furniture",
       "comfort": 35,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "S",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E8%90%AC%E8%81%96%E7%AF%80/%E9%90%98%E6%A8%93__8x8.png?v=0b1c19c0e061ad02",
       "needsStarFloor": false,
-      "defaultFacing": "S"
+      "defaultFacing": "S",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "mirrored": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 0.546875
     },
     {
       "id": "item_7916",
@@ -1151,9 +2937,38 @@
       "kind": "furniture",
       "comfort": 29,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "S",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E8%90%AC%E8%81%96%E7%AF%80/%E7%85%89%E8%97%A5%E5%9D%A9%E5%A0%9D__8x8.png?v=37cf9e3e9f228d1f",
       "needsStarFloor": false,
-      "defaultFacing": "S"
+      "defaultFacing": "S",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "mirrored": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 0.453125
     },
     {
       "id": "item_7917",
@@ -1164,8 +2979,19 @@
       "kind": "furniture",
       "comfort": 18,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E8%90%AC%E8%81%96%E7%AF%80/%E7%9F%B3%E7%A2%91__4x4.png?v=aae0511f3f21599f",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 1.125
     },
     {
       "id": "item_7918",
@@ -1182,8 +3008,64 @@
         "x1": 0.838,
         "y1": 0.975
       },
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E8%90%AC%E8%81%96%E7%AF%80/%E7%9F%B3%E5%9C%8D%E6%AC%84__4x4.png?v=2f5230e15b289106",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "fenceConnections": {
+        "shape": "straight",
+        "path": [
+          [
+            0.5,
+            0
+          ],
+          [
+            0.5,
+            1
+          ]
+        ],
+        "mirroredPath": [
+          [
+            1,
+            0.5
+          ],
+          [
+            0,
+            0.5
+          ]
+        ],
+        "endpoints": [
+          [
+            0.5,
+            0
+          ],
+          [
+            0.5,
+            1
+          ]
+        ],
+        "mirroredEndpoints": [
+          [
+            1,
+            0.5
+          ],
+          [
+            0,
+            0.5
+          ]
+        ],
+        "coordinateSystem": "normalized footprint",
+        "joinRule": "endpoints only; no T-junction or crossing; courtyard must have an opening"
+      },
+      "comfortPerCell": 1.8125
     },
     {
       "id": "item_7919",
@@ -1200,8 +3082,64 @@
         "x1": 0.87,
         "y1": 0.972
       },
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E8%90%AC%E8%81%96%E7%AF%80/%E6%9C%A8%E6%AC%84%E6%9D%86__4x4.png?v=39b3b438238bd32e",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "fenceConnections": {
+        "shape": "straight",
+        "path": [
+          [
+            0.5,
+            0
+          ],
+          [
+            0.5,
+            1
+          ]
+        ],
+        "mirroredPath": [
+          [
+            1,
+            0.5
+          ],
+          [
+            0,
+            0.5
+          ]
+        ],
+        "endpoints": [
+          [
+            0.5,
+            0
+          ],
+          [
+            0.5,
+            1
+          ]
+        ],
+        "mirroredEndpoints": [
+          [
+            1,
+            0.5
+          ],
+          [
+            0,
+            0.5
+          ]
+        ],
+        "coordinateSystem": "normalized footprint",
+        "joinRule": "endpoints only; no T-junction or crossing; courtyard must have an opening"
+      },
+      "comfortPerCell": 1.125
     },
     {
       "id": "item_7920",
@@ -1212,8 +3150,19 @@
       "kind": "furniture",
       "comfort": 18,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E8%90%AC%E8%81%96%E7%AF%80/%E5%8D%97%E7%93%9C%E7%87%88__2x2.png?v=0d37eedf37cd7ea0",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 4.5
     },
     {
       "id": "item_7921",
@@ -1224,8 +3173,19 @@
       "kind": "furniture",
       "comfort": 11,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E8%90%AC%E8%81%96%E7%AF%80/%E6%9E%AF%E6%A8%B9__4x4.png?v=13d2514317dbdb5a",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.6875
     },
     {
       "id": "item_7922",
@@ -1236,8 +3196,19 @@
       "kind": "furniture",
       "comfort": 11,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E8%90%AC%E8%81%96%E7%AF%80/%E9%AC%BC%E9%9D%A2%E6%9C%A8__4x4.png?v=6e145e2c48322f94",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.6875
     },
     {
       "id": "item_7923",
@@ -1248,8 +3219,19 @@
       "kind": "floor",
       "comfort": 0,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E8%90%AC%E8%81%96%E7%AF%80/%E5%B9%BD%E9%9D%88%E6%AD%A5%E9%81%93__4x4.png?v=fbc0edd99b776294",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.0
     },
     {
       "id": "item_7924",
@@ -1260,9 +3242,38 @@
       "kind": "furniture",
       "comfort": 290,
       "isThemeBuilding": true,
+      "designHints": {
+        "facing": "W",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E7%95%B0%E6%98%9F%E8%BF%B7%E8%88%AA/%E6%98%9F%E9%A0%82%E9%BB%83%E9%87%91%E5%B1%8B__16x16.png?v=400380073d65983c",
       "needsStarFloor": true,
-      "defaultFacing": "W"
+      "defaultFacing": "W",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "mirrored": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 1.132812
     },
     {
       "id": "item_7925",
@@ -1273,8 +3284,19 @@
       "kind": "furniture",
       "comfort": 37,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E7%95%B0%E6%98%9F%E8%BF%B7%E8%88%AA/%E6%98%9F%E8%88%AA%E5%84%80__8x8.png?v=9a421bdbd8426910",
-      "needsStarFloor": true
+      "needsStarFloor": true,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.578125
     },
     {
       "id": "item_7926",
@@ -1285,9 +3307,38 @@
       "kind": "furniture",
       "comfort": 31,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "W",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E7%95%B0%E6%98%9F%E8%BF%B7%E8%88%AA/%E6%98%9F%E6%B2%B3%E6%BB%91%E6%A2%AF__8x8.png?v=a7ffd16d601913a7",
       "needsStarFloor": true,
-      "defaultFacing": "W"
+      "defaultFacing": "W",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "mirrored": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 0.484375
     },
     {
       "id": "item_7927",
@@ -1298,8 +3349,19 @@
       "kind": "furniture",
       "comfort": 19,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E7%95%B0%E6%98%9F%E8%BF%B7%E8%88%AA/%E8%A7%80%E6%98%9F%E9%8F%A1__4x4.png?v=58b70cb71ab1f58c",
-      "needsStarFloor": true
+      "needsStarFloor": true,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 1.1875
     },
     {
       "id": "item_7928",
@@ -1310,8 +3372,19 @@
       "kind": "furniture",
       "comfort": 19,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E7%95%B0%E6%98%9F%E8%BF%B7%E8%88%AA/%E6%96%BD%E8%90%8A%E5%BE%B7%E6%B0%B4%E6%AF%8D__4x4.png?v=ea3d21fcf3cc88d3",
-      "needsStarFloor": true
+      "needsStarFloor": true,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 1.1875
     },
     {
       "id": "item_7929",
@@ -1322,8 +3395,19 @@
       "kind": "furniture",
       "comfort": 19,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E7%95%B0%E6%98%9F%E8%BF%B7%E8%88%AA/%E6%89%8E%E5%85%8B%E6%B0%B4%E6%AF%8D__4x4.png?v=4afe6c7719e474b0",
-      "needsStarFloor": true
+      "needsStarFloor": true,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 1.1875
     },
     {
       "id": "item_7930",
@@ -1334,8 +3418,19 @@
       "kind": "furniture",
       "comfort": 12,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E7%95%B0%E6%98%9F%E8%BF%B7%E8%88%AA/%E5%B7%B4%E5%A7%86%E6%99%B6%E9%AB%94__2x2.png?v=a635a6b31bf9a421",
-      "needsStarFloor": true
+      "needsStarFloor": true,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 3.0
     },
     {
       "id": "item_7931",
@@ -1346,8 +3441,19 @@
       "kind": "furniture",
       "comfort": 12,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E7%95%B0%E6%98%9F%E8%BF%B7%E8%88%AA/%E5%A5%A7%E8%90%8A%E6%99%B6%E9%AB%94__2x2.png?v=4c608f9a60e7299d",
-      "needsStarFloor": true
+      "needsStarFloor": true,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 3.0
     },
     {
       "id": "item_7932",
@@ -1358,8 +3464,19 @@
       "kind": "furniture",
       "comfort": 12,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E7%95%B0%E6%98%9F%E8%BF%B7%E8%88%AA/%E8%97%8D%E6%98%9F%E7%87%88__2x2.png?v=2607d08987b28538",
-      "needsStarFloor": true
+      "needsStarFloor": true,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 3.0
     },
     {
       "id": "item_7933",
@@ -1370,8 +3487,19 @@
       "kind": "furniture",
       "comfort": 15,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E7%95%B0%E6%98%9F%E8%BF%B7%E8%88%AA/%E5%8D%A1%E9%81%94%E7%88%BE%E8%8A%B1__4x4.png?v=b2ab418c642a048b",
-      "needsStarFloor": true
+      "needsStarFloor": true,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.9375
     },
     {
       "id": "item_7934",
@@ -1382,8 +3510,19 @@
       "kind": "furniture",
       "comfort": 9,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E7%95%B0%E6%98%9F%E8%BF%B7%E8%88%AA/%E8%AB%BE%E4%BC%8A%E7%88%BE%E8%8D%89__2x2.png?v=39b73ae8c3c0ebc9",
-      "needsStarFloor": true
+      "needsStarFloor": true,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 2.25
     },
     {
       "id": "item_7935",
@@ -1394,8 +3533,19 @@
       "kind": "furniture",
       "comfort": 9,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E7%95%B0%E6%98%9F%E8%BF%B7%E8%88%AA/%E5%B8%83%E7%91%AA%E8%8D%89__2x2.png?v=4700a268469b7a05",
-      "needsStarFloor": true
+      "needsStarFloor": true,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 2.25
     },
     {
       "id": "item_7936",
@@ -1406,8 +3556,19 @@
       "kind": "floor",
       "comfort": 0,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E7%95%B0%E6%98%9F%E8%BF%B7%E8%88%AA/%E6%9C%A8%E6%98%9F%E7%A3%9A__4x4.png?v=833d15b4d6924de7",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.0
     },
     {
       "id": "item_7937",
@@ -1418,8 +3579,19 @@
       "kind": "floor",
       "comfort": 40,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E7%95%B0%E6%98%9F%E8%BF%B7%E8%88%AA/%E6%98%9F%E7%A9%BA%E7%AA%97__4x4.png?v=0c1af6bf62bbb990",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.0
     },
     {
       "id": "item_7938",
@@ -1430,8 +3602,19 @@
       "kind": "furniture",
       "comfort": 290,
       "isThemeBuilding": true,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%A4%A2%E5%B9%BB%E9%9B%AA%E5%9C%92/%E5%A5%87%E8%B6%A3%E9%9B%AA%E6%9D%BE__16x16.png?v=3bfb437d608f92ab",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 1.132812
     },
     {
       "id": "item_7939",
@@ -1442,9 +3625,38 @@
       "kind": "furniture",
       "comfort": 51,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "W",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%A4%A2%E5%B9%BB%E9%9B%AA%E5%9C%92/%E9%9B%AA%E5%B1%8B__16x16.png?v=014992e3f0b7eaea",
       "needsStarFloor": false,
-      "defaultFacing": "W"
+      "defaultFacing": "W",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "mirrored": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 0.199219
     },
     {
       "id": "item_7940",
@@ -1455,9 +3667,38 @@
       "kind": "furniture",
       "comfort": 75,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "W",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%A4%A2%E5%B9%BB%E9%9B%AA%E5%9C%92/%E7%85%A7%E7%9B%B8%E6%A9%9F__8x8.png?v=1318514acdd9b744",
       "needsStarFloor": false,
-      "defaultFacing": "W"
+      "defaultFacing": "W",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "mirrored": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 1.171875
     },
     {
       "id": "item_7941",
@@ -1468,8 +3709,19 @@
       "kind": "furniture",
       "comfort": 31,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%A4%A2%E5%B9%BB%E9%9B%AA%E5%9C%92/%E9%9B%AA%E6%A9%87__8x8.png?v=d3b9648535bfb83f",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.484375
     },
     {
       "id": "item_7942",
@@ -1480,8 +3732,19 @@
       "kind": "furniture",
       "comfort": 19,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%A4%A2%E5%B9%BB%E9%9B%AA%E5%9C%92/%E9%A4%85%E4%B9%BE%E9%B9%BF__4x4.png?v=c13bd3b5fba95bc9",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 1.1875
     },
     {
       "id": "item_7943",
@@ -1492,8 +3755,19 @@
       "kind": "furniture",
       "comfort": 19,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%A4%A2%E5%B9%BB%E9%9B%AA%E5%9C%92/%E7%A6%AE%E7%89%A9%E5%A0%86__4x4.png?v=2b262baadfcad042",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 1.1875
     },
     {
       "id": "item_7944",
@@ -1504,8 +3778,19 @@
       "kind": "furniture",
       "comfort": 46,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%A4%A2%E5%B9%BB%E9%9B%AA%E5%9C%92/%E7%A6%AE%E7%89%A9%E6%A1%8C%E5%AD%90__4x4.png?v=6504224f706faf17",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 2.875
     },
     {
       "id": "item_7945",
@@ -1516,9 +3801,38 @@
       "kind": "furniture",
       "comfort": 19,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "W",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%A4%A2%E5%B9%BB%E9%9B%AA%E5%9C%92/%E7%B4%85%E8%89%B2%E9%95%B7%E6%A4%85__4x4.png?v=544088be3eabb2ca",
       "needsStarFloor": false,
-      "defaultFacing": "W"
+      "defaultFacing": "W",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "mirrored": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 1.1875
     },
     {
       "id": "item_7946",
@@ -1535,8 +3849,64 @@
         "x1": 0.84,
         "y1": 0.59
       },
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%A4%A2%E5%B9%BB%E9%9B%AA%E5%9C%92/%E9%9B%AA%E5%9C%8D%E6%AC%84__4x4.png?v=385be08bebc2233d",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "fenceConnections": {
+        "shape": "straight",
+        "path": [
+          [
+            0,
+            0.5
+          ],
+          [
+            1,
+            0.5
+          ]
+        ],
+        "mirroredPath": [
+          [
+            0.5,
+            1
+          ],
+          [
+            0.5,
+            0
+          ]
+        ],
+        "endpoints": [
+          [
+            0,
+            0.5
+          ],
+          [
+            1,
+            0.5
+          ]
+        ],
+        "mirroredEndpoints": [
+          [
+            0.5,
+            1
+          ],
+          [
+            0.5,
+            0
+          ]
+        ],
+        "coordinateSystem": "normalized footprint",
+        "joinRule": "endpoints only; no T-junction or crossing; courtyard must have an opening"
+      },
+      "comfortPerCell": 1.1875
     },
     {
       "id": "item_7947",
@@ -1547,8 +3917,19 @@
       "kind": "furniture",
       "comfort": 12,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%A4%A2%E5%B9%BB%E9%9B%AA%E5%9C%92/%E7%91%9E%E9%9B%AA%E8%B7%AF%E7%87%88__2x2.png?v=1f37f2f0afc3e8b1",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 3.0
     },
     {
       "id": "item_7948",
@@ -1559,8 +3940,19 @@
       "kind": "furniture",
       "comfort": 12,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%A4%A2%E5%B9%BB%E9%9B%AA%E5%9C%92/%E9%83%B5%E7%AE%B1__2x2.png?v=52b1afe07ade9d18",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 3.0
     },
     {
       "id": "item_7949",
@@ -1571,8 +3963,19 @@
       "kind": "furniture",
       "comfort": 19,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%A4%A2%E5%B9%BB%E9%9B%AA%E5%9C%92/%E5%BD%A9%E7%87%88%E6%9D%BE%E6%A8%B9__4x4.png?v=10ce4a69f3f524a8",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 1.1875
     },
     {
       "id": "item_7950",
@@ -1583,8 +3986,19 @@
       "kind": "furniture",
       "comfort": 12,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%A4%A2%E5%B9%BB%E9%9B%AA%E5%9C%92/%E7%91%9E%E9%9B%AA%E8%8A%B1%E5%8F%A2__4x4.png?v=1026b02019f92033",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.75
     },
     {
       "id": "item_7951",
@@ -1595,8 +4009,19 @@
       "kind": "floor",
       "comfort": 20,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%A4%A2%E5%B9%BB%E9%9B%AA%E5%9C%92/%E9%9B%AA%E8%B7%AF__4x4.png?v=39a0e8e4606f046d",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.0
     },
     {
       "id": "item_7952",
@@ -1607,8 +4032,19 @@
       "kind": "floor",
       "comfort": 20,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%A4%A2%E5%B9%BB%E9%9B%AA%E5%9C%92/%E9%9B%AA%E5%9C%B0__4x4.png?v=77e4e98d9be6eacd",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.0
     },
     {
       "id": "item_7953",
@@ -1619,8 +4055,19 @@
       "kind": "furniture",
       "comfort": 290,
       "isThemeBuilding": true,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/2026%E5%8D%88%E9%A6%AC%E6%96%B0%E6%AD%B2/%E9%9B%AA%E8%88%9E%E9%BE%8D%E9%A8%B0__16x16.png?v=d52135571eb25f0f",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 1.132812
     },
     {
       "id": "item_7954",
@@ -1631,8 +4078,19 @@
       "kind": "furniture",
       "comfort": 100,
       "isThemeBuilding": true,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/2026%E5%8D%88%E9%A6%AC%E6%96%B0%E6%AD%B2/%E7%91%9E%E9%A6%AC%E8%BF%8E%E6%98%A5__8x8.png?v=44cb97430b40e174",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 1.5625
     },
     {
       "id": "item_7955",
@@ -1643,9 +4101,38 @@
       "kind": "furniture",
       "comfort": 37,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "S",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/2026%E5%8D%88%E9%A6%AC%E6%96%B0%E6%AD%B2/%E5%9C%9F%E5%9C%B0%E5%BB%9F__8x8.png?v=a35ed9a947830204",
       "needsStarFloor": false,
-      "defaultFacing": "S"
+      "defaultFacing": "S",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "mirrored": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 0.578125
     },
     {
       "id": "item_7956",
@@ -1656,8 +4143,19 @@
       "kind": "furniture",
       "comfort": 37,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/2026%E5%8D%88%E9%A6%AC%E6%96%B0%E6%AD%B2/%E8%A8%B1%E9%A1%98%E6%A8%B9__8x8.png?v=05fc9fa225b844de",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.578125
     },
     {
       "id": "item_7957",
@@ -1668,9 +4166,38 @@
       "kind": "furniture",
       "comfort": 37,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "W",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/2026%E5%8D%88%E9%A6%AC%E6%96%B0%E6%AD%B2/%E7%93%B7%E5%99%A8%E6%94%A4__8x8.png?v=9099280ee8a77849",
       "needsStarFloor": false,
-      "defaultFacing": "W"
+      "defaultFacing": "W",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "mirrored": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 0.578125
     },
     {
       "id": "item_7958",
@@ -1681,9 +4208,38 @@
       "kind": "furniture",
       "comfort": 37,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "W",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/2026%E5%8D%88%E9%A6%AC%E6%96%B0%E6%AD%B2/%E6%98%A5%E8%81%AF%E6%94%A4__8x8.png?v=744baa58b44a0636",
       "needsStarFloor": false,
-      "defaultFacing": "W"
+      "defaultFacing": "W",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "mirrored": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 0.578125
     },
     {
       "id": "item_7959",
@@ -1694,9 +4250,38 @@
       "kind": "furniture",
       "comfort": 37,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "W",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/2026%E5%8D%88%E9%A6%AC%E6%96%B0%E6%AD%B2/%E9%9E%AD%E7%82%AE%E6%94%A4__8x8.png?v=8342440fe9d9e31c",
       "needsStarFloor": false,
-      "defaultFacing": "W"
+      "defaultFacing": "W",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "mirrored": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 0.578125
     },
     {
       "id": "item_7960",
@@ -1707,9 +4292,38 @@
       "kind": "furniture",
       "comfort": 37,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "W",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/2026%E5%8D%88%E9%A6%AC%E6%96%B0%E6%AD%B2/%E5%8C%85%E5%AD%90%E6%94%A4__8x8.png?v=de57059780286ac6",
       "needsStarFloor": false,
-      "defaultFacing": "W"
+      "defaultFacing": "W",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "mirrored": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 0.578125
     },
     {
       "id": "item_7961",
@@ -1720,9 +4334,38 @@
       "kind": "furniture",
       "comfort": 31,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "W",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/2026%E5%8D%88%E9%A6%AC%E6%96%B0%E6%AD%B2/%E5%A5%BD%E8%B1%9A%E8%8A%B1%E7%94%9F__8x8.png?v=c7e0c03cc3bd9ce7",
       "needsStarFloor": false,
-      "defaultFacing": "W"
+      "defaultFacing": "W",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "mirrored": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 0.484375
     },
     {
       "id": "item_7962",
@@ -1733,8 +4376,19 @@
       "kind": "furniture",
       "comfort": 19,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/2026%E5%8D%88%E9%A6%AC%E6%96%B0%E6%AD%B2/%E5%A4%A9%E5%AE%AE%E8%B3%9C%E7%A6%8F__4x4.png?v=1afb007c530512eb",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 1.1875
     },
     {
       "id": "item_7963",
@@ -1745,9 +4399,38 @@
       "kind": "furniture",
       "comfort": 31,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "W",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/2026%E5%8D%88%E9%A6%AC%E6%96%B0%E6%AD%B2/%E5%A6%82%E6%84%8F%E7%87%88%E7%89%8C__8x8.png?v=4ac78afc34b9ac95",
       "needsStarFloor": false,
-      "defaultFacing": "W"
+      "defaultFacing": "W",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "mirrored": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 0.484375
     },
     {
       "id": "item_7964",
@@ -1764,8 +4447,64 @@
         "x1": 0.862298195631529,
         "y1": 0.95562435500516
       },
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/2026%E5%8D%88%E9%A6%AC%E6%96%B0%E6%AD%B2/%E7%91%9E%E9%9B%AA%E5%9C%8D%E6%AC%84__4x4.png?v=bb2f22358c9d4354",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "fenceConnections": {
+        "shape": "straight",
+        "path": [
+          [
+            0.5,
+            0
+          ],
+          [
+            0.5,
+            1
+          ]
+        ],
+        "mirroredPath": [
+          [
+            1,
+            0.5
+          ],
+          [
+            0,
+            0.5
+          ]
+        ],
+        "endpoints": [
+          [
+            0.5,
+            0
+          ],
+          [
+            0.5,
+            1
+          ]
+        ],
+        "mirroredEndpoints": [
+          [
+            1,
+            0.5
+          ],
+          [
+            0,
+            0.5
+          ]
+        ],
+        "coordinateSystem": "normalized footprint",
+        "joinRule": "endpoints only; no T-junction or crossing; courtyard must have an opening"
+      },
+      "comfortPerCell": 1.1875
     },
     {
       "id": "item_7965",
@@ -1776,8 +4515,19 @@
       "kind": "furniture",
       "comfort": 12,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/2026%E5%8D%88%E9%A6%AC%E6%96%B0%E6%AD%B2/%E5%B9%B3%E5%AE%89%E7%87%88__2x2.png?v=fc281eb1f094026d",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 3.0
     },
     {
       "id": "item_7966",
@@ -1788,8 +4538,19 @@
       "kind": "floor",
       "comfort": 0,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/2026%E5%8D%88%E9%A6%AC%E6%96%B0%E6%AD%B2/%E9%9D%92%E7%A3%9A__4x4.png?v=1c996a3457be04f5",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.0
     },
     {
       "id": "item_7967",
@@ -1800,8 +4561,19 @@
       "kind": "floor",
       "comfort": 0,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/2026%E5%8D%88%E9%A6%AC%E6%96%B0%E6%AD%B2/%E8%B1%90%E5%B9%B4%E8%B7%AF__4x4.png?v=8c5f6e7ab0744f12",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.0
     },
     {
       "id": "item_7968",
@@ -1812,8 +4584,19 @@
       "kind": "floor",
       "comfort": 0,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/2026%E5%8D%88%E9%A6%AC%E6%96%B0%E6%AD%B2/%E7%91%9E%E9%9B%AA%E5%9C%B0__4x4.png?v=d6b2db81c9a77c20",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.0
     },
     {
       "id": "item_7969",
@@ -1825,8 +4608,19 @@
       "comfort": 200,
       "isThemeBuilding": true,
       "requiresWater": true,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%A4%A7%E4%BA%A8%E8%97%8F%E5%93%81/%E9%99%BD%E5%85%89%E5%8D%A1%E7%9A%AE%E8%99%9F__24x24.png?v=613595429eafd70d",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.347222
     },
     {
       "id": "item_7970",
@@ -1838,8 +4632,19 @@
       "comfort": 100,
       "isThemeBuilding": true,
       "requiresWater": true,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%A4%A7%E4%BA%A8%E8%97%8F%E5%93%81/%E8%B1%9A%E8%B1%9A%E8%99%9F__16x16.png?v=9ed2e0f49b65f455",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.390625
     },
     {
       "id": "item_7971",
@@ -1851,8 +4656,19 @@
       "comfort": 100,
       "isThemeBuilding": true,
       "requiresWater": true,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%A4%A7%E4%BA%A8%E8%97%8F%E5%93%81/%E5%B9%BD%E9%9D%88%E8%99%9F__16x16.png?v=a00d870233d91d5b",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.390625
     },
     {
       "id": "item_7972",
@@ -1863,9 +4679,38 @@
       "kind": "furniture",
       "comfort": 290,
       "isThemeBuilding": true,
+      "designHints": {
+        "facing": "S",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%A4%8F%E6%97%A5%E6%B5%B7%E7%81%98/%E5%A4%8F%E6%97%A5%E6%BB%91%E6%BB%91%E6%A8%82__16x16.png?v=2728ad6d68c08962",
       "needsStarFloor": false,
-      "defaultFacing": "S"
+      "defaultFacing": "S",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "mirrored": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 1.132812
     },
     {
       "id": "item_7973",
@@ -1876,9 +4721,38 @@
       "kind": "furniture",
       "comfort": 37,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "S",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%A4%8F%E6%97%A5%E6%B5%B7%E7%81%98/%E9%BB%83%E9%87%91%E5%9F%8E%E5%A0%A1__8x8.png?v=3c940f8c2d7e04df",
       "needsStarFloor": false,
-      "defaultFacing": "S"
+      "defaultFacing": "S",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "mirrored": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 0.578125
     },
     {
       "id": "item_7974",
@@ -1889,8 +4763,19 @@
       "kind": "furniture",
       "comfort": 31,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%A4%8F%E6%97%A5%E6%B5%B7%E7%81%98/%E6%B8%85%E6%B6%BC%E6%B1%A0__8x8.png?v=4b87af02c280e0a0",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.484375
     },
     {
       "id": "item_7975",
@@ -1901,8 +4786,19 @@
       "kind": "furniture",
       "comfort": 31,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%A4%8F%E6%97%A5%E6%B5%B7%E7%81%98/%E6%B0%B4%E6%9E%9C%E5%B0%8F%E8%88%B9__8x8.png?v=24c29fc61cc30fa5",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.484375
     },
     {
       "id": "item_7976",
@@ -1913,9 +4809,38 @@
       "kind": "furniture",
       "comfort": 31,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "W",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%A4%8F%E6%97%A5%E6%B5%B7%E7%81%98/%E8%A1%9D%E6%B5%AA%E6%9D%BF%E6%9E%B6__8x8.png?v=1cffab592cbcfb43",
       "needsStarFloor": false,
-      "defaultFacing": "W"
+      "defaultFacing": "W",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "mirrored": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 0.484375
     },
     {
       "id": "item_7977",
@@ -1926,9 +4851,38 @@
       "kind": "furniture",
       "comfort": 31,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "W",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%A4%8F%E6%97%A5%E6%B5%B7%E7%81%98/%E6%B5%B7%E7%81%98%E8%B7%AF%E7%89%8C__8x8.png?v=d2ac3fdbb220955b",
       "needsStarFloor": false,
-      "defaultFacing": "W"
+      "defaultFacing": "W",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "mirrored": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 0.484375
     },
     {
       "id": "item_7978",
@@ -1939,8 +4893,19 @@
       "kind": "furniture",
       "comfort": 19,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%A4%8F%E6%97%A5%E6%B5%B7%E7%81%98/%E9%BB%83%E9%87%91%E9%9B%AA%E4%BA%BA__4x4.png?v=cb4fa2e5c5869ba8",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 1.1875
     },
     {
       "id": "item_7979",
@@ -1951,8 +4916,19 @@
       "kind": "furniture",
       "comfort": 19,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%A4%8F%E6%97%A5%E6%B5%B7%E7%81%98/%E6%82%A0%E9%96%92%E6%B2%99%E7%81%98%E5%A2%8A__4x4.png?v=0c1b86646cfbcfa9",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 1.1875
     },
     {
       "id": "item_7980",
@@ -1963,8 +4939,19 @@
       "kind": "furniture",
       "comfort": 12,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%A4%8F%E6%97%A5%E6%B5%B7%E7%81%98/%E6%B2%99%E7%81%98%E6%8B%96%E9%9E%8B__2x2.png?v=4c235ffe0aa1fcb2",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 3.0
     },
     {
       "id": "item_7981",
@@ -1975,8 +4962,19 @@
       "kind": "furniture",
       "comfort": 15,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%A4%8F%E6%97%A5%E6%B5%B7%E7%81%98/%E9%9B%99%E7%94%9F%E6%A4%B0%E5%AD%90%E6%A8%B9__4x4.png?v=dbf94f6264668592",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.9375
     },
     {
       "id": "item_7982",
@@ -1987,8 +4985,19 @@
       "kind": "furniture",
       "comfort": 15,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%A4%8F%E6%97%A5%E6%B5%B7%E7%81%98/%E6%A4%B0%E5%AD%90%E6%A8%B9__4x4.png?v=a3b58531d4b19dd1",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.9375
     },
     {
       "id": "item_7983",
@@ -1999,8 +5008,19 @@
       "kind": "floor",
       "comfort": 0,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E5%A4%8F%E6%97%A5%E6%B5%B7%E7%81%98/%E6%B2%99%E7%81%98__4x4.png?v=534560c168597e4a",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.0
     },
     {
       "id": "reward_8055",
@@ -2011,8 +5031,19 @@
       "kind": "furniture",
       "comfort": 10,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E6%B4%BB%E5%8B%95%E9%99%90%E6%99%82%E5%BB%BA%E7%AF%89/%E6%8B%9B%E8%B2%A1%E9%80%B2%E5%AF%B6%E6%A8%B9__8x8.png?v=cd7f2bc76e146fcd",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.15625
     },
     {
       "id": "reward_8056",
@@ -2024,9 +5055,38 @@
       "comfort": null,
       "isThemeBuilding": false,
       "exclusiveGroup": "聖杯排行獎勵",
+      "designHints": {
+        "facing": "W",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E8%81%96%E6%9D%AF%E6%8E%92%E8%A1%8C%E7%8D%8E%E5%8B%B5/%E7%B5%95%E4%BB%A3%E9%9B%99%E9%A9%95%E6%AE%BF__16x16.png?v=003afe13348062e2",
       "needsStarFloor": false,
-      "defaultFacing": "W"
+      "defaultFacing": "W",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "mirrored": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": null
     },
     {
       "id": "reward_8057",
@@ -2038,8 +5098,19 @@
       "comfort": null,
       "isThemeBuilding": false,
       "exclusiveGroup": "聖杯排行獎勵",
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E8%81%96%E6%9D%AF%E6%8E%92%E8%A1%8C%E7%8D%8E%E5%8B%B5/%E8%8B%B1%E6%AD%A6%E9%9B%99%E9%9B%84%E8%87%BA__16x16.png?v=2764c561b34a54e3",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": null
     },
     {
       "id": "reward_8058",
@@ -2051,8 +5122,19 @@
       "comfort": null,
       "isThemeBuilding": false,
       "exclusiveGroup": "聖杯排行獎勵",
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E8%81%96%E6%9D%AF%E6%8E%92%E8%A1%8C%E7%8D%8E%E5%8B%B5/%E9%9D%9E%E5%87%A1%E9%9B%99%E5%82%91%E5%BA%A7__16x16.png?v=447b5a7443f4c620",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": null
     },
     {
       "id": "reward_8059",
@@ -2064,9 +5146,38 @@
       "comfort": null,
       "isThemeBuilding": false,
       "exclusiveGroup": "武道排行獎勵",
+      "designHints": {
+        "facing": "W",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E6%AD%A6%E9%81%93%E6%8E%92%E8%A1%8C%E7%8D%8E%E5%8B%B5/%E5%A4%A9%E4%B8%8B%E7%AC%AC%E4%B8%80__8x8.png?v=6c5560185d2683d5",
       "needsStarFloor": false,
-      "defaultFacing": "W"
+      "defaultFacing": "W",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "mirrored": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": null
     },
     {
       "id": "reward_8060",
@@ -2078,8 +5189,19 @@
       "comfort": null,
       "isThemeBuilding": false,
       "exclusiveGroup": "武道排行獎勵",
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E6%AD%A6%E9%81%93%E6%8E%92%E8%A1%8C%E7%8D%8E%E5%8B%B5/%E5%A4%A9%E4%B8%8B%E7%AC%AC%E4%BA%8C__8x8.png?v=0e2c810a0cdd0722",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": null
     },
     {
       "id": "reward_8061",
@@ -2091,8 +5213,19 @@
       "comfort": null,
       "isThemeBuilding": false,
       "exclusiveGroup": "武道排行獎勵",
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E6%AD%A6%E9%81%93%E6%8E%92%E8%A1%8C%E7%8D%8E%E5%8B%B5/%E5%A4%A9%E4%B8%8B%E7%AC%AC%E4%B8%89__8x8.png?v=9258ce540dc4bb59",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": null
     },
     {
       "id": "reward_8062",
@@ -2104,9 +5237,38 @@
       "comfort": null,
       "isThemeBuilding": false,
       "exclusiveGroup": "爭霸排行獎勵",
+      "designHints": {
+        "facing": "W",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E7%88%AD%E9%9C%B8%E6%8E%92%E8%A1%8C%E7%8D%8E%E5%8B%B5/%E6%98%9F%E4%B9%8B%E7%8E%8B%E5%BA%A7__16x16.png?v=cf3df928ecec805a",
       "needsStarFloor": false,
-      "defaultFacing": "W"
+      "defaultFacing": "W",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "mirrored": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": null
     },
     {
       "id": "reward_8063",
@@ -2118,8 +5280,19 @@
       "comfort": null,
       "isThemeBuilding": false,
       "exclusiveGroup": "爭霸排行獎勵",
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E7%88%AD%E9%9C%B8%E6%8E%92%E8%A1%8C%E7%8D%8E%E5%8B%B5/%E9%87%91%E4%B9%8B%E7%8E%8B%E5%BA%A7__16x16.png?v=95669ce5042bf016",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": null
     },
     {
       "id": "reward_8064",
@@ -2131,8 +5304,19 @@
       "comfort": null,
       "isThemeBuilding": false,
       "exclusiveGroup": "爭霸排行獎勵",
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E7%88%AD%E9%9C%B8%E6%8E%92%E8%A1%8C%E7%8D%8E%E5%8B%B5/%E9%8B%BC%E4%B9%8B%E7%8E%8B%E5%BA%A7__16x16.png?v=5f5892e86523168a",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": null
     },
     {
       "id": "item_64431",
@@ -2143,9 +5327,38 @@
       "kind": "furniture",
       "comfort": 290,
       "isThemeBuilding": true,
+      "designHints": {
+        "facing": "W",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/2026%E6%95%B4%E8%A0%B1%E7%AF%80/%E5%B0%8F%E4%B8%91%E5%B8%B3%E7%AF%B7__16x16.png?v=da8f2f7a01f7f35e",
       "needsStarFloor": false,
-      "defaultFacing": "W"
+      "defaultFacing": "W",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "mirrored": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 1.132812
     },
     {
       "id": "item_64430",
@@ -2156,9 +5369,38 @@
       "kind": "furniture",
       "comfort": 230,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "S",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/2026%E6%95%B4%E8%A0%B1%E7%AF%80/%E8%88%9E%E5%8F%B0__8x8.png?v=1dfea50ee957b8dd",
       "needsStarFloor": false,
-      "defaultFacing": "S"
+      "defaultFacing": "S",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "mirrored": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 3.59375
     },
     {
       "id": "item_64429",
@@ -2169,9 +5411,38 @@
       "kind": "furniture",
       "comfort": 230,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "W",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/2026%E6%95%B4%E8%A0%B1%E7%AF%80/%E6%9D%BE%E9%A4%85%E5%B1%8B__8x8.png?v=0ff3bd486e6a140e",
       "needsStarFloor": false,
-      "defaultFacing": "W"
+      "defaultFacing": "W",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "mirrored": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 3.59375
     },
     {
       "id": "item_64428",
@@ -2182,8 +5453,19 @@
       "kind": "furniture",
       "comfort": 190,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/2026%E6%95%B4%E8%A0%B1%E7%AF%80/%E5%8D%A1%E7%9A%AE%E5%99%B4%E6%B3%89__8x8.png?v=5f1b13038b4c601b",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 2.96875
     },
     {
       "id": "item_64427",
@@ -2194,8 +5476,19 @@
       "kind": "furniture",
       "comfort": 190,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/2026%E6%95%B4%E8%A0%B1%E7%AF%80/%E5%BD%A9%E8%8A%B1%E7%82%AE__8x8.png?v=90eebb1b5942b05d",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 2.96875
     },
     {
       "id": "item_64426",
@@ -2206,8 +5499,19 @@
       "kind": "furniture",
       "comfort": 190,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/2026%E6%95%B4%E8%A0%B1%E7%AF%80/%E5%B0%8F%E4%B8%91%E7%A6%AE%E7%9B%92__8x8.png?v=eef1d5c2436a6d36",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 2.96875
     },
     {
       "id": "item_64425",
@@ -2218,8 +5522,19 @@
       "kind": "furniture",
       "comfort": 120,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/2026%E6%95%B4%E8%A0%B1%E7%AF%80/%E5%8D%A1%E7%9A%AE%E7%9B%92%E5%AD%90__4x4.png?v=894ceee7c3e66408",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 7.5
     },
     {
       "id": "item_64424",
@@ -2230,8 +5545,19 @@
       "kind": "furniture",
       "comfort": 75,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/2026%E6%95%B4%E8%A0%B1%E7%AF%80/%E9%A6%99%E8%95%89%E7%9A%AE__2x2.png?v=c92e91c2f0c316c0",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 18.75
     },
     {
       "id": "item_64423",
@@ -2242,9 +5568,38 @@
       "kind": "furniture",
       "comfort": 290,
       "isThemeBuilding": true,
+      "designHints": {
+        "facing": "S",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/Pingu%E8%81%AF%E5%8B%95/Pingu%E4%B9%8B%E5%AE%B6__16x16.png?v=8449c7c9369c6331",
       "needsStarFloor": false,
-      "defaultFacing": "S"
+      "defaultFacing": "S",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "mirrored": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 1.132812
     },
     {
       "id": "item_64422",
@@ -2255,8 +5610,19 @@
       "kind": "furniture",
       "comfort": 31,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/Pingu%E8%81%AF%E5%8B%95/Noot%20Noot__8x8.png?v=e45bad0a609f1e7b",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.484375
     },
     {
       "id": "item_64421",
@@ -2267,8 +5633,19 @@
       "kind": "furniture",
       "comfort": 31,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/Pingu%E8%81%AF%E5%8B%95/%E7%B5%95%E4%B8%8D%E7%A9%BA%E8%BB%8D__8x8.png?v=bc228becc8e1750e",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.484375
     },
     {
       "id": "item_64420",
@@ -2279,9 +5656,38 @@
       "kind": "furniture",
       "comfort": 31,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "W",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/Pingu%E8%81%AF%E5%8B%95/%E9%9B%AA%E5%9C%B0%E5%8D%A1%E4%B8%81%E8%BB%8A__8x8.png?v=495502708c859bee",
       "needsStarFloor": false,
-      "defaultFacing": "W"
+      "defaultFacing": "W",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "mirrored": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 0.484375
     },
     {
       "id": "item_64419",
@@ -2292,8 +5698,19 @@
       "kind": "furniture",
       "comfort": 19,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/Pingu%E8%81%AF%E5%8B%95/%E9%9B%AA%E4%BA%BA__4x4.png?v=4c407a91ae5ed5ee",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 1.1875
     },
     {
       "id": "item_64418",
@@ -2310,8 +5727,64 @@
         "x1": 0.84,
         "y1": 0.98
       },
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/Pingu%E8%81%AF%E5%8B%95/%E9%9B%AA%E5%9C%8D%E6%AC%84__4x4.png?v=4e37b04eb16262e2",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "fenceConnections": {
+        "shape": "straight",
+        "path": [
+          [
+            0.5,
+            0
+          ],
+          [
+            0.5,
+            1
+          ]
+        ],
+        "mirroredPath": [
+          [
+            1,
+            0.5
+          ],
+          [
+            0,
+            0.5
+          ]
+        ],
+        "endpoints": [
+          [
+            0.5,
+            0
+          ],
+          [
+            0.5,
+            1
+          ]
+        ],
+        "mirroredEndpoints": [
+          [
+            1,
+            0.5
+          ],
+          [
+            0,
+            0.5
+          ]
+        ],
+        "coordinateSystem": "normalized footprint",
+        "joinRule": "endpoints only; no T-junction or crossing; courtyard must have an opening"
+      },
+      "comfortPerCell": 1.1875
     },
     {
       "id": "item_64417",
@@ -2322,8 +5795,19 @@
       "kind": "floor",
       "comfort": 0,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/Pingu%E8%81%AF%E5%8B%95/%E9%9B%AA%E8%B7%AF__4x4.png?v=39a0e8e4606f046d",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.0
     },
     {
       "id": "item_64416",
@@ -2334,8 +5818,19 @@
       "kind": "floor",
       "comfort": 0,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/Pingu%E8%81%AF%E5%8B%95/%E9%9B%AA%E5%9C%B0__4x4.png?v=77e4e98d9be6eacd",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.0
     },
     {
       "id": "item_64415",
@@ -2346,8 +5841,19 @@
       "kind": "furniture",
       "comfort": 290,
       "isThemeBuilding": true,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/2026%E7%B2%BD%E5%AD%90%E7%AF%80/%E9%BE%8D%E8%88%9F__16x16.png?v=c23612e2d0f10ea5",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 1.132812
     },
     {
       "id": "item_64414",
@@ -2358,9 +5864,38 @@
       "kind": "furniture",
       "comfort": 37,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "S",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/2026%E7%B2%BD%E5%AD%90%E7%AF%80/%E7%B2%BD%E9%A6%99%E4%BA%AD__8x8.png?v=a9214e36985476ff",
       "needsStarFloor": false,
-      "defaultFacing": "S"
+      "defaultFacing": "S",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "mirrored": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 0.578125
     },
     {
       "id": "item_64413",
@@ -2371,8 +5906,19 @@
       "kind": "furniture",
       "comfort": 31,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/2026%E7%B2%BD%E5%AD%90%E7%AF%80/%E6%B0%B4%E6%B1%A0__8x8.png?v=2d3e5e3b7f68dc95",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.484375
     },
     {
       "id": "item_64412",
@@ -2383,9 +5929,38 @@
       "kind": "furniture",
       "comfort": 31,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "S",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/2026%E7%B2%BD%E5%AD%90%E7%AF%80/%E6%A3%8B%E6%A1%8C__8x8.png?v=188cc2785f42edb6",
       "needsStarFloor": false,
-      "defaultFacing": "S"
+      "defaultFacing": "S",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "mirrored": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 0.484375
     },
     {
       "id": "item_64411",
@@ -2396,8 +5971,19 @@
       "kind": "furniture",
       "comfort": 31,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/2026%E7%B2%BD%E5%AD%90%E7%AF%80/%E8%8D%B7%E5%A1%98__8x8.png?v=d6dbe20fa221c7c5",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.484375
     },
     {
       "id": "item_64410",
@@ -2408,8 +5994,19 @@
       "kind": "furniture",
       "comfort": 19,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/2026%E7%B2%BD%E5%AD%90%E7%AF%80/%E7%9F%B3%E9%9A%8E__4x4.png?v=826f2d1da036774b",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 1.1875
     },
     {
       "id": "item_64409",
@@ -2420,8 +6017,19 @@
       "kind": "furniture",
       "comfort": 15,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/2026%E7%B2%BD%E5%AD%90%E7%AF%80/%E8%89%BE%E9%A6%99%E6%A8%B9__4x4.png?v=9a584b982c7ef08b",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.9375
     },
     {
       "id": "item_64407",
@@ -2432,9 +6040,38 @@
       "kind": "furniture",
       "comfort": 290,
       "isThemeBuilding": true,
+      "designHints": {
+        "facing": "S",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E8%8A%B1%E5%A5%BD%E6%9C%88%E5%9C%93/%E6%94%AC%E6%9C%88%E6%A8%93__16x16.png?v=621996d18a14f8aa",
       "needsStarFloor": false,
-      "defaultFacing": "S"
+      "defaultFacing": "S",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "mirrored": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 1.132812
     },
     {
       "id": "item_64406",
@@ -2445,8 +6082,19 @@
       "kind": "furniture",
       "comfort": 37,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E8%8A%B1%E5%A5%BD%E6%9C%88%E5%9C%93/%E6%9C%88%E7%A5%9E%E7%A5%A0__8x8.png?v=d76335e47618fdbb",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.578125
     },
     {
       "id": "item_64405",
@@ -2457,9 +6105,38 @@
       "kind": "furniture",
       "comfort": 37,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "W",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E8%8A%B1%E5%A5%BD%E6%9C%88%E5%9C%93/%E9%82%80%E6%9C%88%E4%BA%AD__8x8.png?v=b4262c87d622f611",
       "needsStarFloor": false,
-      "defaultFacing": "W"
+      "defaultFacing": "W",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "mirrored": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 0.578125
     },
     {
       "id": "item_64404",
@@ -2470,8 +6147,19 @@
       "kind": "furniture",
       "comfort": 31,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E8%8A%B1%E5%A5%BD%E6%9C%88%E5%9C%93/%E8%9F%BE%E5%AE%AE%E4%BB%99%E5%B1%B1__8x8.png?v=61481db67ccb1c1c",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.484375
     },
     {
       "id": "item_64403",
@@ -2482,8 +6170,19 @@
       "kind": "furniture",
       "comfort": 31,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E8%8A%B1%E5%A5%BD%E6%9C%88%E5%9C%93/%E6%98%A0%E6%9C%88%E6%A9%8B__8x8.png?v=110360453dcea603",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.484375
     },
     {
       "id": "item_64402",
@@ -2494,8 +6193,19 @@
       "kind": "furniture",
       "comfort": 31,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E8%8A%B1%E5%A5%BD%E6%9C%88%E5%9C%93/%E8%8A%B1%E7%87%88%E6%9C%83__8x8.png?v=7f2d5710b8aca4bc",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 0.484375
     },
     {
       "id": "item_64401",
@@ -2506,9 +6216,38 @@
       "kind": "furniture",
       "comfort": 31,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "W",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E8%8A%B1%E5%A5%BD%E6%9C%88%E5%9C%93/%E5%80%99%E6%9C%88%E9%96%80__8x8.png?v=dfc9bcf7195e1046",
       "needsStarFloor": false,
-      "defaultFacing": "W"
+      "defaultFacing": "W",
+      "facingConfirmed": false,
+      "entrance": {
+        "original": {
+          "facing": "W",
+          "point": [
+            0,
+            0.5
+          ]
+        },
+        "mirrored": {
+          "facing": "S",
+          "point": [
+            0.5,
+            1
+          ]
+        },
+        "width": 4,
+        "clearance": 4,
+        "confirmed": false
+      },
+      "comfortPerCell": 0.484375
     },
     {
       "id": "item_64400",
@@ -2519,8 +6258,19 @@
       "kind": "furniture",
       "comfort": 19,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E8%8A%B1%E5%A5%BD%E6%9C%88%E5%9C%93/%E6%9C%9B%E6%9C%88%E7%9F%B3__4x4.png?v=5c1683f454570869",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 1.1875
     },
     {
       "id": "item_64399",
@@ -2531,8 +6281,19 @@
       "kind": "furniture",
       "comfort": 9,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E8%8A%B1%E5%A5%BD%E6%9C%88%E5%9C%93/%E6%9C%88%E8%A6%8B%E8%8A%B1__2x2.png?v=80a196d3c54e06ba",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 2.25
     },
     {
       "id": "item_64398",
@@ -2543,8 +6304,19 @@
       "kind": "furniture",
       "comfort": 9,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E8%8A%B1%E5%A5%BD%E6%9C%88%E5%9C%93/%E7%A7%8B%E9%9C%B2%E9%87%91%E8%8F%8A__2x2.png?v=f15be4ebb5bf2690",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 2.25
     },
     {
       "id": "item_64397",
@@ -2555,8 +6327,19 @@
       "kind": "furniture",
       "comfort": 9,
       "isThemeBuilding": false,
+      "designHints": {
+        "facing": "unknown",
+        "confirmed": false,
+        "doorOffset": 0.5,
+        "doorWidth": 4,
+        "clearance": 4,
+        "notes": ""
+      },
       "image": "../%E5%AE%B6%E5%85%B7%E7%B4%A0%E6%9D%90/%E8%8A%B1%E5%A5%BD%E6%9C%88%E5%9C%93/%E9%8C%A6%E7%B9%A1%E7%89%A1%E4%B8%B9__2x2.png?v=2e6f34398915a711",
-      "needsStarFloor": false
+      "needsStarFloor": false,
+      "defaultFacing": "unknown",
+      "facingConfirmed": false,
+      "comfortPerCell": 2.25
     }
   ]
 }
