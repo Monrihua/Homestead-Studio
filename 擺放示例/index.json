@@ -1,0 +1,14 @@
+{
+  "format": "homestead-examples",
+  "version": 1,
+  "files": [
+    {
+      "name": "二十二主題生活家園",
+      "file": "二十二主題生活家園.json"
+    },
+    {
+      "name": "十八主題生活家園",
+      "file": "十八主題生活家園.json"
+    }
+  ]
+}
