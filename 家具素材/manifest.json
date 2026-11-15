@@ -55,7 +55,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "6beb71866f169566c23463a0190100f83f262630fd8976458c96b71507d26d22",
+      "sourceHash": "a927b162b9a579d0cf13e8053b30c236557c728221f7e5229fe02d2b8dcb9fa3",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -90,7 +90,14 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "compatibleSourceHashes": [
+        "6beb71866f169566c23463a0190100f83f262630fd8976458c96b71507d26d22"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
       "id": "birdhouse",
@@ -160,7 +167,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "98da5ebd8823e17fe42e3204d2850e2a56cada50e60d6b3c9c05d1a2228c340a",
+      "sourceHash": "730ed95d052ffdce3961eaba39f66feca1079ca371c3a9f8d338f816e268a085",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -195,7 +202,14 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "compatibleSourceHashes": [
+        "98da5ebd8823e17fe42e3204d2850e2a56cada50e60d6b3c9c05d1a2228c340a"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
       "id": "stump",
@@ -265,7 +279,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "9c83a5456fe5a85bd54500f20248c55e7c80870f68a29ffb91dfb5b04bca4156",
+      "sourceHash": "dde5312345ae10637a9424e3d52548add98d02c5fdd5fa853529fd7f8ab5323a",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -300,7 +314,14 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "compatibleSourceHashes": [
+        "9c83a5456fe5a85bd54500f20248c55e7c80870f68a29ffb91dfb5b04bca4156"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
       "id": "grill",
@@ -382,7 +403,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "290d6a0cc4dfab2d97222855e6cfa25c685afdb59012c8be2ed7b58f09f56408",
+      "sourceHash": "1cb6169d1158b189188ef1668e7c8eb3d52044241cfcfc0420c6a1bfd33ae543",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -417,7 +438,14 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "compatibleSourceHashes": [
+        "290d6a0cc4dfab2d97222855e6cfa25c685afdb59012c8be2ed7b58f09f56408"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
       "id": "fire",
@@ -491,7 +519,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "6427f47f214a55f8515aa79e760a98acaff15016bfa3172ca95a03bedf6d11b1",
+      "sourceHash": "b5e3aa263f57546e3734dfa5872a7493ac8d8479e394fde89d215825314690cd",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -526,7 +554,14 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "compatibleSourceHashes": [
+        "6427f47f214a55f8515aa79e760a98acaff15016bfa3172ca95a03bedf6d11b1"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
       "id": "pot",
@@ -600,7 +635,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "893d48497616965410f68915201eb600f142b2906baca1bf1c839b95860e2617",
+      "sourceHash": "524b9b581c1289ce45a8e67bf1e67883f71a0e1d5ce6f2982d1bfe457d3fa6c2",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -635,7 +670,14 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "compatibleSourceHashes": [
+        "893d48497616965410f68915201eb600f142b2906baca1bf1c839b95860e2617"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
       "id": "stool",
@@ -709,7 +751,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "8d290f03f95b50434d774925b278610aca1a538f7161fe27be7d6d8506c3cfac",
+      "sourceHash": "016fe40137ab8dc9b9104a9ebbd03102efc2ee64d2b1dfdee8f9b32a15ddae66",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -744,7 +786,14 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "compatibleSourceHashes": [
+        "8d290f03f95b50434d774925b278610aca1a538f7161fe27be7d6d8506c3cfac"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
       "id": "windmill",
@@ -810,7 +859,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "dcca0d578c937a928a28b1901da0903e05fa721c6f8af3691cac36e380aab0f2",
+      "sourceHash": "1057c2a6dfb8fc95920beb8f9e54f60b6003cd10ed9766301b9363cf9fcc13f4",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -845,7 +894,14 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "compatibleSourceHashes": [
+        "dcca0d578c937a928a28b1901da0903e05fa721c6f8af3691cac36e380aab0f2"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
       "id": "pocket_house",
@@ -919,7 +975,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "085203ca139a515bdefde92aba2a1b5548d69b8fa7fc6be87884a1a6ef7d65ca",
+      "sourceHash": "b22041e77992b80d9a3e042cc4424e171e348721c7ee4a0fb5fbfadeb0fd86fa",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -954,7 +1010,14 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "compatibleSourceHashes": [
+        "085203ca139a515bdefde92aba2a1b5548d69b8fa7fc6be87884a1a6ef7d65ca"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
       "id": "kiln",
@@ -1024,7 +1087,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "d8b9eff46ed87f5a9f000afacbc272e8c2cd0f906978b2d7eb863d9167a23b61",
+      "sourceHash": "128fc1698843d2f8f50f004030ae4798054aadf5392b0dbc757f14478bce2038",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -1059,7 +1122,14 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "compatibleSourceHashes": [
+        "d8b9eff46ed87f5a9f000afacbc272e8c2cd0f906978b2d7eb863d9167a23b61"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
       "id": "chicken_coop",
@@ -1113,7 +1183,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "fd1f825993193f0fb2d8c36b486e6dc97fc9e523442199cf8d03501f8e8207da",
+      "sourceHash": "bbd08ce3553b3080c3c4d0d44c828daa05d2a051d8020f3c9d4154e370541783",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -1148,7 +1218,14 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "compatibleSourceHashes": [
+        "fd1f825993193f0fb2d8c36b486e6dc97fc9e523442199cf8d03501f8e8207da"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
       "id": "cow_pen",
@@ -1202,7 +1279,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "5a480481fd0d0871d94888778ef2ff9192a9d65aba63782e6b2b8ce7adcc59a2",
+      "sourceHash": "d68a29d98c0f98c3110c51c4f44a7d0c2ecdcf7e14f3348c6059278fc4b02f2e",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -1237,7 +1314,14 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "compatibleSourceHashes": [
+        "5a480481fd0d0871d94888778ef2ff9192a9d65aba63782e6b2b8ce7adcc59a2"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
       "id": "rice_field",
@@ -1291,7 +1375,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "745d801e90512c7a9ddd608811cc433549e56b8e581a1827c8572664bb9314e6",
+      "sourceHash": "a0646a717878faa71ddd8e19b0891435dafa45aa711f6cf298a26f250ef64dbe",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -1326,7 +1410,14 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "compatibleSourceHashes": [
+        "745d801e90512c7a9ddd608811cc433549e56b8e581a1827c8572664bb9314e6"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
       "id": "wood_fence",
@@ -1368,7 +1459,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "fdc4ece56362c2782da1fbc25dfa8e5298a7d0c5cac3287a6a20bcb00541abde",
+      "sourceHash": "cbd604075a95d3eb27b19a3515d6b04f47360571031e8ef37d20998e066167cd",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -1382,8 +1473,8 @@
         "mirroredPixelHash": "fe3f8f3ad01289feedca25b32aaf59b158261c25298fa46f49ed14b307b91d6d"
       },
       "designHints": {
-        "facing": "unknown",
-        "confirmed": false,
+        "facing": "none",
+        "confirmed": true,
         "doorOffset": 0.5,
         "doorWidth": 4,
         "clearance": 4,
@@ -1415,7 +1506,14 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "compatibleSourceHashes": [
+        "fdc4ece56362c2782da1fbc25dfa8e5298a7d0c5cac3287a6a20bcb00541abde"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
       "id": "grass_tile",
@@ -1467,7 +1565,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "5573425deb152fa9eb26ddf7ca8162f9f4cbf183a0671d85617075b402f21c3c",
+      "sourceHash": "0c6422c2246c4b8920e3b7bc394a76da2e3a522a69fc2f74e924cba5887d9aba",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -1519,7 +1617,14 @@
       "wall": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "compatibleSourceHashes": [
+        "5573425deb152fa9eb26ddf7ca8162f9f4cbf183a0671d85617075b402f21c3c"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
       "id": "path_tile",
@@ -1578,7 +1683,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "4a657205ef7b14638810f131972db38063ab1164005498eedf856d2e32a81704",
+      "sourceHash": "3eb88b64ff6fcf18ede2ca72fa10fe61ce7241d90da23147877bd53fbd50da0d",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -1630,7 +1735,14 @@
       "wall": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "compatibleSourceHashes": [
+        "4a657205ef7b14638810f131972db38063ab1164005498eedf856d2e32a81704"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
       "id": "water_tile",
@@ -1689,7 +1801,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "c675592c3d2e0263de422d24130370e0f487be123d5cc2f813c5e108cfd4a0aa",
+      "sourceHash": "74f7106398b37743d5ec4f9405ce737b6497f14a161caaa2decd130ae07a962c",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -1741,7 +1853,14 @@
       "wall": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "compatibleSourceHashes": [
+        "c675592c3d2e0263de422d24130370e0f487be123d5cc2f813c5e108cfd4a0aa"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
       "id": "hotpot",
@@ -1795,7 +1914,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "cdee72d6c76d82fb8ddb414f597a96fdb317dcc873decd83305ccc331f2a194e",
+      "sourceHash": "799ccf118bfefd1e5c42bf5bdb1bde4471631d2ce3ed242d99c5768e11a87ef0",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -1830,7 +1949,14 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "compatibleSourceHashes": [
+        "cdee72d6c76d82fb8ddb414f597a96fdb317dcc873decd83305ccc331f2a194e"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
       "id": "jade_wall",
@@ -1926,7 +2052,7 @@
         "w": 1254,
         "h": 1254
       },
-      "sourceHash": "46215c960e09a22ac446723098a8d6694b4f47e6994f873d8acb16f5dc429dda",
+      "sourceHash": "b50ed2aff7746fc17f5a25f87e7f2349cfe6871917748ccf6cccf63a7a6a2dd6",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -1940,8 +2066,8 @@
         "mirroredPixelHash": "fac72969a7025168be7d3402c75dea47980dc1ef2d7628799d5f8e330d139e67"
       },
       "designHints": {
-        "facing": "unknown",
-        "confirmed": false,
+        "facing": "none",
+        "confirmed": true,
         "doorOffset": 0.5,
         "doorWidth": 4,
         "clearance": 4,
@@ -1960,7 +2086,14 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "compatibleSourceHashes": [
+        "46215c960e09a22ac446723098a8d6694b4f47e6994f873d8acb16f5dc429dda"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
       "id": "jade_gate",
@@ -2022,7 +2155,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "7121eb8ff8a312fab90377b1abed7faf8ffe88218a968cc6d85ed5963acf5fc5",
+      "sourceHash": "8abb0fab674b83dcca749703efe7e217a18bae78657493377bc7d97380ee5945",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -2057,7 +2190,14 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "compatibleSourceHashes": [
+        "7121eb8ff8a312fab90377b1abed7faf8ffe88218a968cc6d85ed5963acf5fc5"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
       "id": "jade_wall_up",
@@ -2161,7 +2301,7 @@
         "w": 1254,
         "h": 1254
       },
-      "sourceHash": "0c6bff6a9a981c48c7652453fd8d81652856c2264a997442cc0a7e0f00c5c02d",
+      "sourceHash": "d332905f53cb962d72d4f7cbc9dcb43b82c89992493e6a6fd31fe181a795b98c",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -2175,8 +2315,8 @@
         "mirroredPixelHash": "73782bb47588dc4948df887a20985056416d6a8ea3de840cf6dbd277e75b006e"
       },
       "designHints": {
-        "facing": "unknown",
-        "confirmed": false,
+        "facing": "none",
+        "confirmed": true,
         "doorOffset": 0.5,
         "doorWidth": 4,
         "clearance": 4,
@@ -2195,7 +2335,14 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "compatibleSourceHashes": [
+        "0c6bff6a9a981c48c7652453fd8d81652856c2264a997442cc0a7e0f00c5c02d"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
       "id": "jade_wall_down",
@@ -2299,7 +2446,7 @@
         "w": 1254,
         "h": 1254
       },
-      "sourceHash": "ba3dfe539077e94688919cefa18f3379820bfa98db5d46128693a179f035628b",
+      "sourceHash": "015a4a4a1f762cc85c125f9ae2808c9a4cde3c2f846471b508c2d5a69d89331b",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -2313,8 +2460,8 @@
         "mirroredPixelHash": "e729a533f4907aa9082c39959a5219d18bf9cdee823d57d00acd41bac303164f"
       },
       "designHints": {
-        "facing": "unknown",
-        "confirmed": false,
+        "facing": "none",
+        "confirmed": true,
         "doorOffset": 0.5,
         "doorWidth": 4,
         "clearance": 4,
@@ -2333,7 +2480,14 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "compatibleSourceHashes": [
+        "ba3dfe539077e94688919cefa18f3379820bfa98db5d46128693a179f035628b"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
       "id": "jade_wall_side",
@@ -2437,7 +2591,7 @@
         "w": 1254,
         "h": 1254
       },
-      "sourceHash": "183082de0fcc3f4c338116ef482fd9f277089d72a542538eafc07864f5e090c2",
+      "sourceHash": "f5d785de26269f60a62e2e348437744c8613c79659ae2585827c51da392131bf",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -2451,8 +2605,8 @@
         "mirroredPixelHash": "f4ed597e108c88682b657e07afc073339d6ed11655ffc7ccf0cac2c1545ce77b"
       },
       "designHints": {
-        "facing": "unknown",
-        "confirmed": false,
+        "facing": "none",
+        "confirmed": true,
         "doorOffset": 0.5,
         "doorWidth": 4,
         "clearance": 4,
@@ -2471,7 +2625,14 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "compatibleSourceHashes": [
+        "183082de0fcc3f4c338116ef482fd9f277089d72a542538eafc07864f5e090c2"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
       "id": "reunion_gift",
@@ -2541,7 +2702,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "bbac5625445ee462f78cd423506b69ef2fe999a9d7f8b7a2013623073d7a8524",
+      "sourceHash": "48910225d924774f07600e4dcf4a956ae43ef37002c2fc7fb0b38940376de6e8",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -2576,7 +2737,14 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "compatibleSourceHashes": [
+        "bbac5625445ee462f78cd423506b69ef2fe999a9d7f8b7a2013623073d7a8524"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
       "id": "firework_cart",
@@ -2642,7 +2810,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "04a1f2f5c5aed4d582a72337bcdd0c05f339817e4fd66cf67da1ab7e8f376ad0",
+      "sourceHash": "b6943ecc37cb45de5002a826d45e454350d938dbb042e0520901c9e7e2f9833d",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -2677,7 +2845,14 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "compatibleSourceHashes": [
+        "04a1f2f5c5aed4d582a72337bcdd0c05f339817e4fd66cf67da1ab7e8f376ad0"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
       "id": "cushion",
@@ -2739,7 +2914,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "cc2c52df528bfe0e8b81d1dc45c542b7dd1fba9cedd6082fa83ce23ad0f8e882",
+      "sourceHash": "22d5b05e1b111d5470f981a87f2575c87584ed6abfb1584593fe969c63f0a3f0",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -2774,7 +2949,14 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "compatibleSourceHashes": [
+        "cc2c52df528bfe0e8b81d1dc45c542b7dd1fba9cedd6082fa83ce23ad0f8e882"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
       "id": "gold_ingots",
@@ -2849,7 +3031,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "a33e09669887a06497c3b75da114c67aeb1f5e9ca1712d39d0c6a34d80b312f0",
+      "sourceHash": "59d3a39602c69f1b924ffbf72c75e82914e42210502ed4a688ca5ea2d084632f",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -2883,7 +3065,14 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "compatibleSourceHashes": [
+        "a33e09669887a06497c3b75da114c67aeb1f5e9ca1712d39d0c6a34d80b312f0"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
       "id": "firecrackers",
@@ -2954,7 +3143,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "d0af4e7baf32df977011b3f99603b81e1be274598742e26cab7536b651ce9622",
+      "sourceHash": "d267d250f5fc665e6c5ffb5eb8b7e03d942607f2db1fce0384f6a459f051c315",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -2988,7 +3177,14 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "compatibleSourceHashes": [
+        "d0af4e7baf32df977011b3f99603b81e1be274598742e26cab7536b651ce9622"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
       "id": "antique_tile",
@@ -3059,7 +3255,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "3e33b991b414b8fc701105c7d046720f01a246c3c474d4b9dc93c89cd3d14a71",
+      "sourceHash": "5a3f3e895a8cda5ecfd7b9f2f58f04786315a312901ed4b0fba4a3a1ed137330",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -3093,10 +3289,17 @@
       "wall": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "compatibleSourceHashes": [
+        "3e33b991b414b8fc701105c7d046720f01a246c3c474d4b9dc93c89cd3d14a71"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7854",
+      "id": "鹹魚翻身_卡皮溫泉",
       "name": "卡皮溫泉",
       "w": 16,
       "d": 16,
@@ -3168,7 +3371,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "9975631627a72b967785d85063034d26b1505764a0cbed99b13502a0354610c5",
+      "sourceHash": "f1b70a672194a58242ef9e6777caac16bb040aad1240481750ac5b9258179e46",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -3202,10 +3405,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7854"
+      ],
+      "compatibleSourceHashes": [
+        "9975631627a72b967785d85063034d26b1505764a0cbed99b13502a0354610c5"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7855",
+      "id": "鹹魚翻身_竹搖椅",
       "name": "竹搖椅",
       "w": 4,
       "d": 4,
@@ -3265,7 +3478,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "44213d3d4483b0549198de106b0b2f8462e4ca8f53a680868ae063dda68f13ad",
+      "sourceHash": "e398acf198011f2266a3e791a6a5c58d569c75c5ff9a57b7a656619b81981b0e",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -3299,10 +3512,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7855"
+      ],
+      "compatibleSourceHashes": [
+        "44213d3d4483b0549198de106b0b2f8462e4ca8f53a680868ae063dda68f13ad"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7856",
+      "id": "鹹魚翻身_圍爐煮茶",
       "name": "圍爐煮茶",
       "w": 4,
       "d": 4,
@@ -3402,7 +3625,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "b98d8c199bdc28ba12298cc02c5b046466f626d2ece5e55449d02ed4e2c36a95",
+      "sourceHash": "d511992bc753efb64e8e3e92d907c3e5772ab2defb0c4f838332cc8f520b4e00",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -3436,10 +3659,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7856"
+      ],
+      "compatibleSourceHashes": [
+        "b98d8c199bdc28ba12298cc02c5b046466f626d2ece5e55449d02ed4e2c36a95"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7857",
+      "id": "鹹魚翻身_青苔石燈",
       "name": "青苔石燈",
       "w": 2,
       "d": 2,
@@ -3491,7 +3724,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "5fa1ecd2947f74fc7b561be13d8bfee7d1990e6d7d6a2d1e5b03d6f04180247a",
+      "sourceHash": "9053f7ef5a0af4c53a1e8d9491419901f6e1f684a5fbed514f9417bd5c175e12",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -3525,10 +3758,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7857"
+      ],
+      "compatibleSourceHashes": [
+        "5fa1ecd2947f74fc7b561be13d8bfee7d1990e6d7d6a2d1e5b03d6f04180247a"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7858",
+      "id": "鹹魚翻身_翠竹",
       "name": "翠竹",
       "w": 4,
       "d": 4,
@@ -3596,7 +3839,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "8c22f05c66d381bc7a09d6fa3aff5535ccbb1e9c77e645ae70794c34453ca787",
+      "sourceHash": "43d1be41c128b2dcdd720a36d2e0affa3a850a7b29eab2bbc6e9cd92f0a24e84",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -3630,10 +3873,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7858"
+      ],
+      "compatibleSourceHashes": [
+        "8c22f05c66d381bc7a09d6fa3aff5535ccbb1e9c77e645ae70794c34453ca787"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7859",
+      "id": "鹹魚翻身_暖木地板",
       "name": "暖木地板",
       "w": 4,
       "d": 4,
@@ -3711,7 +3964,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "96df7aac91f0e49d4611e7a2883f12c36843c3ff83e3fc8cc7137aa33e03924c",
+      "sourceHash": "1cf3e9bedf34181c934ebed7ba3493210452413899ba556912276a7ea9f7c4c4",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -3745,10 +3998,20 @@
       "wall": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7859"
+      ],
+      "compatibleSourceHashes": [
+        "96df7aac91f0e49d4611e7a2883f12c36843c3ff83e3fc8cc7137aa33e03924c"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7871",
+      "id": "葱鬱森林_米奇樹",
       "name": "米奇樹",
       "w": 4,
       "d": 4,
@@ -3848,7 +4111,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "cb9b7ebc73c8f5c3da682b98a87877335613e1ac6cede510b3d6fb8c094d8291",
+      "sourceHash": "47c145c9e9c651926ab5767b7ce605c1c9fb4659baa78c969e4e4ee33ec5e733",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -3882,10 +4145,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7871"
+      ],
+      "compatibleSourceHashes": [
+        "cb9b7ebc73c8f5c3da682b98a87877335613e1ac6cede510b3d6fb8c094d8291"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7872",
+      "id": "葱鬱森林_綠塔樹",
       "name": "綠塔樹",
       "w": 4,
       "d": 4,
@@ -3985,7 +4258,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "4e7905c9a3b313abbeac8d9f84f8b8f1f7e8336aa2d10e5c99ec36be5853abce",
+      "sourceHash": "b99cf128a076118214828965579f8f66682136b95a4fe741b19eda182425c9cc",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -4019,10 +4292,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7872"
+      ],
+      "compatibleSourceHashes": [
+        "4e7905c9a3b313abbeac8d9f84f8b8f1f7e8336aa2d10e5c99ec36be5853abce"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7873",
+      "id": "葱鬱森林_闊葉樹",
       "name": "闊葉樹",
       "w": 4,
       "d": 4,
@@ -4122,7 +4405,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "36a9962b43c209d9bafb1e28fc0eaf81c6b23b0f3c19c46bcef05ce431113832",
+      "sourceHash": "7ce25d6d5153b5c7f7075c4382e86fec5b0e30ceeaf5d416a315ad28c8adf81b",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -4156,10 +4439,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7873"
+      ],
+      "compatibleSourceHashes": [
+        "36a9962b43c209d9bafb1e28fc0eaf81c6b23b0f3c19c46bcef05ce431113832"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7874",
+      "id": "葱鬱森林_雙生松樹",
       "name": "雙生松樹",
       "w": 4,
       "d": 4,
@@ -4259,7 +4552,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "5171fa9188a9283656a9a21bc3b5b1336e2be0f716de1ec4eeb237c19ba3b122",
+      "sourceHash": "b9b7d60246cf03784999d6849c70e6ef502aafecf73c955b028efb100b0ce6ae",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -4293,10 +4586,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7874"
+      ],
+      "compatibleSourceHashes": [
+        "5171fa9188a9283656a9a21bc3b5b1336e2be0f716de1ec4eeb237c19ba3b122"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7875",
+      "id": "葱鬱森林_多生松樹",
       "name": "多生松樹",
       "w": 4,
       "d": 4,
@@ -4396,7 +4699,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "89d23e1bc287f403bd3072d32df2acf5098575c01fecee97189184a49efff524",
+      "sourceHash": "41da4ba4f9a55e9f8e9ce690aadc8ae64f6c8754af239dcf1b84c6817744377c",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -4430,10 +4733,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7875"
+      ],
+      "compatibleSourceHashes": [
+        "89d23e1bc287f403bd3072d32df2acf5098575c01fecee97189184a49efff524"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7876",
+      "id": "葱鬱森林_椰子樹",
       "name": "椰子樹",
       "w": 4,
       "d": 4,
@@ -4533,7 +4846,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "9d2b43a9b3882b113bb8328824b25ace295e8dd5d25dc1366f08b363f9116aeb",
+      "sourceHash": "f564676d2f7201907023dde46bd2e00914707c6de9267557cec2038d734ea4b9",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -4567,10 +4880,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7876"
+      ],
+      "compatibleSourceHashes": [
+        "9d2b43a9b3882b113bb8328824b25ace295e8dd5d25dc1366f08b363f9116aeb"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7877",
+      "id": "葱鬱森林_花圃",
       "name": "花圃",
       "w": 4,
       "d": 4,
@@ -4622,7 +4945,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "b0dee908abe890cdc5290198942b289e6c46f0aa7333c25349e3d3f54b6571e4",
+      "sourceHash": "845231648134b1511a62971fffa03628376bdb6e807ffb013d59202402819abc",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -4656,10 +4979,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7877"
+      ],
+      "compatibleSourceHashes": [
+        "b0dee908abe890cdc5290198942b289e6c46f0aa7333c25349e3d3f54b6571e4"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7878",
+      "id": "雕像公園_卡皮勇者雕像",
       "name": "卡皮勇者雕像",
       "w": 16,
       "d": 16,
@@ -4711,7 +5044,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "1d6e693e310767912476c93ab7b95c4e6eac70dcc1a93d586dc44d69505fb2c5",
+      "sourceHash": "75a3ca5404e1c3302604160efb331e124e8d94356d078f83ed1e792fe2aa7864",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -4745,10 +5078,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7878"
+      ],
+      "compatibleSourceHashes": [
+        "1d6e693e310767912476c93ab7b95c4e6eac70dcc1a93d586dc44d69505fb2c5"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7879",
+      "id": "雕像公園_加加林雕像",
       "name": "加加林雕像",
       "w": 8,
       "d": 8,
@@ -4801,7 +5144,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "f1986d6f34acee2bceded354e6b2b6b001c5d248e10eb74ab380e2f2c44e0abe",
+      "sourceHash": "b1a85a50fb0702deccd6a9c02dce49fc41a27a3b88e12ceeae3fb12f333a1374",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -4834,10 +5177,20 @@
       "alignmentScale": 1,
       "wall": null,
       "floorSurface": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7879"
+      ],
+      "compatibleSourceHashes": [
+        "f1986d6f34acee2bceded354e6b2b6b001c5d248e10eb74ab380e2f2c44e0abe"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7880",
+      "id": "雕像公園_孫悟空雕像",
       "name": "孫悟空雕像",
       "w": 8,
       "d": 8,
@@ -4890,7 +5243,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "90fac4a9786f15595f4aa73a90d18aa97cf0a719289ac06d4c367da6a556fee6",
+      "sourceHash": "b3b3c203b9e841fa0954a221d5353305e29376b49617d816e36134ada9a8794a",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -4923,10 +5276,20 @@
       "alignmentScale": 1,
       "wall": null,
       "floorSurface": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7880"
+      ],
+      "compatibleSourceHashes": [
+        "90fac4a9786f15595f4aa73a90d18aa97cf0a719289ac06d4c367da6a556fee6"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7881",
+      "id": "雕像公園_小龍女雕像",
       "name": "小龍女雕像",
       "w": 8,
       "d": 8,
@@ -4979,7 +5342,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "1c4d956054a36b111dd6dee2c14e3d22b99f9c90f1a1dd26f48e96e355a8b621",
+      "sourceHash": "7eb6a338b5b8201d6ca03a41d493c223fb4313a2a5eb32e88e2f35c71a6d09b0",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -5012,10 +5375,20 @@
       "alignmentScale": 1,
       "wall": null,
       "floorSurface": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7881"
+      ],
+      "compatibleSourceHashes": [
+        "1c4d956054a36b111dd6dee2c14e3d22b99f9c90f1a1dd26f48e96e355a8b621"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7882",
+      "id": "雕像公園_熊貓大俠雕像",
       "name": "熊貓大俠雕像",
       "w": 8,
       "d": 8,
@@ -5068,7 +5441,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "fcf4a165017a14c42e5f8c704b6ef2024516f56f2011227437e2ed2eae4348dc",
+      "sourceHash": "faeb59ae1ad0d57e9707a672a5f23925cc04c929d3f4cd93b7e74a8a44ea9e45",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -5101,10 +5474,20 @@
       "alignmentScale": 1,
       "wall": null,
       "floorSurface": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7882"
+      ],
+      "compatibleSourceHashes": [
+        "fcf4a165017a14c42e5f8c704b6ef2024516f56f2011227437e2ed2eae4348dc"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7883",
+      "id": "雕像公園_石中劍",
       "name": "石中劍",
       "w": 4,
       "d": 4,
@@ -5172,7 +5555,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "89daea219a2c10bef4615ac3d5fca3b973b14c1a79ac5aeb75ae026cb9ac0ac9",
+      "sourceHash": "83bd1164e052c7f6ee54142a74dc7345a449c467bafc6b122d3574aee475ff0f",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -5206,10 +5589,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7883"
+      ],
+      "compatibleSourceHashes": [
+        "89daea219a2c10bef4615ac3d5fca3b973b14c1a79ac5aeb75ae026cb9ac0ac9"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7884",
+      "id": "雕像公園_石椅",
       "name": "石椅",
       "w": 4,
       "d": 4,
@@ -5277,7 +5670,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "63b30ee3b23c954c39dbcb61edc97909df2c87a7ed6c860a55e988b6fcf345a5",
+      "sourceHash": "792d3f8ed883b43a5ab98a6d101a0f11b82875c69971bdb98ce0aa218504edcb",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -5311,10 +5704,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7884"
+      ],
+      "compatibleSourceHashes": [
+        "63b30ee3b23c954c39dbcb61edc97909df2c87a7ed6c860a55e988b6fcf345a5"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7885",
+      "id": "雕像公園_石凳",
       "name": "石凳",
       "w": 4,
       "d": 4,
@@ -5382,7 +5785,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "bad2969b7dd98925d533e245d6a05dcdabbe82a37b6b12fbe459dae57fabf4f3",
+      "sourceHash": "04f5e0d590217d16bc51f969e92ec83eb89dfe86c9ac706652065044807bebb8",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -5416,10 +5819,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7885"
+      ],
+      "compatibleSourceHashes": [
+        "bad2969b7dd98925d533e245d6a05dcdabbe82a37b6b12fbe459dae57fabf4f3"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7886",
+      "id": "雕像公園_大理石欄杆",
       "name": "大理石欄杆",
       "w": 4,
       "d": 4,
@@ -5478,7 +5891,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "da3744aae6006dd4fc22ef5548856b506de8213d2f693c5c0c2561f5c85d5be2",
+      "sourceHash": "5e65cd2c50923ad0afe42d07eade8a508c667458db1b77db61f3310a2511ab8f",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -5492,8 +5905,8 @@
         "mirroredPixelHash": "18b424b05fa8dc8df865d0249dcbec2a8ecc4b7daf305fecd44c3c389f00b13b"
       },
       "designHints": {
-        "facing": "unknown",
-        "confirmed": false,
+        "facing": "none",
+        "confirmed": true,
         "doorOffset": 0.5,
         "doorWidth": 4,
         "clearance": 4,
@@ -5506,10 +5919,20 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7886"
+      ],
+      "compatibleSourceHashes": [
+        "da3744aae6006dd4fc22ef5548856b506de8213d2f693c5c0c2561f5c85d5be2"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7887",
+      "id": "雕像公園_金寶三掛燈",
       "name": "金寶三掛燈",
       "w": 2,
       "d": 2,
@@ -5609,7 +6032,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "49bb288453f6d97c7b5e7e0f4a3e4169daa7c3c16f029adb8668700a64da89aa",
+      "sourceHash": "645156a2e1e563cfc5287b8f7006e2fdd839837cdf97926a36197f1067002e45",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -5660,10 +6083,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7887"
+      ],
+      "compatibleSourceHashes": [
+        "49bb288453f6d97c7b5e7e0f4a3e4169daa7c3c16f029adb8668700a64da89aa"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7888",
+      "id": "雕像公園_希望之燈",
       "name": "希望之燈",
       "w": 2,
       "d": 2,
@@ -5763,7 +6196,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "0ab0bf55b5f977a35e8f826b9d0eb02694f64aee308b17cef72baff7dc500188",
+      "sourceHash": "965989bd0a13bc5478255a316ad53f653ab4ef0818c584c8729b2d91548a31f1",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -5814,10 +6247,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7888"
+      ],
+      "compatibleSourceHashes": [
+        "0ab0bf55b5f977a35e8f826b9d0eb02694f64aee308b17cef72baff7dc500188"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7889",
+      "id": "雕像公園_菱形園景樹",
       "name": "菱形園景樹",
       "w": 8,
       "d": 8,
@@ -5897,7 +6340,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "2fe19a02129c5e524c6ec9c19fcf9c0688a9ec61682e014873c9b1721fabd77a",
+      "sourceHash": "d3772d68d30e193b223b9094ea0765667cf4a00bf874e3b4c879c2ec97bf2169",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -5931,10 +6374,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7889"
+      ],
+      "compatibleSourceHashes": [
+        "2fe19a02129c5e524c6ec9c19fcf9c0688a9ec61682e014873c9b1721fabd77a"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7890",
+      "id": "雕像公園_長形園景樹",
       "name": "長形園景樹",
       "w": 4,
       "d": 4,
@@ -5991,7 +6444,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "de3e7735b7e2f704470cf0d2c6278ea1a3260e6989e4a184c2ce3b7fb8c3bf73",
+      "sourceHash": "98fa3af6c99f7b01320184415cf0655ceb41367cc60a79194006554e47674cb0",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -6005,8 +6458,8 @@
         "mirroredPixelHash": "fb7dd8f481678b31f6197873c576868f4579885a02c731f8ee1e4c0c1791c69c"
       },
       "designHints": {
-        "facing": "unknown",
-        "confirmed": false,
+        "facing": "none",
+        "confirmed": true,
         "doorOffset": 0.5,
         "doorWidth": 4,
         "clearance": 4,
@@ -6020,10 +6473,20 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7890"
+      ],
+      "compatibleSourceHashes": [
+        "de3e7735b7e2f704470cf0d2c6278ea1a3260e6989e4a184c2ce3b7fb8c3bf73"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7891",
+      "id": "雕像公園_大理石地磚",
       "name": "大理石地磚",
       "w": 4,
       "d": 4,
@@ -6109,7 +6572,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "b750da222fc785637a51975b6aae5676d7fb6df4b9f475b564f363f532c53cb5",
+      "sourceHash": "1f28eef9909d718ea1e2c9d5f0ee3bb75bfb3ce1c1e1cc2d936e44e1a46d6326",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -6143,10 +6606,20 @@
       "wall": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7891"
+      ],
+      "compatibleSourceHashes": [
+        "b750da222fc785637a51975b6aae5676d7fb6df4b9f475b564f363f532c53cb5"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7892",
+      "id": "蘑菇村_音樂祭",
       "name": "音樂祭",
       "w": 16,
       "d": 16,
@@ -6222,7 +6695,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "70841374271299b7c2c9e6729bd8ab49966da4213f603e03a5742aa5f6360277",
+      "sourceHash": "da064a4fffed89adf68b0ef090c75baf17ec89faf1f10ac2acb2459ccf4beddf",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -6256,10 +6729,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7892"
+      ],
+      "compatibleSourceHashes": [
+        "70841374271299b7c2c9e6729bd8ab49966da4213f603e03a5742aa5f6360277"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7893",
+      "id": "蘑菇村_蘑菇屋",
       "name": "蘑菇屋",
       "w": 8,
       "d": 8,
@@ -6319,7 +6802,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "52a101a0ca9ed87c0cb355cd14feb0eed9df5a47b8fa6e265ef888ee5a63ac2a",
+      "sourceHash": "4baab24eed4e010eba84c048f1fe0fadae6435a7c6d3f69cd324c4a5dc782305",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -6353,10 +6836,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7893"
+      ],
+      "compatibleSourceHashes": [
+        "52a101a0ca9ed87c0cb355cd14feb0eed9df5a47b8fa6e265ef888ee5a63ac2a"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7894",
+      "id": "蘑菇村_蘑菇推車",
       "name": "蘑菇推車",
       "w": 8,
       "d": 8,
@@ -6416,7 +6909,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "81767313211ba3a7d99f99e3f160b813d500d4efbe7a4bc9854a95e6174c019e",
+      "sourceHash": "9e6c2d0039b0bb9f192641bcc056ce1938e94d39f8316ea9023f95b8d6619017",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -6450,10 +6943,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7894"
+      ],
+      "compatibleSourceHashes": [
+        "81767313211ba3a7d99f99e3f160b813d500d4efbe7a4bc9854a95e6174c019e"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7895",
+      "id": "蘑菇村_指路牌",
       "name": "指路牌",
       "w": 4,
       "d": 4,
@@ -6517,7 +7020,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "42f829e26d655002636a738fe26a46f8e278c27133f1c730602acf616679a478",
+      "sourceHash": "8f3677c59239759a0d13f4ff33206bbccf5ef19fbc12e557ca3a18a1ed910d30",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -6551,10 +7054,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7895"
+      ],
+      "compatibleSourceHashes": [
+        "42f829e26d655002636a738fe26a46f8e278c27133f1c730602acf616679a478"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7896",
+      "id": "蘑菇村_鞦韆",
       "name": "鞦韆",
       "w": 8,
       "d": 8,
@@ -6622,7 +7135,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "a4ed71ddc91d5e3b8ade524db5385aa75c2bcd530f70ab75af3c5cd669c657ee",
+      "sourceHash": "aad5f4b06306f9b8af5b410cde4afd48885ec3d6916ed18710f68cbefd91e35d",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -6656,10 +7169,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7896"
+      ],
+      "compatibleSourceHashes": [
+        "a4ed71ddc91d5e3b8ade524db5385aa75c2bcd530f70ab75af3c5cd669c657ee"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7897",
+      "id": "蘑菇村_籃子",
       "name": "籃子",
       "w": 4,
       "d": 4,
@@ -6759,7 +7282,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "ee1307b80fd70725781c76c5bba8e33c3ec9329ca1b0b2f154e4db86767d6825",
+      "sourceHash": "a9b74b5df031a99f2bec50904f65f82f6a7d7a46ed72bb4a744b60bba4aeff0f",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -6793,10 +7316,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7897"
+      ],
+      "compatibleSourceHashes": [
+        "ee1307b80fd70725781c76c5bba8e33c3ec9329ca1b0b2f154e4db86767d6825"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7898",
+      "id": "蘑菇村_單繩圍欄",
       "name": "單繩圍欄",
       "w": 4,
       "d": 4,
@@ -6853,7 +7386,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "21783ec74ae5ac0ebc99a501085c1c0f95716ea0fb57f70abbd8449f57f7a82f",
+      "sourceHash": "3c5f92d34a6c1fc447f7b8d2983d5353e0de75c86c69afa4e4bbdb583a3dd7f8",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -6867,8 +7400,8 @@
         "mirroredPixelHash": "1644754e7b33bbc1fb45ccd0c0718a5df8649ca913eda2986b630721e9a6f9f7"
       },
       "designHints": {
-        "facing": "unknown",
-        "confirmed": false,
+        "facing": "none",
+        "confirmed": true,
         "doorOffset": 0.5,
         "doorWidth": 4,
         "clearance": 4,
@@ -6882,10 +7415,20 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7898"
+      ],
+      "compatibleSourceHashes": [
+        "21783ec74ae5ac0ebc99a501085c1c0f95716ea0fb57f70abbd8449f57f7a82f"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7899",
+      "id": "蘑菇村_蘑菇路燈",
       "name": "蘑菇路燈",
       "w": 2,
       "d": 2,
@@ -6952,7 +7495,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "dcbf8b5de8feb918f3591bbfdf4028ad11182d2a74d8480fe96b0a8ea8197ac8",
+      "sourceHash": "ec2677c42092d4c89d8a93adb50be9bab3ef6a5988a46876769398914b1373b7",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -6987,10 +7530,20 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7899"
+      ],
+      "compatibleSourceHashes": [
+        "dcbf8b5de8feb918f3591bbfdf4028ad11182d2a74d8480fe96b0a8ea8197ac8"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7900",
+      "id": "卡皮市集_噴泉",
       "name": "噴泉",
       "w": 16,
       "d": 16,
@@ -7057,7 +7610,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "3f6592cc212da986090e8351c7a0e932ca4222a74c52dc11024ea850c960c056",
+      "sourceHash": "0b1ac415eaac2cc1dfd996e544c9c2182cc953be9b5d9f5aa3693ef8b4322be3",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -7092,10 +7645,20 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7900"
+      ],
+      "compatibleSourceHashes": [
+        "3f6592cc212da986090e8351c7a0e932ca4222a74c52dc11024ea850c960c056"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7901",
+      "id": "卡皮市集_鮮花坊",
       "name": "鮮花坊",
       "w": 16,
       "d": 16,
@@ -7163,7 +7726,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "3f084f58c3db94ae95d8e9601ba5c5067c0470b9e152f277034755dacd37e864",
+      "sourceHash": "fb52956c4345eeadad99887f2ff362ce6f070afff925b925ae8e01e66b15456d",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -7197,10 +7760,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7901"
+      ],
+      "compatibleSourceHashes": [
+        "3f084f58c3db94ae95d8e9601ba5c5067c0470b9e152f277034755dacd37e864"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7902",
+      "id": "卡皮市集_糖果鋪",
       "name": "糖果鋪",
       "w": 8,
       "d": 8,
@@ -7268,7 +7841,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "3b5c182171e71ef81bb0ad940b9953a0f3aafd4244da6c1bc1c4587623368d00",
+      "sourceHash": "5632bbefaff35db57b884e4c1ce5a9ded59b8003ee7251c992efab29860007d3",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -7302,10 +7875,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7902"
+      ],
+      "compatibleSourceHashes": [
+        "3b5c182171e71ef81bb0ad940b9953a0f3aafd4244da6c1bc1c4587623368d00"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7903",
+      "id": "卡皮市集_蔬果攤",
       "name": "蔬果攤",
       "w": 8,
       "d": 8,
@@ -7369,7 +7952,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "21e3d68c83d671ce10b301b85b59ddbac1ca6db677fe06d25f2622aafb8f258c",
+      "sourceHash": "3830d5e3569abd53c0586ceeafccd2b57523f37c3395adadc2242517343baf2a",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -7403,10 +7986,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7903"
+      ],
+      "compatibleSourceHashes": [
+        "21e3d68c83d671ce10b301b85b59ddbac1ca6db677fe06d25f2622aafb8f258c"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7904",
+      "id": "卡皮市集_肉攤",
       "name": "肉攤",
       "w": 8,
       "d": 8,
@@ -7482,7 +8075,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "67154d0956eb60ff19412092338d3d792e5bbe8caec6cba1b350251590f426ee",
+      "sourceHash": "387e49b69800157fcdd1e0baccc0ae0291135285014b2af18ec2fca924f74c54",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -7516,10 +8109,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7904"
+      ],
+      "compatibleSourceHashes": [
+        "67154d0956eb60ff19412092338d3d792e5bbe8caec6cba1b350251590f426ee"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7905",
+      "id": "卡皮市集_棉花糖車",
       "name": "棉花糖車",
       "w": 4,
       "d": 4,
@@ -7587,7 +8190,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "45d6dc5b119c8d6748e5229fd33df7ca4e0896dbc343f2b39d3824330d91a5c4",
+      "sourceHash": "69e408d15ab7d4470bc45ec51027486b6c599a7525320f019cb73ee307ce3840",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -7621,10 +8224,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7905"
+      ],
+      "compatibleSourceHashes": [
+        "45d6dc5b119c8d6748e5229fd33df7ca4e0896dbc343f2b39d3824330d91a5c4"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7906",
+      "id": "卡皮市集_雙人餐桌",
       "name": "雙人餐桌",
       "w": 8,
       "d": 8,
@@ -7724,7 +8337,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "cea36a75b3b04e8fdbeb6b43be23a19e1eaa746f21235e5e5a94d0749f7d8998",
+      "sourceHash": "fcdc33815ffb8a0a0da0105067f6f699b12aa5500025cb26ef0bd698b0eca159",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -7738,7 +8351,7 @@
         "mirroredPixelHash": "50cf891b5bf284bd8bcb690c478859a0555eef392d99c9216c11bbe270c43e96"
       },
       "designHints": {
-        "facing": "none",
+        "facing": "S",
         "confirmed": true,
         "doorOffset": 0.5,
         "doorWidth": 4,
@@ -7758,10 +8371,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7906"
+      ],
+      "compatibleSourceHashes": [
+        "cea36a75b3b04e8fdbeb6b43be23a19e1eaa746f21235e5e5a94d0749f7d8998"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7907",
+      "id": "卡皮市集_單人餐桌",
       "name": "單人餐桌",
       "w": 4,
       "d": 4,
@@ -7841,7 +8464,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "6c088106139911dd69c347aea59a9f076d178574a9b491a8f099caff99d29f10",
+      "sourceHash": "6f6ca791dce66f77573ecee4d52fd0ae1381120efdc5f2af1299eeabc2cdbaa9",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -7875,10 +8498,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7907"
+      ],
+      "compatibleSourceHashes": [
+        "6c088106139911dd69c347aea59a9f076d178574a9b491a8f099caff99d29f10"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7908",
+      "id": "卡皮市集_蔬菜桶",
       "name": "蔬菜桶",
       "w": 4,
       "d": 4,
@@ -7978,7 +8611,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "213d07496d2bb4ae391ba8ae5b923dccebdfdce64498a9193853e6d1593dba56",
+      "sourceHash": "f2eba867fc5673004596d184400f04be28ec003571b14e405a06d2e7b334b760",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -8012,10 +8645,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7908"
+      ],
+      "compatibleSourceHashes": [
+        "213d07496d2bb4ae391ba8ae5b923dccebdfdce64498a9193853e6d1593dba56"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7909",
+      "id": "卡皮市集_樹樁砧板",
       "name": "樹樁砧板",
       "w": 4,
       "d": 4,
@@ -8115,7 +8758,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "0bdb283b1710c1aeeab313cd040755362d935aed6a1d1786a397d646b82acc28",
+      "sourceHash": "78117c36c31e86235e4be829efad8a8a251956153709943aa5beff7edb00198d",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -8149,10 +8792,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7909"
+      ],
+      "compatibleSourceHashes": [
+        "0bdb283b1710c1aeeab313cd040755362d935aed6a1d1786a397d646b82acc28"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7910",
+      "id": "卡皮市集_檸檬桶",
       "name": "檸檬桶",
       "w": 4,
       "d": 4,
@@ -8220,7 +8873,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "80d8b8706226e6065a423c11818873319d0b2ccbf578365866c3b3a0e4ee1d82",
+      "sourceHash": "b4c445458b738b3d7bcb63743e922acb1a921757b7081c254a807862bafa9a88",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -8254,10 +8907,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7910"
+      ],
+      "compatibleSourceHashes": [
+        "80d8b8706226e6065a423c11818873319d0b2ccbf578365866c3b3a0e4ee1d82"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7911",
+      "id": "卡皮市集_牛奶車",
       "name": "牛奶車",
       "w": 4,
       "d": 4,
@@ -8317,7 +8980,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "300a844101049f6354a16eac7fcb4beb171759035daf07b85d60b71b596ab8ce",
+      "sourceHash": "cb3519087e385d6e130cea58c33511070a463b00ad367f19ce7f8bc70a9be73c",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -8351,10 +9014,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7911"
+      ],
+      "compatibleSourceHashes": [
+        "300a844101049f6354a16eac7fcb4beb171759035daf07b85d60b71b596ab8ce"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7912",
+      "id": "卡皮市集_長椅",
       "name": "長椅",
       "w": 4,
       "d": 4,
@@ -8438,7 +9111,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "830c5f38beaae368dcbe2f95f3e1408c9279056c5eeb897da7313fada4214c46",
+      "sourceHash": "5c6daffffae10cdec7de465697dff566b8c50500246f5b58e8151415defb836e",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -8472,10 +9145,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7912"
+      ],
+      "compatibleSourceHashes": [
+        "830c5f38beaae368dcbe2f95f3e1408c9279056c5eeb897da7313fada4214c46"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7913",
+      "id": "卡皮市集_卡路里地板",
       "name": "卡路里地板",
       "w": 4,
       "d": 4,
@@ -8543,7 +9226,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "f5b434ccb3cd2da0e133b734b298ecf2842905c0e772a9b98c675b46cac926ac",
+      "sourceHash": "b1e6540237ee817afbc2bfd0e7ea0a87d6893d720475393c80e9edaa8109da10",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -8577,10 +9260,20 @@
       "wall": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7913"
+      ],
+      "compatibleSourceHashes": [
+        "f5b434ccb3cd2da0e133b734b298ecf2842905c0e772a9b98c675b46cac926ac"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7914",
+      "id": "萬聖節_鬼屋",
       "name": "鬼屋",
       "w": 16,
       "d": 16,
@@ -8632,7 +9325,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "2f48d8172c2fa9d9f84532a48303b96af90427b788a17cce9b5911f7d2bdb747",
+      "sourceHash": "0969653f7b5e3a247fd0938e84b73cd9496b05d18bc2321cff353f7e667fcfca",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -8666,10 +9359,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7914"
+      ],
+      "compatibleSourceHashes": [
+        "2f48d8172c2fa9d9f84532a48303b96af90427b788a17cce9b5911f7d2bdb747"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7915",
+      "id": "萬聖節_鐘樓",
       "name": "鐘樓",
       "w": 8,
       "d": 8,
@@ -8741,7 +9444,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "0b1c19c0e061ad024b297491852ced7247c113948ebd0c75e2fbd2d70b30ec9f",
+      "sourceHash": "fddc2a86bc277b9c1a44a07fed6d33cb8c16c86abc446638692a41cfd79b17bf",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -8775,10 +9478,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7915"
+      ],
+      "compatibleSourceHashes": [
+        "0b1c19c0e061ad024b297491852ced7247c113948ebd0c75e2fbd2d70b30ec9f"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7916",
+      "id": "萬聖節_煉藥坩堝",
       "name": "煉藥坩堝",
       "w": 8,
       "d": 8,
@@ -8866,7 +9579,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "37cf9e3e9f228d1f308132a29953b6cfbe705e9c21fd77c34e63a1ebeadcc3c4",
+      "sourceHash": "48c73f8ea4041c480f5560d4f8eb9e524ad42af477f9e97e6952f91597d7f77f",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -8900,10 +9613,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7916"
+      ],
+      "compatibleSourceHashes": [
+        "37cf9e3e9f228d1f308132a29953b6cfbe705e9c21fd77c34e63a1ebeadcc3c4"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7917",
+      "id": "萬聖節_石碑",
       "name": "石碑",
       "w": 4,
       "d": 4,
@@ -8955,7 +9678,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "aae0511f3f21599f19d91e0c0b0b7fffbb04917204d469bf3350fb0f592d024f",
+      "sourceHash": "a02422652e873ceda284827f6fde481886160990fe99e1a2cb23387a5391cb7a",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -8989,10 +9712,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7917"
+      ],
+      "compatibleSourceHashes": [
+        "aae0511f3f21599f19d91e0c0b0b7fffbb04917204d469bf3350fb0f592d024f"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7918",
+      "id": "萬聖節_石圍欄",
       "name": "石圍欄",
       "w": 4,
       "d": 4,
@@ -9049,7 +9782,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "2f5230e15b289106d93b7d80369db1b34643c76941e3280aaf27eaa9b92d43f2",
+      "sourceHash": "63dd08e8671bd7e33e40896674ac74786380f275db9a76a8800039ad21a29128",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -9063,8 +9796,8 @@
         "mirroredPixelHash": "9f27f90a219c9f92d5e62d9512301ecc3dc8dc3018f314152b6b2efa3c07fa48"
       },
       "designHints": {
-        "facing": "unknown",
-        "confirmed": false,
+        "facing": "none",
+        "confirmed": true,
         "doorOffset": 0.5,
         "doorWidth": 4,
         "clearance": 4,
@@ -9078,10 +9811,20 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7918"
+      ],
+      "compatibleSourceHashes": [
+        "2f5230e15b289106d93b7d80369db1b34643c76941e3280aaf27eaa9b92d43f2"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7919",
+      "id": "萬聖節_木欄杆",
       "name": "木欄杆",
       "w": 4,
       "d": 4,
@@ -9138,7 +9881,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "39b3b438238bd32e33cb775a33be40f6a06711b4a54b1c574465424a07184924",
+      "sourceHash": "b189cd6729d972b8439f18e59a835d177b02655eda25a20ca2899ac26ecadc90",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -9152,8 +9895,8 @@
         "mirroredPixelHash": "02b989bbbf947aefc6d10b45e547f94db3a0cc4ff61becaaaa02da06781c7e11"
       },
       "designHints": {
-        "facing": "unknown",
-        "confirmed": false,
+        "facing": "none",
+        "confirmed": true,
         "doorOffset": 0.5,
         "doorWidth": 4,
         "clearance": 4,
@@ -9167,10 +9910,20 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7919"
+      ],
+      "compatibleSourceHashes": [
+        "39b3b438238bd32e33cb775a33be40f6a06711b4a54b1c574465424a07184924"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7920",
+      "id": "萬聖節_南瓜燈",
       "name": "南瓜燈",
       "w": 2,
       "d": 2,
@@ -9237,7 +9990,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "0d37eedf37cd7ea027a1673ccc5815ca94551d5312cae791366b3d62bc2fd7a3",
+      "sourceHash": "984c5cb4d2d570571eefe66a48ee4c076ef2c6ffc2795bd589e7b55365ffc645",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -9272,10 +10025,20 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7920"
+      ],
+      "compatibleSourceHashes": [
+        "0d37eedf37cd7ea027a1673ccc5815ca94551d5312cae791366b3d62bc2fd7a3"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7921",
+      "id": "萬聖節_枯樹",
       "name": "枯樹",
       "w": 4,
       "d": 4,
@@ -9375,7 +10138,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "13d2514317dbdb5a066ba038f7c8a8aeafecac1ed2628f1743e92a8d2d725c84",
+      "sourceHash": "073621c445c2999bbb5fc8f642aa27b3f536676b6708aaf502b7d6d04d38c7c0",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -9409,10 +10172,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7921"
+      ],
+      "compatibleSourceHashes": [
+        "13d2514317dbdb5a066ba038f7c8a8aeafecac1ed2628f1743e92a8d2d725c84"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7922",
+      "id": "萬聖節_鬼面木",
       "name": "鬼面木",
       "w": 4,
       "d": 4,
@@ -9484,7 +10257,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "6e145e2c48322f9452a5b9e9bd6a2be47d37c55d4a0de2f6ac76cbbad5ca8c8b",
+      "sourceHash": "c695852259845f6a76eee058a6489f2be99a89d6470b5058b2aa63ca171efd56",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -9518,10 +10291,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7922"
+      ],
+      "compatibleSourceHashes": [
+        "6e145e2c48322f9452a5b9e9bd6a2be47d37c55d4a0de2f6ac76cbbad5ca8c8b"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7923",
+      "id": "萬聖節_幽靈步道",
       "name": "幽靈步道",
       "w": 4,
       "d": 4,
@@ -9589,7 +10372,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "fbc0edd99b776294a8c1a42896be7fd8af65c39a9ef8dfd42c19431af8864119",
+      "sourceHash": "02d3106078f199bbd1e773982bf430e3f5adb2a2228688a1b2a5564434552cd6",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -9623,10 +10406,20 @@
       "wall": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7923"
+      ],
+      "compatibleSourceHashes": [
+        "fbc0edd99b776294a8c1a42896be7fd8af65c39a9ef8dfd42c19431af8864119"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7924",
+      "id": "異星迷航_星頂黃金屋",
       "name": "星頂黃金屋",
       "w": 16,
       "d": 16,
@@ -9698,7 +10491,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "400380073d65983c0ed55a2f05385a8c42a8283291d7b51e0e336ff793f419a2",
+      "sourceHash": "98d14f89c35cabfbecde3b7711d71e9b90f909e11a2b2b88634a70e7a437fdd2",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -9732,10 +10525,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7924"
+      ],
+      "compatibleSourceHashes": [
+        "400380073d65983c0ed55a2f05385a8c42a8283291d7b51e0e336ff793f419a2"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7925",
+      "id": "異星迷航_星航儀",
       "name": "星航儀",
       "w": 8,
       "d": 8,
@@ -9835,7 +10638,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "9a421bdbd8426910d2d2c2932c034698b05c132fc452adab8fa77ebe03423ad7",
+      "sourceHash": "938bec599c95244b357266a27da521b959a0f76ec788c78e37152ef48f7b0507",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -9869,10 +10672,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7925"
+      ],
+      "compatibleSourceHashes": [
+        "9a421bdbd8426910d2d2c2932c034698b05c132fc452adab8fa77ebe03423ad7"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7926",
+      "id": "異星迷航_星河滑梯",
       "name": "星河滑梯",
       "w": 8,
       "d": 8,
@@ -9940,7 +10753,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "a7ffd16d601913a7f01061ebdce3dc31e6f9f91ea79684b148eaceb91ea9c86d",
+      "sourceHash": "8f63f48037f9aa88e9561382df6a80fa156914efe0f9fe61f9cc3bc63333402c",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -9974,10 +10787,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7926"
+      ],
+      "compatibleSourceHashes": [
+        "a7ffd16d601913a7f01061ebdce3dc31e6f9f91ea79684b148eaceb91ea9c86d"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7927",
+      "id": "異星迷航_觀星鏡",
       "name": "觀星鏡",
       "w": 4,
       "d": 4,
@@ -10077,7 +10900,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "58b70cb71ab1f58c64634ae618d9d95b27879e19b9dd013180b69a23a8091be4",
+      "sourceHash": "c0e1e4c968e1614f433e96a8ab1742b58613d63cb121680aee2ebb89ac01f953",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -10111,10 +10934,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7927"
+      ],
+      "compatibleSourceHashes": [
+        "58b70cb71ab1f58c64634ae618d9d95b27879e19b9dd013180b69a23a8091be4"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7928",
+      "id": "異星迷航_施萊德水母",
       "name": "施萊德水母",
       "w": 4,
       "d": 4,
@@ -10194,7 +11027,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "ea3d21fcf3cc88d3b8897b73141c80d898d13aaf625141879bb8771e8b11dfb8",
+      "sourceHash": "a04ea7c21824abeb5f897d9c489ea51eca0c14fad0a034e989ade8113876b327",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -10228,10 +11061,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7928"
+      ],
+      "compatibleSourceHashes": [
+        "ea3d21fcf3cc88d3b8897b73141c80d898d13aaf625141879bb8771e8b11dfb8"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7929",
+      "id": "異星迷航_扎克水母",
       "name": "扎克水母",
       "w": 4,
       "d": 4,
@@ -10315,7 +11158,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "4afe6c7719e474b0fb6cd3665708d46859784fbf2c96d11d8c9460a0f34bab1f",
+      "sourceHash": "e985ced17c3d29b7538cfb48e3adddcac94dbf1d265305b3896ffcd1e4f7402b",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -10349,10 +11192,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7929"
+      ],
+      "compatibleSourceHashes": [
+        "4afe6c7719e474b0fb6cd3665708d46859784fbf2c96d11d8c9460a0f34bab1f"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7930",
+      "id": "異星迷航_巴姆晶體",
       "name": "巴姆晶體",
       "w": 2,
       "d": 2,
@@ -10420,7 +11273,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "a635a6b31bf9a4217ce987773d0f001e8813a8ea1271a19d2e23646b9e9bd896",
+      "sourceHash": "765487c05ec4b90ce2ffd35d5985ba5b1749585d81041e0e8aa75363432c70c2",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -10454,10 +11307,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7930"
+      ],
+      "compatibleSourceHashes": [
+        "a635a6b31bf9a4217ce987773d0f001e8813a8ea1271a19d2e23646b9e9bd896"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7931",
+      "id": "異星迷航_奧萊晶體",
       "name": "奧萊晶體",
       "w": 2,
       "d": 2,
@@ -10525,7 +11388,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "4c608f9a60e7299d46644a555388a5500fecf611ef110bd215ced14f2a103b71",
+      "sourceHash": "25b591f74335d76dbc50084a50e8c7e27ee5150c55f5a7d2287292d77cb441c9",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -10559,10 +11422,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7931"
+      ],
+      "compatibleSourceHashes": [
+        "4c608f9a60e7299d46644a555388a5500fecf611ef110bd215ced14f2a103b71"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7932",
+      "id": "異星迷航_藍星燈",
       "name": "藍星燈",
       "w": 2,
       "d": 2,
@@ -10662,7 +11535,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "2607d08987b285385a8b0f4495072e10a7869229a9dd3213c875b0d4839259bb",
+      "sourceHash": "213af03d290897a822604b186db368beb983a446748e371ac3bd732b4d86a14c",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -10696,10 +11569,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7932"
+      ],
+      "compatibleSourceHashes": [
+        "2607d08987b285385a8b0f4495072e10a7869229a9dd3213c875b0d4839259bb"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7933",
+      "id": "異星迷航_卡達爾花",
       "name": "卡達爾花",
       "w": 4,
       "d": 4,
@@ -10799,7 +11682,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "b2ab418c642a048bbe7ce0644936d3f273aa5976e9ba132cc7b93777126af0ca",
+      "sourceHash": "96ade29449cd333f74a4d586114d536d92398257ab052844a11326c7e9fb8698",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -10833,10 +11716,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7933"
+      ],
+      "compatibleSourceHashes": [
+        "b2ab418c642a048bbe7ce0644936d3f273aa5976e9ba132cc7b93777126af0ca"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7934",
+      "id": "異星迷航_諾伊爾草",
       "name": "諾伊爾草",
       "w": 2,
       "d": 2,
@@ -10912,7 +11805,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "39b73ae8c3c0ebc93870efc5eac3dccba45f07d45138fe73c1b519c5513df8f8",
+      "sourceHash": "c292fc7a72ee29390706315e973a50e5e501144de4493c0775a88b5a3b56ae11",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -10946,10 +11839,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7934"
+      ],
+      "compatibleSourceHashes": [
+        "39b73ae8c3c0ebc93870efc5eac3dccba45f07d45138fe73c1b519c5513df8f8"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7935",
+      "id": "異星迷航_布瑪草",
       "name": "布瑪草",
       "w": 2,
       "d": 2,
@@ -11013,7 +11916,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "4700a268469b7a05b7b71b20b00d6f1854222a53dd358e502c05f4511953a604",
+      "sourceHash": "f355cfa5b6aa41eb92ee9220c2c9ca30850d24be14fc938fbbae02eaeab68b2c",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -11047,10 +11950,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7935"
+      ],
+      "compatibleSourceHashes": [
+        "4700a268469b7a05b7b71b20b00d6f1854222a53dd358e502c05f4511953a604"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7936",
+      "id": "異星迷航_木星磚",
       "name": "木星磚",
       "w": 4,
       "d": 4,
@@ -11131,7 +12044,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "833d15b4d6924de7a68283886b84c3f98dbc04e456b98a4d93c8b74a62ae1766",
+      "sourceHash": "1ae42a0def7bbe8f65246ca9b8e821a63169e1d434651445939b97e47d7a187d",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -11165,10 +12078,20 @@
       "wall": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7936"
+      ],
+      "compatibleSourceHashes": [
+        "833d15b4d6924de7a68283886b84c3f98dbc04e456b98a4d93c8b74a62ae1766"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7937",
+      "id": "異星迷航_星空窗",
       "name": "星空窗",
       "w": 4,
       "d": 4,
@@ -11249,7 +12172,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "0c1af6bf62bbb9908a13f5ed95b1e43a239897431946ad20e3f1a8120820bd7d",
+      "sourceHash": "eacba81edb6e594c10fe56ab37b72695ae5a54e4e8f20428a63cd67b298079b2",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -11283,10 +12206,20 @@
       "wall": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7937"
+      ],
+      "compatibleSourceHashes": [
+        "0c1af6bf62bbb9908a13f5ed95b1e43a239897431946ad20e3f1a8120820bd7d"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7938",
+      "id": "夢幻雪園_奇趣雪松",
       "name": "奇趣雪松",
       "w": 16,
       "d": 16,
@@ -11366,7 +12299,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "3bfb437d608f92ab7f48255c3838db743cadfc055a60da207d1f389a724c3099",
+      "sourceHash": "1d9974abe765af3db85daf766838f9554579ff30d90cf505fa9f48f22c9d7421",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -11400,10 +12333,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7938"
+      ],
+      "compatibleSourceHashes": [
+        "3bfb437d608f92ab7f48255c3838db743cadfc055a60da207d1f389a724c3099"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7939",
+      "id": "夢幻雪園_雪屋",
       "name": "雪屋",
       "w": 16,
       "d": 16,
@@ -11479,7 +12422,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "014992e3f0b7eaea11748faa622e6100acb71b34ce429ed4150155837a153545",
+      "sourceHash": "9851c6f8cfd0c5245d1549da79cf14f6727f74bc216c5bbabb4f5ffd47e6ca4f",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -11513,10 +12456,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7939"
+      ],
+      "compatibleSourceHashes": [
+        "014992e3f0b7eaea11748faa622e6100acb71b34ce429ed4150155837a153545"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7940",
+      "id": "夢幻雪園_照相機",
       "name": "照相機",
       "w": 8,
       "d": 8,
@@ -11600,7 +12553,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "1318514acdd9b744ad8bfb3ed653eec5ecbdfbf691e29b9d3d1d751ef4afb472",
+      "sourceHash": "04a35b7bbf536a984dc0133f76bf2cd6a3fe20b62fdcc46e25aa0204019d49ce",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -11634,10 +12587,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7940"
+      ],
+      "compatibleSourceHashes": [
+        "1318514acdd9b744ad8bfb3ed653eec5ecbdfbf691e29b9d3d1d751ef4afb472"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7941",
+      "id": "夢幻雪園_雪橇",
       "name": "雪橇",
       "w": 8,
       "d": 8,
@@ -11713,7 +12676,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "d3b9648535bfb83f68265ddfc9dc3650d29146633053d0a41c3c60bc0d7f3c0d",
+      "sourceHash": "8710c9cb49ee2a5d2a8105e0d3f6bbc4c899c29e4f60df639b19b473290e775f",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -11747,10 +12710,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7941"
+      ],
+      "compatibleSourceHashes": [
+        "d3b9648535bfb83f68265ddfc9dc3650d29146633053d0a41c3c60bc0d7f3c0d"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7942",
+      "id": "夢幻雪園_餅乾鹿",
       "name": "餅乾鹿",
       "w": 4,
       "d": 4,
@@ -11830,7 +12803,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "c13bd3b5fba95bc9f550db139f8830bcc2ceb8e79f31a1efba74bcfc35ea28cc",
+      "sourceHash": "48977d8bddb6a0611143fab4878f4f4bbfe34d7224da633ef46d8e0a9e18b773",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -11864,10 +12837,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7942"
+      ],
+      "compatibleSourceHashes": [
+        "c13bd3b5fba95bc9f550db139f8830bcc2ceb8e79f31a1efba74bcfc35ea28cc"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7943",
+      "id": "夢幻雪園_禮物堆",
       "name": "禮物堆",
       "w": 4,
       "d": 4,
@@ -11947,7 +12930,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "2b262baadfcad042a0135e85749e3e82d284a5c1027b4281a87d8c0b34217159",
+      "sourceHash": "75789b44fb4c10aae339c390202cea2b375eef02e8d3b3d67c4ee112b716fe66",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -11981,10 +12964,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7943"
+      ],
+      "compatibleSourceHashes": [
+        "2b262baadfcad042a0135e85749e3e82d284a5c1027b4281a87d8c0b34217159"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7944",
+      "id": "夢幻雪園_禮物桌子",
       "name": "禮物桌子",
       "w": 4,
       "d": 4,
@@ -12068,7 +13061,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "6504224f706faf17ea2630c4392dcd5a0f7108eee5289f2b4eebff23c7a59990",
+      "sourceHash": "bcf48f953c2a74a4e5f3f9131b30ddacaeee0bf4ed7c807f36043fdf34b2b303",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -12102,10 +13095,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7944"
+      ],
+      "compatibleSourceHashes": [
+        "6504224f706faf17ea2630c4392dcd5a0f7108eee5289f2b4eebff23c7a59990"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7945",
+      "id": "夢幻雪園_紅色長椅",
       "name": "紅色長椅",
       "w": 4,
       "d": 4,
@@ -12201,7 +13204,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "544088be3eabb2caa5e237da559feb324307ba7d77dfead67125a2a82c3ee12d",
+      "sourceHash": "038f475565ffa45d6b720d6380677810c0d0db0f6a2d78ceb4817212ec0fc592",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -12235,10 +13238,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7945"
+      ],
+      "compatibleSourceHashes": [
+        "544088be3eabb2caa5e237da559feb324307ba7d77dfead67125a2a82c3ee12d"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7946",
+      "id": "夢幻雪園_雪圍欄",
       "name": "雪圍欄",
       "w": 4,
       "d": 4,
@@ -12295,7 +13308,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "385be08bebc2233dfea736db4066ad9e89523bc57847971235a146d4a1d11fbd",
+      "sourceHash": "bee58d5ee9609729f2fa136457c8cdc8f81b577e2395f82349d2e8f8a566c564",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -12309,8 +13322,8 @@
         "mirroredPixelHash": "a64bafe06b79525b510db6cdafd7508f323af6449a099b8929a7327d6fed9abc"
       },
       "designHints": {
-        "facing": "unknown",
-        "confirmed": false,
+        "facing": "none",
+        "confirmed": true,
         "doorOffset": 0.5,
         "doorWidth": 4,
         "clearance": 4,
@@ -12324,10 +13337,20 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7946"
+      ],
+      "compatibleSourceHashes": [
+        "385be08bebc2233dfea736db4066ad9e89523bc57847971235a146d4a1d11fbd"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7947",
+      "id": "夢幻雪園_瑞雪路燈",
       "name": "瑞雪路燈",
       "w": 2,
       "d": 2,
@@ -12427,7 +13450,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "1f37f2f0afc3e8b16ac6396d0a5e57b87781f10e6b15ec23524a3998786ccb0c",
+      "sourceHash": "4deac98afe850a22c574fe8305615d118410ff930d657288146afa12b9dba512",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -12461,10 +13484,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7947"
+      ],
+      "compatibleSourceHashes": [
+        "1f37f2f0afc3e8b16ac6396d0a5e57b87781f10e6b15ec23524a3998786ccb0c"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7948",
+      "id": "夢幻雪園_郵箱",
       "name": "郵箱",
       "w": 2,
       "d": 2,
@@ -12564,7 +13597,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "52b1afe07ade9d18f96e8b88c07293352a76b7c4ae644ec2294e845242fb401d",
+      "sourceHash": "8adb9561d9544231d8a359836324aa2f6470ed9ca4f1728a87246754ee592607",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -12598,10 +13631,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7948"
+      ],
+      "compatibleSourceHashes": [
+        "52b1afe07ade9d18f96e8b88c07293352a76b7c4ae644ec2294e845242fb401d"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7949",
+      "id": "夢幻雪園_彩燈松樹",
       "name": "彩燈松樹",
       "w": 4,
       "d": 4,
@@ -12701,7 +13744,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "10ce4a69f3f524a8b20fd6e5b1a3303b98f681cd76a0132c3ef86fed895bd30d",
+      "sourceHash": "3e724dd559ace2fe87751153beecc28d7bca530001b92870036569bd168bdb7a",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -12735,10 +13778,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7949"
+      ],
+      "compatibleSourceHashes": [
+        "10ce4a69f3f524a8b20fd6e5b1a3303b98f681cd76a0132c3ef86fed895bd30d"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7950",
+      "id": "夢幻雪園_瑞雪花叢",
       "name": "瑞雪花叢",
       "w": 4,
       "d": 4,
@@ -12814,7 +13867,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "1026b02019f92033f3914c17d8fbf40fc601dc60fdb9674ae835c22e25388e8f",
+      "sourceHash": "0aac2c0f090584751ae1ae28d1e1801b8c74e95fe361b013f07b0bdcbaeacf6c",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -12848,10 +13901,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7950"
+      ],
+      "compatibleSourceHashes": [
+        "1026b02019f92033f3914c17d8fbf40fc601dc60fdb9674ae835c22e25388e8f"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7951",
+      "id": "夢幻雪園_雪路",
       "name": "雪路",
       "w": 4,
       "d": 4,
@@ -12932,7 +13995,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "39a0e8e4606f046dccb90ffa7276c9a7906a564ae470601b5fc6c2e7e5873841",
+      "sourceHash": "bc4abbd431a444fbcfbc2f327816410a39ecf0ad7d9cdbd7507e561959e868e1",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -12966,10 +14029,20 @@
       "wall": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7951"
+      ],
+      "compatibleSourceHashes": [
+        "39a0e8e4606f046dccb90ffa7276c9a7906a564ae470601b5fc6c2e7e5873841"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7952",
+      "id": "夢幻雪園_雪地",
       "name": "雪地",
       "w": 4,
       "d": 4,
@@ -13037,7 +14110,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "77e4e98d9be6eacd003cf6abdade9d92054afc9ca351c20fe6e2f81167c26f34",
+      "sourceHash": "b472319e7428aa24664e102f88ed57a2909b4a5a06e30bfe3210ef6127c73bf9",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -13071,10 +14144,20 @@
       "wall": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7952"
+      ],
+      "compatibleSourceHashes": [
+        "77e4e98d9be6eacd003cf6abdade9d92054afc9ca351c20fe6e2f81167c26f34"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7953",
+      "id": "2026午馬新歲_雪舞龍騰",
       "name": "雪舞龍騰",
       "w": 16,
       "d": 16,
@@ -13146,7 +14229,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "d52135571eb25f0fdea23a355d02bbf314eeda01d85eed3a8a4897bbb273e7c1",
+      "sourceHash": "ea2c6e831fa4e719f2cb195de378e6ac0a3e6ab00ace26ecd1efa4b5da1a958b",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -13160,7 +14243,7 @@
         "mirroredPixelHash": "b5ec96a0865547635c0a5bb4b01858ec7423156a5afbe4692b2ed62dfbdb8bd4"
       },
       "designHints": {
-        "facing": "none",
+        "facing": "W",
         "confirmed": true,
         "doorOffset": 0.5,
         "doorWidth": 4,
@@ -13180,10 +14263,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7953"
+      ],
+      "compatibleSourceHashes": [
+        "d52135571eb25f0fdea23a355d02bbf314eeda01d85eed3a8a4897bbb273e7c1"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7954",
+      "id": "2026午馬新歲_瑞馬迎春",
       "name": "瑞馬迎春",
       "w": 8,
       "d": 8,
@@ -13283,7 +14376,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "44cb97430b40e174b1f9dbbbf5daf5490bfe2890db0987f62fea5b1fd6f883a5",
+      "sourceHash": "a9556017048d2dc13a2a3c944339ba3e4a50fba27d18d6d647d743f6c3fcb29c",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -13297,7 +14390,7 @@
         "mirroredPixelHash": "c59cc0a184e95a4ff5811ce42b0859c12b1522e76ae4e9ac2d72ccacab21c558"
       },
       "designHints": {
-        "facing": "none",
+        "facing": "W",
         "confirmed": true,
         "doorOffset": 0.5,
         "doorWidth": 4,
@@ -13317,10 +14410,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7954"
+      ],
+      "compatibleSourceHashes": [
+        "44cb97430b40e174b1f9dbbbf5daf5490bfe2890db0987f62fea5b1fd6f883a5"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7955",
+      "id": "2026午馬新歲_土地廟",
       "name": "土地廟",
       "w": 8,
       "d": 8,
@@ -13396,7 +14499,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "a35ed9a9478302041a229f76ec87de575a1f7716fdc461e76a929ca390ee8dd5",
+      "sourceHash": "f020df2c322b0b83a38315917ca4cd9daeb39c39ebab2e8d829ff292c5aa105d",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -13430,10 +14533,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7955"
+      ],
+      "compatibleSourceHashes": [
+        "a35ed9a9478302041a229f76ec87de575a1f7716fdc461e76a929ca390ee8dd5"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7956",
+      "id": "2026午馬新歲_許願樹",
       "name": "許願樹",
       "w": 8,
       "d": 8,
@@ -13485,7 +14598,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "05fc9fa225b844de3028202616990ccbaaab97a455d2bc7bb28e205da0bc7349",
+      "sourceHash": "3150f39f5476c4bcf86ee183e5b13fcb76ca5a88b6e14395b38be1245d972707",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -13519,10 +14632,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7956"
+      ],
+      "compatibleSourceHashes": [
+        "05fc9fa225b844de3028202616990ccbaaab97a455d2bc7bb28e205da0bc7349"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7957",
+      "id": "2026午馬新歲_瓷器攤",
       "name": "瓷器攤",
       "w": 8,
       "d": 8,
@@ -13598,7 +14721,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "9099280ee8a77849fe75d2c3e780c07676c149ca76d19fac0321e3323ea87231",
+      "sourceHash": "dd9b82c32ffc1253d2e45fadd4a2d13336fd8cf1f088a92299271c168bcfbe54",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -13612,7 +14735,7 @@
         "mirroredPixelHash": "84de83d15774bb81d8e1d7dcff8223cf8e9308ae4fa11bd3307442cd0896aac5"
       },
       "designHints": {
-        "facing": "none",
+        "facing": "S",
         "confirmed": true,
         "doorOffset": 0.5,
         "doorWidth": 4,
@@ -13632,10 +14755,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7957"
+      ],
+      "compatibleSourceHashes": [
+        "9099280ee8a77849fe75d2c3e780c07676c149ca76d19fac0321e3323ea87231"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7958",
+      "id": "2026午馬新歲_春聯攤",
       "name": "春聯攤",
       "w": 8,
       "d": 8,
@@ -13711,7 +14844,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "744baa58b44a0636bf22b1e414d721f2896832e17d83e82ae97ed87c073e1c78",
+      "sourceHash": "075bbd25d25a3e024e21e614e6537f281250d986305c2d7660b3503e79e4ec2c",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -13725,7 +14858,7 @@
         "mirroredPixelHash": "d00ec12f891abe28b81297dde7d6949483303d76d0803de58edcf45ecd330bac"
       },
       "designHints": {
-        "facing": "none",
+        "facing": "W",
         "confirmed": true,
         "doorOffset": 0.5,
         "doorWidth": 4,
@@ -13745,10 +14878,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7958"
+      ],
+      "compatibleSourceHashes": [
+        "744baa58b44a0636bf22b1e414d721f2896832e17d83e82ae97ed87c073e1c78"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7959",
+      "id": "2026午馬新歲_鞭炮攤",
       "name": "鞭炮攤",
       "w": 8,
       "d": 8,
@@ -13828,7 +14971,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "8342440fe9d9e31c3e4be997954b515af4e9634a3c7ad64af41fa9332f49cc86",
+      "sourceHash": "1ca9d2cbcbeddad2a6e4f9dad4d51e63f4ec9fc67d72fadaf9950f2d6dc21c43",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -13842,7 +14985,7 @@
         "mirroredPixelHash": "216291b6dd0ac34e8a5e744c77da776f5871b81e91775605b196d08a00b80fa1"
       },
       "designHints": {
-        "facing": "none",
+        "facing": "S",
         "confirmed": true,
         "doorOffset": 0.5,
         "doorWidth": 4,
@@ -13862,10 +15005,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7959"
+      ],
+      "compatibleSourceHashes": [
+        "8342440fe9d9e31c3e4be997954b515af4e9634a3c7ad64af41fa9332f49cc86"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7960",
+      "id": "2026午馬新歲_包子攤",
       "name": "包子攤",
       "w": 8,
       "d": 8,
@@ -13945,7 +15098,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "de57059780286ac6bc0ea3ddc9a1ce54114999d4835ffc45e4e77af550e3bfb5",
+      "sourceHash": "4dd47fc2dd56fc9137475bd602247a46ca30dda2a58607f804ecb4212d0ff7f5",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -13959,7 +15112,7 @@
         "mirroredPixelHash": "c2d23c750bfe129d6189088800814276366654bcc2f0a1f45efe4ef293e12a22"
       },
       "designHints": {
-        "facing": "none",
+        "facing": "S",
         "confirmed": true,
         "doorOffset": 0.5,
         "doorWidth": 4,
@@ -13979,10 +15132,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7960"
+      ],
+      "compatibleSourceHashes": [
+        "de57059780286ac6bc0ea3ddc9a1ce54114999d4835ffc45e4e77af550e3bfb5"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7961",
+      "id": "2026午馬新歲_好豚花生",
       "name": "好豚花生",
       "w": 8,
       "d": 8,
@@ -14066,7 +15229,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "c7e0c03cc3bd9ce7bb2827a85140b65d8c633a03686f2e588179bd23a64b1aac",
+      "sourceHash": "67ea7af42ff52c1bf820967c9b968e21bd0aaec8f88c87d6c8674d7028e166c1",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -14080,7 +15243,7 @@
         "mirroredPixelHash": "335aa515b032ab2ce65d9fabafb561070a0807a979aed654c4d92c2a290af07a"
       },
       "designHints": {
-        "facing": "none",
+        "facing": "S",
         "confirmed": true,
         "doorOffset": 0.5,
         "doorWidth": 4,
@@ -14100,10 +15263,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7961"
+      ],
+      "compatibleSourceHashes": [
+        "c7e0c03cc3bd9ce7bb2827a85140b65d8c633a03686f2e588179bd23a64b1aac"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7962",
+      "id": "2026午馬新歲_天宮賜福",
       "name": "天宮賜福",
       "w": 4,
       "d": 4,
@@ -14155,7 +15328,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "1afb007c530512eb8655e9497cb3f9c123cc1115a16e634cf0134190bf78ddf8",
+      "sourceHash": "ae4789457a9a4313845733426c566a9b8b8eab8a74e201dec924bc514839b322",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -14189,10 +15362,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7962"
+      ],
+      "compatibleSourceHashes": [
+        "1afb007c530512eb8655e9497cb3f9c123cc1115a16e634cf0134190bf78ddf8"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7963",
+      "id": "2026午馬新歲_如意燈牌",
       "name": "如意燈牌",
       "w": 8,
       "d": 8,
@@ -14276,7 +15459,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "4ac78afc34b9ac951557f82728e29bed6631f1de09f24674e2cf7aa68d85125f",
+      "sourceHash": "bbef3e365549b5c1c77ece7bde77ede3a6f23155df653ca4a0e09592f8c6f867",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -14310,10 +15493,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7963"
+      ],
+      "compatibleSourceHashes": [
+        "4ac78afc34b9ac951557f82728e29bed6631f1de09f24674e2cf7aa68d85125f"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7964",
+      "id": "2026午馬新歲_瑞雪圍欄",
       "name": "瑞雪圍欄",
       "w": 4,
       "d": 4,
@@ -14387,7 +15580,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "bb2f22358c9d435456e74594decf2af8feba8e9b17ee7e3f87bc026de0867b76",
+      "sourceHash": "adeccf8c434c658d4e92fb12edaaf01a69582685bc91f1568c5105e6e412b412",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -14401,8 +15594,8 @@
         "mirroredPixelHash": "d52818622f5cce2e8b1b2512fe88f5febab8f3c22ac86d3a228fc223d51d7317"
       },
       "designHints": {
-        "facing": "unknown",
-        "confirmed": false,
+        "facing": "none",
+        "confirmed": true,
         "doorOffset": 0.5,
         "doorWidth": 4,
         "clearance": 4,
@@ -14415,10 +15608,20 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7964"
+      ],
+      "compatibleSourceHashes": [
+        "bb2f22358c9d435456e74594decf2af8feba8e9b17ee7e3f87bc026de0867b76"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7965",
+      "id": "2026午馬新歲_平安燈",
       "name": "平安燈",
       "w": 2,
       "d": 2,
@@ -14470,7 +15673,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "fc281eb1f094026de60f17880364a4b8495a881e421ea022f8c5f819c31101f8",
+      "sourceHash": "1fa7259078f7b409369b823a20076247e26a7d38bfd6ff7f35de0f9766cdf2b6",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -14504,10 +15707,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7965"
+      ],
+      "compatibleSourceHashes": [
+        "fc281eb1f094026de60f17880364a4b8495a881e421ea022f8c5f819c31101f8"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7966",
+      "id": "2026午馬新歲_青磚",
       "name": "青磚",
       "w": 4,
       "d": 4,
@@ -14588,7 +15801,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "1c996a3457be04f5d676f3add273b52408afe689de88e49d2239819b08518904",
+      "sourceHash": "e944939dac6807322e29b03a32cc921f2d2f05d5d63f9fbff399fd86d5d4667e",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -14622,10 +15835,20 @@
       "wall": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7966"
+      ],
+      "compatibleSourceHashes": [
+        "1c996a3457be04f5d676f3add273b52408afe689de88e49d2239819b08518904"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7967",
+      "id": "2026午馬新歲_豐年路",
       "name": "豐年路",
       "w": 4,
       "d": 4,
@@ -14706,7 +15929,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "8c5f6e7ab0744f1262334742509bb93a2632a0194d8331629ef7f1562c740f15",
+      "sourceHash": "071159e0b73a643173b5e7fea69f5b941a3a625b8a8a7179a3b28a50e69c203c",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -14740,10 +15963,20 @@
       "wall": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7967"
+      ],
+      "compatibleSourceHashes": [
+        "8c5f6e7ab0744f1262334742509bb93a2632a0194d8331629ef7f1562c740f15"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7968",
+      "id": "2026午馬新歲_瑞雪地",
       "name": "瑞雪地",
       "w": 4,
       "d": 4,
@@ -14811,7 +16044,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "d6b2db81c9a77c205fd4e9e5249a855b64957411f54014d48ba8c38a2f0581ae",
+      "sourceHash": "e655b2d7e2d2da5e4b22298d5040b8771e0d6a096ecfc9ac9443c09af3ace36e",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -14845,10 +16078,20 @@
       "wall": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7968"
+      ],
+      "compatibleSourceHashes": [
+        "d6b2db81c9a77c205fd4e9e5249a855b64957411f54014d48ba8c38a2f0581ae"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7969",
+      "id": "大亨藏品_陽光卡皮號",
       "name": "陽光卡皮號",
       "w": 24,
       "d": 24,
@@ -14925,7 +16168,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "613595429eafd70d80380ca0c0566cd2b568d0742e2fcae447ee828ac467a0d3",
+      "sourceHash": "902bbc1b265ebf44ee031a4407a267419fd3b0273a783cf3290d5fa456913144",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -14958,10 +16201,20 @@
       "alignmentScale": 1,
       "wall": null,
       "floorSurface": null,
-      "displayHeight": null
+      "displayHeight": null,
+      "legacyIds": [
+        "item_7969"
+      ],
+      "compatibleSourceHashes": [
+        "613595429eafd70d80380ca0c0566cd2b568d0742e2fcae447ee828ac467a0d3"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7970",
+      "id": "大亨藏品_豚豚號",
       "name": "豚豚號",
       "w": 16,
       "d": 16,
@@ -15034,7 +16287,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "9ed2e0f49b65f455a6a44b24a5658d82d3b237e5acd74d6e762c0a994be3d745",
+      "sourceHash": "119b7d777d3dc0f1f0eb230e3f0488e8ec36bd55899e79c55cccdbd6efa23238",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -15067,10 +16320,20 @@
       "alignmentScale": 1,
       "wall": null,
       "floorSurface": null,
-      "displayHeight": null
+      "displayHeight": null,
+      "legacyIds": [
+        "item_7970"
+      ],
+      "compatibleSourceHashes": [
+        "9ed2e0f49b65f455a6a44b24a5658d82d3b237e5acd74d6e762c0a994be3d745"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7971",
+      "id": "大亨藏品_幽靈號",
       "name": "幽靈號",
       "w": 16,
       "d": 16,
@@ -15143,7 +16406,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "a00d870233d91d5b4e516455976786eaabee0588cb9d54bf2a65c38b05ffaab0",
+      "sourceHash": "4abbd6afe23972ddafc2faf75b8a17df488a17473bcbd371a076d84a0124fcfa",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -15176,10 +16439,20 @@
       "alignmentScale": 1,
       "wall": null,
       "floorSurface": null,
-      "displayHeight": null
+      "displayHeight": null,
+      "legacyIds": [
+        "item_7971"
+      ],
+      "compatibleSourceHashes": [
+        "a00d870233d91d5b4e516455976786eaabee0588cb9d54bf2a65c38b05ffaab0"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7972",
+      "id": "夏日海灘_夏日滑滑樂",
       "name": "夏日滑滑樂",
       "w": 16,
       "d": 16,
@@ -15255,7 +16528,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "2728ad6d68c089620784145b05f30dedca536f9d82becfb72ad2b569722db134",
+      "sourceHash": "f1a7eb54726498d8a2bde345f2d926f4077995fa4e0059df0c6bf8c75e3bbadc",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -15289,10 +16562,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7972"
+      ],
+      "compatibleSourceHashes": [
+        "2728ad6d68c089620784145b05f30dedca536f9d82becfb72ad2b569722db134"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7973",
+      "id": "夏日海灘_黃金城堡",
       "name": "黃金城堡",
       "w": 8,
       "d": 8,
@@ -15364,7 +16647,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "3c940f8c2d7e04dfd26a2287e5dc58b74798f6c72bfdd3cee6ede0a5afd84da1",
+      "sourceHash": "c195ef7c1e22171caba5076d407e24e8d7cb8845dede22d6eddb0241d469f3e8",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -15398,10 +16681,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7973"
+      ],
+      "compatibleSourceHashes": [
+        "3c940f8c2d7e04dfd26a2287e5dc58b74798f6c72bfdd3cee6ede0a5afd84da1"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7974",
+      "id": "夏日海灘_清涼池",
       "name": "清涼池",
       "w": 8,
       "d": 8,
@@ -15453,7 +16746,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "4b87af02c280e0a07de4e8d5fd538b338118bc91139c113da828b2d05b63d840",
+      "sourceHash": "ac80d07c1199aac93b47b540ff672628c7c4a87cf35bf8e6a9ab3801b055f3df",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -15487,10 +16780,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7974"
+      ],
+      "compatibleSourceHashes": [
+        "4b87af02c280e0a07de4e8d5fd538b338118bc91139c113da828b2d05b63d840"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7975",
+      "id": "夏日海灘_水果小船",
       "name": "水果小船",
       "w": 8,
       "d": 8,
@@ -15562,7 +16865,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "24c29fc61cc30fa5ee52e2ff5b7934182c8c0c82f5ac5c48e3d588c23a9de2a5",
+      "sourceHash": "ea4b797a02b4bfff9203d143a1b8611a0c4befa60e4a007ea1aef1bf513b229d",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -15596,10 +16899,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7975"
+      ],
+      "compatibleSourceHashes": [
+        "24c29fc61cc30fa5ee52e2ff5b7934182c8c0c82f5ac5c48e3d588c23a9de2a5"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7976",
+      "id": "夏日海灘_衝浪板架",
       "name": "衝浪板架",
       "w": 8,
       "d": 8,
@@ -15664,7 +16977,7 @@
         "h": 851
       },
       "calibration": {
-        "scale": 1,
+        "scale": 1.05,
         "scaleX": 1,
         "scaleY": 1,
         "offsetX": 8,
@@ -15675,7 +16988,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "1cffab592cbcfb43d03634099037f5fa920781efc0b2c67eec973dd35e940407",
+      "sourceHash": "6d973a2895086835319b5555cacbad0ea3e7d10aeb3ab6af653034c6b74b28be",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -15709,10 +17022,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7976"
+      ],
+      "compatibleSourceHashes": [
+        "1cffab592cbcfb43d03634099037f5fa920781efc0b2c67eec973dd35e940407"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7977",
+      "id": "夏日海灘_海灘路牌",
       "name": "海灘路牌",
       "w": 8,
       "d": 8,
@@ -15777,7 +17100,7 @@
         "h": 827
       },
       "calibration": {
-        "scale": 1.15,
+        "scale": 1.05,
         "scaleX": 1,
         "scaleY": 1,
         "offsetX": 4,
@@ -15788,7 +17111,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "d2ac3fdbb220955be396b46c9aa95892c64b12262ba9a0481e516d750c441a98",
+      "sourceHash": "f2f0a41f104be1e7f4b354448cfd5443aaddd4f10da00860effb2d8ce1a5cd1d",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -15822,10 +17145,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7977"
+      ],
+      "compatibleSourceHashes": [
+        "d2ac3fdbb220955be396b46c9aa95892c64b12262ba9a0481e516d750c441a98"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7978",
+      "id": "夏日海灘_黃金雪人",
       "name": "黃金雪人",
       "w": 4,
       "d": 4,
@@ -15897,7 +17230,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "cb4fa2e5c5869ba82d4e5e9e4ab1f77b1f3e3d63e7cf0371ea8de175505c3d6e",
+      "sourceHash": "88cfdd5609ea5c404e3b19e836add303c6e9204650d16d801fd0ea83ca1142aa",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -15931,10 +17264,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7978"
+      ],
+      "compatibleSourceHashes": [
+        "cb4fa2e5c5869ba82d4e5e9e4ab1f77b1f3e3d63e7cf0371ea8de175505c3d6e"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7979",
+      "id": "夏日海灘_悠閒沙灘墊",
       "name": "悠閒沙灘墊",
       "w": 4,
       "d": 4,
@@ -15975,7 +17318,7 @@
         "h": 657
       },
       "calibration": {
-        "scale": 1.25,
+        "scale": 1.05,
         "scaleX": 1,
         "scaleY": 1.05,
         "offsetX": 0,
@@ -15986,7 +17329,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "0c1b86646cfbcfa9567045640e7413490092a81c8e659ba929071eaae5fdcf75",
+      "sourceHash": "b50a95159f77b2ec0b88f951c3f5cacc7c86a4151f5b94b2021c8c0587ba72c1",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -16020,10 +17363,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7979"
+      ],
+      "compatibleSourceHashes": [
+        "0c1b86646cfbcfa9567045640e7413490092a81c8e659ba929071eaae5fdcf75"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7980",
+      "id": "夏日海灘_沙灘拖鞋",
       "name": "沙灘拖鞋",
       "w": 2,
       "d": 2,
@@ -16091,7 +17444,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "4c235ffe0aa1fcb2c455550a958c0a0157a46dac1756e1eaf78deda82d43ebed",
+      "sourceHash": "f9329376ba779ccb204a2647fc90f61525c8401afbb0046001467348fd1c12cd",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -16125,10 +17478,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7980"
+      ],
+      "compatibleSourceHashes": [
+        "4c235ffe0aa1fcb2c455550a958c0a0157a46dac1756e1eaf78deda82d43ebed"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7981",
+      "id": "夏日海灘_雙生椰子樹",
       "name": "雙生椰子樹",
       "w": 4,
       "d": 4,
@@ -16221,14 +17584,14 @@
         "scaleX": 1,
         "scaleY": 1,
         "offsetX": -1.5,
-        "offsetY": 2.5,
+        "offsetY": 3.5,
         "rotation": 0,
         "layer": 0,
         "edge": null,
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "dbf94f6264668592ae6083b729d4a7aa73ed6c99995e5a3b583067a784871fbd",
+      "sourceHash": "06dffd3f7d4180c60a0b892fd65798a5e4b4dfe6e5a6461e0d384425a9b69ba8",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -16262,10 +17625,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7981"
+      ],
+      "compatibleSourceHashes": [
+        "dbf94f6264668592ae6083b729d4a7aa73ed6c99995e5a3b583067a784871fbd"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7982",
+      "id": "夏日海灘_椰子樹",
       "name": "椰子樹",
       "w": 4,
       "d": 4,
@@ -16358,14 +17731,14 @@
         "scaleX": 1,
         "scaleY": 1,
         "offsetX": -1.5,
-        "offsetY": 2.5,
+        "offsetY": 3.5,
         "rotation": 0,
         "layer": 0,
         "edge": null,
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "a3b58531d4b19dd11b6e0f959ae0d23f384656f30698e2bb693df9b8b4063d73",
+      "sourceHash": "ca8379e09777f98911d5c9a5107b4783436f8d922fd76d01ecdf693d40196672",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -16399,10 +17772,20 @@
       "wall": null,
       "floorSurface": null,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7982"
+      ],
+      "compatibleSourceHashes": [
+        "a3b58531d4b19dd11b6e0f959ae0d23f384656f30698e2bb693df9b8b4063d73"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_7983",
+      "id": "夏日海灘_沙灘",
       "name": "沙灘",
       "w": 4,
       "d": 4,
@@ -16470,7 +17853,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "534560c168597e4a8b0f57c9340f3f668ab6aa82f52304b8faf82bbb754c8557",
+      "sourceHash": "2c6f90213c98b3a2022c007cf0564f3b6b42176c75c8610c9d66aa396b5ebcbf",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -16504,10 +17887,20 @@
       "wall": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_7983"
+      ],
+      "compatibleSourceHashes": [
+        "534560c168597e4a8b0f57c9340f3f668ab6aa82f52304b8faf82bbb754c8557"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "reward_8055",
+      "id": "活動限時建築_招財進寶樹",
       "name": "招財進寶樹",
       "theme": "活動限時建築",
       "w": 8,
@@ -16562,7 +17955,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "cd7f2bc76e146fcdd1fa4cf779a0a14cc17a0d63911f9878712fbf127627e59e",
+      "sourceHash": "76279ec502390c954256843570102a349b6fab20b1e003cf127ee8a948ea6684",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -16597,10 +17990,20 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "reward_8055"
+      ],
+      "compatibleSourceHashes": [
+        "cd7f2bc76e146fcdd1fa4cf779a0a14cc17a0d63911f9878712fbf127627e59e"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "reward_8056",
+      "id": "聖杯排行獎勵_絕代雙驕殿",
       "name": "絕代雙驕殿",
       "theme": "聖杯排行獎勵",
       "w": 16,
@@ -16673,7 +18076,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "003afe13348062e23567c83189030c4b5b6909a87831f1f55f366e955ee6a41d",
+      "sourceHash": "99402811bf12b2b1863f9d48f52605784b7ec9dfa425439984b4c5feab7530d0",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -16705,10 +18108,20 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "reward_8056"
+      ],
+      "compatibleSourceHashes": [
+        "003afe13348062e23567c83189030c4b5b6909a87831f1f55f366e955ee6a41d"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "reward_8057",
+      "id": "聖杯排行獎勵_英武雙雄臺",
       "name": "英武雙雄臺",
       "theme": "聖杯排行獎勵",
       "w": 16,
@@ -16781,7 +18194,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "2764c561b34a54e33b00e595cd34ae28a1794dfe570e557949c381ad0bfbab0c",
+      "sourceHash": "2a6e10cc8f9c4317a35a1d9cd4b9e84dfe68955e94f3f13c180e06565d34cc2d",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -16813,10 +18226,20 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "reward_8057"
+      ],
+      "compatibleSourceHashes": [
+        "2764c561b34a54e33b00e595cd34ae28a1794dfe570e557949c381ad0bfbab0c"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "reward_8058",
+      "id": "聖杯排行獎勵_非凡雙傑座",
       "name": "非凡雙傑座",
       "theme": "聖杯排行獎勵",
       "w": 16,
@@ -16889,7 +18312,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "447b5a7443f4c62086f2f04ff532e72de2de399b97e2906e67461da533f8a026",
+      "sourceHash": "3816de86d4fa4e8c96e2a0360754597d5efee4c65ffac88a5538418f82bac458",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -16921,10 +18344,20 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "reward_8058"
+      ],
+      "compatibleSourceHashes": [
+        "447b5a7443f4c62086f2f04ff532e72de2de399b97e2906e67461da533f8a026"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "reward_8059",
+      "id": "武道排行獎勵_天下第一",
       "name": "天下第一",
       "theme": "武道排行獎勵",
       "w": 8,
@@ -16996,7 +18429,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "6c5560185d2683d5d8e72e7e80711984e9ed2cb44d5a73b161512acf2c2a583b",
+      "sourceHash": "15f349925230d28e8433fea01b1acd9a86d394307957cf4fe6ff4578b35feacc",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -17029,10 +18462,20 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "reward_8059"
+      ],
+      "compatibleSourceHashes": [
+        "6c5560185d2683d5d8e72e7e80711984e9ed2cb44d5a73b161512acf2c2a583b"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "reward_8060",
+      "id": "武道排行獎勵_天下第二",
       "name": "天下第二",
       "theme": "武道排行獎勵",
       "w": 8,
@@ -17104,7 +18547,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "0e2c810a0cdd072275954d0a7d38e34a58d13826a2b5832a5c36248bd6c7b80a",
+      "sourceHash": "b8a31bdc8d4f91cff5f7239ebb766c6f4a67dd98cb99c2b6244f36035c64d749",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -17137,10 +18580,20 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "reward_8060"
+      ],
+      "compatibleSourceHashes": [
+        "0e2c810a0cdd072275954d0a7d38e34a58d13826a2b5832a5c36248bd6c7b80a"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "reward_8061",
+      "id": "武道排行獎勵_天下第三",
       "name": "天下第三",
       "theme": "武道排行獎勵",
       "w": 8,
@@ -17212,7 +18665,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "9258ce540dc4bb59e5b3245f8da928cf657bfbd4f0083995b53534bb2815995a",
+      "sourceHash": "16a53bca3ff53f543a226c0fca641869cad0c7a0ce436e4439bcc0dbaacc40dd",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -17245,10 +18698,20 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "reward_8061"
+      ],
+      "compatibleSourceHashes": [
+        "9258ce540dc4bb59e5b3245f8da928cf657bfbd4f0083995b53534bb2815995a"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "reward_8062",
+      "id": "爭霸排行獎勵_星之王座",
       "name": "星之王座",
       "theme": "爭霸排行獎勵",
       "w": 16,
@@ -17327,7 +18790,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "cf3df928ecec805ad47c3ac6f70a49b33b9d9eeaa877865f249e5873da70df86",
+      "sourceHash": "a8af2cb8fa409e0b582d611bbe2b42a5eee3256c8dc2d89af79f48d8ad489414",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -17359,10 +18822,20 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "reward_8062"
+      ],
+      "compatibleSourceHashes": [
+        "cf3df928ecec805ad47c3ac6f70a49b33b9d9eeaa877865f249e5873da70df86"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "reward_8063",
+      "id": "爭霸排行獎勵_金之王座",
       "name": "金之王座",
       "theme": "爭霸排行獎勵",
       "w": 16,
@@ -17441,7 +18914,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "95669ce5042bf01659d8643c249b14d3ea4a3c04c46dba08f12e7d47c4ce16b2",
+      "sourceHash": "bfdb75f2c43cb2dbb9834699a74241a0b34d3d4f2e3cb82b51f404e9febb5fee",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -17473,10 +18946,20 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "reward_8063"
+      ],
+      "compatibleSourceHashes": [
+        "95669ce5042bf01659d8643c249b14d3ea4a3c04c46dba08f12e7d47c4ce16b2"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "reward_8064",
+      "id": "爭霸排行獎勵_鋼之王座",
       "name": "鋼之王座",
       "theme": "爭霸排行獎勵",
       "w": 16,
@@ -17555,7 +19038,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "5f5892e86523168a52b41fb56278eccc5333d98719bf9b73e76d58da7a7bec29",
+      "sourceHash": "f836bc387e51dc2fbdb9b4757d5f9709509f67b258edc709158aebf0e3fa717f",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -17587,10 +19070,20 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "reward_8064"
+      ],
+      "compatibleSourceHashes": [
+        "5f5892e86523168a52b41fb56278eccc5333d98719bf9b73e76d58da7a7bec29"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_64431",
+      "id": "2026整蠱節_小丑帳篷",
       "name": "小丑帳篷",
       "theme": "2026整蠱節",
       "w": 16,
@@ -17647,7 +19140,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "da8f2f7a01f7f35ebde5e572d4a0d12a0449630582e2bce3947c73356e7285b8",
+      "sourceHash": "acb19d368c2ee42b9080662a6897407a0001cf3960e61df58fbeee5fd8301b56",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -17681,10 +19174,20 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_64431"
+      ],
+      "compatibleSourceHashes": [
+        "da8f2f7a01f7f35ebde5e572d4a0d12a0449630582e2bce3947c73356e7285b8"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_64430",
+      "id": "2026整蠱節_舞台",
       "name": "舞台",
       "theme": "2026整蠱節",
       "w": 8,
@@ -17740,7 +19243,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "1dfea50ee957b8dd1c9c0f7d4b2c8d82b208f161a3cc81df129fb29b44b02c63",
+      "sourceHash": "5a92e2be05087212837426ae16b47c6637d908ac64751c5639b4602608e5d021",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -17775,10 +19278,20 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_64430"
+      ],
+      "compatibleSourceHashes": [
+        "1dfea50ee957b8dd1c9c0f7d4b2c8d82b208f161a3cc81df129fb29b44b02c63"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_64429",
+      "id": "2026整蠱節_松餅屋",
       "name": "松餅屋",
       "theme": "2026整蠱節",
       "w": 8,
@@ -17834,7 +19347,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "0ff3bd486e6a140e74abdc40c30efc74807117e42705c05c94fdd527ac62cf54",
+      "sourceHash": "3bf77a16dd2bfbd922584f2560d2510194e13032442de2d7d7e28d1da7de2c8b",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -17848,7 +19361,7 @@
         "mirroredPixelHash": "77b31e041061f5ea2d8335c4acca002490dc67888a880ef752f5c2d0b6e05472"
       },
       "designHints": {
-        "facing": "none",
+        "facing": "S",
         "confirmed": true,
         "doorOffset": 0.5,
         "doorWidth": 4,
@@ -17869,10 +19382,20 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_64429"
+      ],
+      "compatibleSourceHashes": [
+        "0ff3bd486e6a140e74abdc40c30efc74807117e42705c05c94fdd527ac62cf54"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_64428",
+      "id": "2026整蠱節_卡皮噴泉",
       "name": "卡皮噴泉",
       "theme": "2026整蠱節",
       "w": 8,
@@ -17928,7 +19451,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "5f1b13038b4c601b6fd713900d2cc526d4056971bd1d9eb6f5c90fecb0fed960",
+      "sourceHash": "2ff5a82dcc001994dd4abe62559022aafb2f81d5fde82f06573bf64ad1f242bc",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -17963,10 +19486,20 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_64428"
+      ],
+      "compatibleSourceHashes": [
+        "5f1b13038b4c601b6fd713900d2cc526d4056971bd1d9eb6f5c90fecb0fed960"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_64427",
+      "id": "2026整蠱節_彩花炮",
       "name": "彩花炮",
       "theme": "2026整蠱節",
       "w": 8,
@@ -18022,7 +19555,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "90eebb1b5942b05d4472b0cc802f17db891c655b0e5e52a7c35443493852abef",
+      "sourceHash": "ca48d1559c65a91203995d042d1ab3086a6bce1e23e941832296f933c236dbad",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -18036,7 +19569,7 @@
         "mirroredPixelHash": "8094bd8b58e22ca631cd0b8c9bdaaded9bec01d58aaf414551aa570514b58505"
       },
       "designHints": {
-        "facing": "none",
+        "facing": "S",
         "confirmed": true,
         "doorOffset": 0.5,
         "doorWidth": 4,
@@ -18057,10 +19590,20 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_64427"
+      ],
+      "compatibleSourceHashes": [
+        "90eebb1b5942b05d4472b0cc802f17db891c655b0e5e52a7c35443493852abef"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_64426",
+      "id": "2026整蠱節_小丑禮盒",
       "name": "小丑禮盒",
       "theme": "2026整蠱節",
       "w": 8,
@@ -18116,7 +19659,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "eef1d5c2436a6d364d04cc2de43d6dd8e267507eee73cc06b4f067e5c0b5efe5",
+      "sourceHash": "a2c95abfec662c0f05cd860e3acdb4c1a48002064cec311c811855b9920b37fb",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -18130,7 +19673,7 @@
         "mirroredPixelHash": "b3ea1330d1a36d703b713d4e55396adf50890acbbadf03aa8fd1bd40d98599db"
       },
       "designHints": {
-        "facing": "none",
+        "facing": "W",
         "confirmed": true,
         "doorOffset": 0.5,
         "doorWidth": 4,
@@ -18151,10 +19694,20 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_64426"
+      ],
+      "compatibleSourceHashes": [
+        "eef1d5c2436a6d364d04cc2de43d6dd8e267507eee73cc06b4f067e5c0b5efe5"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_64425",
+      "id": "2026整蠱節_卡皮盒子",
       "name": "卡皮盒子",
       "theme": "2026整蠱節",
       "w": 4,
@@ -18210,7 +19763,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "894ceee7c3e66408ac0a6bb66604fdab825c3ac036946dc30f117a0f85421c23",
+      "sourceHash": "95e874a50a28e2c31f63d696ce9c6d5eadf14472a38a1c33fa9484a6d93bc4fa",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -18224,7 +19777,7 @@
         "mirroredPixelHash": "a18287023f5d22b00e141f11bd776cd69ce0083d46832f14fa37ed37e06003e3"
       },
       "designHints": {
-        "facing": "none",
+        "facing": "W",
         "confirmed": true,
         "doorOffset": 0.5,
         "doorWidth": 4,
@@ -18245,10 +19798,20 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_64425"
+      ],
+      "compatibleSourceHashes": [
+        "894ceee7c3e66408ac0a6bb66604fdab825c3ac036946dc30f117a0f85421c23"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_64424",
+      "id": "2026整蠱節_香蕉皮",
       "name": "香蕉皮",
       "theme": "2026整蠱節",
       "w": 2,
@@ -18304,7 +19867,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "c92e91c2f0c316c06e2b54d47a93d005a5e879b3d55677402da582f53523e7b9",
+      "sourceHash": "5d37002cd90dee98670c138eac9bc7917d13da19b9f401231bb2e2443695b1a3",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -18339,10 +19902,20 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_64424"
+      ],
+      "compatibleSourceHashes": [
+        "c92e91c2f0c316c06e2b54d47a93d005a5e879b3d55677402da582f53523e7b9"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_64423",
+      "id": "Pingu聯動_Pingu之家",
       "name": "Pingu之家",
       "theme": "Pingu聯動",
       "w": 16,
@@ -18399,7 +19972,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "8449c7c9369c633178d36e8c9008b9eec2e61bc12c76d2a0671faeff1eef794d",
+      "sourceHash": "cb6d292be4a029bd3583e1874bc8477eb6dddfbd8fd3c5b2aef185ca7caf793c",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -18433,10 +20006,20 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_64423"
+      ],
+      "compatibleSourceHashes": [
+        "8449c7c9369c633178d36e8c9008b9eec2e61bc12c76d2a0671faeff1eef794d"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_64422",
+      "id": "Pingu聯動_Noot_Noot",
       "name": "Noot Noot",
       "theme": "Pingu聯動",
       "w": 8,
@@ -18492,7 +20075,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "e45bad0a609f1e7bd0a4b3eb1d4792375bd991a7745787f6b58b512e6249c40d",
+      "sourceHash": "a0d939ea42920aa8d6eb03b7af4bbea0c469f478ef6acc5892251849c0fa7c10",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -18506,7 +20089,7 @@
         "mirroredPixelHash": "e5b2df51f532054e275d1cd43aceba6d6ee2ea5a63d9fc4d8c161a1efb255b5d"
       },
       "designHints": {
-        "facing": "none",
+        "facing": "W",
         "confirmed": true,
         "doorOffset": 0.5,
         "doorWidth": 4,
@@ -18527,10 +20110,20 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_64422"
+      ],
+      "compatibleSourceHashes": [
+        "e45bad0a609f1e7bd0a4b3eb1d4792375bd991a7745787f6b58b512e6249c40d"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_64421",
+      "id": "Pingu聯動_絕不空軍",
       "name": "絕不空軍",
       "theme": "Pingu聯動",
       "w": 8,
@@ -18586,7 +20179,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "bc228becc8e1750ef8e4bfd6615e18c99a021f20afbd2e9e3f66270e29fd89a3",
+      "sourceHash": "0edf34e9c10dfa5264d32af08ca1a2057a3ad191041b64bae4a111e2bf1fef6d",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -18600,7 +20193,7 @@
         "mirroredPixelHash": "70187c8a7ec093429857d29d003ab18aadf89af96e8d8cf8689dbd154d23e93c"
       },
       "designHints": {
-        "facing": "none",
+        "facing": "W",
         "confirmed": true,
         "doorOffset": 0.5,
         "doorWidth": 4,
@@ -18621,10 +20214,20 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_64421"
+      ],
+      "compatibleSourceHashes": [
+        "bc228becc8e1750ef8e4bfd6615e18c99a021f20afbd2e9e3f66270e29fd89a3"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_64420",
+      "id": "Pingu聯動_雪地卡丁車",
       "name": "雪地卡丁車",
       "theme": "Pingu聯動",
       "w": 8,
@@ -18680,7 +20283,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "495502708c859beef465aca76a8e3d1be5b8c8325b5c3ed6dbc3cbf9d25cc020",
+      "sourceHash": "91928f40a39f12c1e52abf1e35cc3c0041f8466f49328f27a7fdbc9265d5887b",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -18694,7 +20297,7 @@
         "mirroredPixelHash": "58ca67048802ee16e8ef9ac89c54df1e5f78054bf803aa3d61a3fe6c3d80ab14"
       },
       "designHints": {
-        "facing": "none",
+        "facing": "S",
         "confirmed": true,
         "doorOffset": 0.5,
         "doorWidth": 4,
@@ -18715,10 +20318,20 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_64420"
+      ],
+      "compatibleSourceHashes": [
+        "495502708c859beef465aca76a8e3d1be5b8c8325b5c3ed6dbc3cbf9d25cc020"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_64419",
+      "id": "Pingu聯動_雪人",
       "name": "雪人",
       "theme": "Pingu聯動",
       "w": 4,
@@ -18774,7 +20387,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "4c407a91ae5ed5ee2b257651184e4f28fb62b5ee1c8c923f8313d58325b1591e",
+      "sourceHash": "3d20e7a1ad75c567a5ef345dd17ac4752b527cd98c20fc097ff7d2362f57e6c7",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -18809,10 +20422,20 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_64419"
+      ],
+      "compatibleSourceHashes": [
+        "4c407a91ae5ed5ee2b257651184e4f28fb62b5ee1c8c923f8313d58325b1591e"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_64418",
+      "id": "Pingu聯動_雪圍欄",
       "name": "雪圍欄",
       "theme": "Pingu聯動",
       "w": 4,
@@ -18870,7 +20493,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "4e37b04eb16262e261435dd1b811a8895c8b160e70cef4b4dd82f54f85ca68a0",
+      "sourceHash": "5b1da59ae9f708b0ad11ab0e7840589bf9cf97c2c3d056335f7cd2c516d9934e",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -18884,8 +20507,8 @@
         "mirroredPixelHash": "a5bd3449a98e17a22a2615ca90ff364ca7db9cdf5bf67d4ae2985e0a982fdc8c"
       },
       "designHints": {
-        "facing": "unknown",
-        "confirmed": false,
+        "facing": "none",
+        "confirmed": true,
         "doorOffset": 0.5,
         "doorWidth": 4,
         "clearance": 4,
@@ -18899,10 +20522,20 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_64418"
+      ],
+      "compatibleSourceHashes": [
+        "4e37b04eb16262e261435dd1b811a8895c8b160e70cef4b4dd82f54f85ca68a0"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_64417",
+      "id": "Pingu聯動_雪路",
       "name": "雪路",
       "theme": "Pingu聯動",
       "w": 4,
@@ -18984,7 +20617,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "39a0e8e4606f046dccb90ffa7276c9a7906a564ae470601b5fc6c2e7e5873841",
+      "sourceHash": "bc4abbd431a444fbcfbc2f327816410a39ecf0ad7d9cdbd7507e561959e868e1",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -19018,10 +20651,20 @@
       "wall": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_64417"
+      ],
+      "compatibleSourceHashes": [
+        "39a0e8e4606f046dccb90ffa7276c9a7906a564ae470601b5fc6c2e7e5873841"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_64416",
+      "id": "Pingu聯動_雪地",
       "name": "雪地",
       "theme": "Pingu聯動",
       "w": 4,
@@ -19090,7 +20733,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "77e4e98d9be6eacd003cf6abdade9d92054afc9ca351c20fe6e2f81167c26f34",
+      "sourceHash": "b472319e7428aa24664e102f88ed57a2909b4a5a06e30bfe3210ef6127c73bf9",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -19124,10 +20767,20 @@
       "wall": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_64416"
+      ],
+      "compatibleSourceHashes": [
+        "77e4e98d9be6eacd003cf6abdade9d92054afc9ca351c20fe6e2f81167c26f34"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_64415",
+      "id": "2026粽子節_龍舟",
       "name": "龍舟",
       "theme": "2026粽子節",
       "w": 16,
@@ -19184,7 +20837,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "c23612e2d0f10ea5df3c198b4e858e76c8c482972aaddc046b1bbccd05714e4b",
+      "sourceHash": "0cd98f681b734ca9f4ddc1cd93f819b81eea321622b4e0ec77843aa2c30402e4",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -19218,10 +20871,20 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_64415"
+      ],
+      "compatibleSourceHashes": [
+        "c23612e2d0f10ea5df3c198b4e858e76c8c482972aaddc046b1bbccd05714e4b"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_64414",
+      "id": "2026粽子節_粽香亭",
       "name": "粽香亭",
       "theme": "2026粽子節",
       "w": 8,
@@ -19277,7 +20940,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "a9214e36985476ff42506c70281abe6458f8d4e99b1c94133be4970a72001544",
+      "sourceHash": "03c3eccdb062a071333de83e221be4afc4c7cb3771c5fe606967f2b785e63650",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -19291,7 +20954,7 @@
         "mirroredPixelHash": "844916d94d2d128276faafd1660b806659ac37e6904fdb079e40287d583f4064"
       },
       "designHints": {
-        "facing": "none",
+        "facing": "W",
         "confirmed": true,
         "doorOffset": 0.5,
         "doorWidth": 4,
@@ -19312,10 +20975,20 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_64414"
+      ],
+      "compatibleSourceHashes": [
+        "a9214e36985476ff42506c70281abe6458f8d4e99b1c94133be4970a72001544"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_64413",
+      "id": "2026粽子節_水池",
       "name": "水池",
       "theme": "2026粽子節",
       "w": 8,
@@ -19371,7 +21044,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "2d3e5e3b7f68dc951d38f9227a6d61a5cc7b90a6a5895dff4ff9cf47caf2588f",
+      "sourceHash": "6ec2cd5c847d400d7224cf9408dfefb73db231af5a6dfdbbd729023bf720a6af",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -19406,10 +21079,20 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_64413"
+      ],
+      "compatibleSourceHashes": [
+        "2d3e5e3b7f68dc951d38f9227a6d61a5cc7b90a6a5895dff4ff9cf47caf2588f"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_64412",
+      "id": "2026粽子節_棋桌",
       "name": "棋桌",
       "theme": "2026粽子節",
       "w": 8,
@@ -19465,7 +21148,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "188cc2785f42edb6b7d42e5445c12a5018126e0fc7cb986e3d1540eb3a07d9b9",
+      "sourceHash": "7c2b52473cac0e282210a7121a92640f35ac595f1e8a76ee778d14222e92a09f",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -19479,7 +21162,7 @@
         "mirroredPixelHash": "a80ea2b0ddd89cf918d157410ce6eed23c3a5a5a5f0ac9758fde165c6015fe89"
       },
       "designHints": {
-        "facing": "none",
+        "facing": "W",
         "confirmed": true,
         "doorOffset": 0.5,
         "doorWidth": 4,
@@ -19500,10 +21183,20 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_64412"
+      ],
+      "compatibleSourceHashes": [
+        "188cc2785f42edb6b7d42e5445c12a5018126e0fc7cb986e3d1540eb3a07d9b9"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_64411",
+      "id": "2026粽子節_荷塘",
       "name": "荷塘",
       "theme": "2026粽子節",
       "w": 8,
@@ -19559,7 +21252,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "d6dbe20fa221c7c596080c4e166aea07b495479657dd68250d16489acf02b7b9",
+      "sourceHash": "b9bfbcf3e463182df61f5cabc88829165d344ae4efb35abd156cdd5419ba1f19",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -19594,10 +21287,20 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_64411"
+      ],
+      "compatibleSourceHashes": [
+        "d6dbe20fa221c7c596080c4e166aea07b495479657dd68250d16489acf02b7b9"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_64410",
+      "id": "2026粽子節_石階",
       "name": "石階",
       "theme": "2026粽子節",
       "w": 4,
@@ -19653,7 +21356,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "826f2d1da036774b40b1cc93a267c0a63133095f4e23b41494d5195e29b7a436",
+      "sourceHash": "ac16eac2e050d891bef349f9deeb24327e3ad7fe7493bfc2ed46966ca556700a",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -19688,10 +21391,20 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_64410"
+      ],
+      "compatibleSourceHashes": [
+        "826f2d1da036774b40b1cc93a267c0a63133095f4e23b41494d5195e29b7a436"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_64409",
+      "id": "2026粽子節_艾香樹",
       "name": "艾香樹",
       "theme": "2026粽子節",
       "w": 4,
@@ -19747,7 +21460,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "9a584b982c7ef08bce9ac421415de8b07821ca6774a690325c4003d90f2ff1cb",
+      "sourceHash": "7e32bcc054a9bf2daec5440aa508fb6401fbd489d85385faded5355a52e9a588",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -19782,10 +21495,20 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_64409"
+      ],
+      "compatibleSourceHashes": [
+        "9a584b982c7ef08bce9ac421415de8b07821ca6774a690325c4003d90f2ff1cb"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_64407",
+      "id": "花好月圓_攬月樓",
       "name": "攬月樓",
       "theme": "花好月圓",
       "w": 16,
@@ -19842,7 +21565,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "621996d18a14f8aa6e7a9e0cca78d3bbe260300e6764fdf74f97712b0a79e404",
+      "sourceHash": "569c3248828577219a9668827e68e8012bd96d5b8dbc191a29688bd9ac304dbb",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -19876,10 +21599,20 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_64407"
+      ],
+      "compatibleSourceHashes": [
+        "621996d18a14f8aa6e7a9e0cca78d3bbe260300e6764fdf74f97712b0a79e404"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_64406",
+      "id": "花好月圓_月神祠",
       "name": "月神祠",
       "theme": "花好月圓",
       "w": 8,
@@ -19935,7 +21668,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "d76335e47618fdbb8d6e6469feebaf53f9ab6de0e8145b2350d7073f522ef414",
+      "sourceHash": "bb52fa255b3880fe15708aa5e7ffaa40fa711d258051f546cf8479c250c87034",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -19970,10 +21703,20 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_64406"
+      ],
+      "compatibleSourceHashes": [
+        "d76335e47618fdbb8d6e6469feebaf53f9ab6de0e8145b2350d7073f522ef414"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_64405",
+      "id": "花好月圓_邀月亭",
       "name": "邀月亭",
       "theme": "花好月圓",
       "w": 8,
@@ -20029,7 +21772,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "b4262c87d622f61141fb2fd7cc4842c96a943e0bf36a85dcaa10b676c6bfec29",
+      "sourceHash": "2463f28e625c528311df1e8ee5d71f590529663cb35c80104bc7ad77c82f3e69",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -20064,10 +21807,20 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_64405"
+      ],
+      "compatibleSourceHashes": [
+        "b4262c87d622f61141fb2fd7cc4842c96a943e0bf36a85dcaa10b676c6bfec29"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_64404",
+      "id": "花好月圓_蟾宮仙山",
       "name": "蟾宮仙山",
       "theme": "花好月圓",
       "w": 8,
@@ -20123,7 +21876,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "61481db67ccb1c1cd5bc1ef82c484e3d59339c424a6e2abcd29afdbf8fa22598",
+      "sourceHash": "78ae8d600a61faf5570c09436a73f46c3cf019f83335872d5f70bb23394be8df",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -20158,10 +21911,20 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_64404"
+      ],
+      "compatibleSourceHashes": [
+        "61481db67ccb1c1cd5bc1ef82c484e3d59339c424a6e2abcd29afdbf8fa22598"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_64403",
+      "id": "花好月圓_映月橋",
       "name": "映月橋",
       "theme": "花好月圓",
       "w": 8,
@@ -20217,7 +21980,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "110360453dcea6037a8b6e68669e8e7cf5645b060f0f23be6b4dde8ee5ed28eb",
+      "sourceHash": "bc31c3d76045b42919267a7d0cca3dc4652a2f9d9e66de2a2b2054b44e3d23e0",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -20252,10 +22015,20 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_64403"
+      ],
+      "compatibleSourceHashes": [
+        "110360453dcea6037a8b6e68669e8e7cf5645b060f0f23be6b4dde8ee5ed28eb"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_64402",
+      "id": "花好月圓_花燈會",
       "name": "花燈會",
       "theme": "花好月圓",
       "w": 8,
@@ -20311,7 +22084,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "7f2d5710b8aca4bc3093bff06953ccd8305724a2ce08ad03a5fd1689fdda4b47",
+      "sourceHash": "50d4ba72bd1b8d67047e781b266fbe9e4db915b61eb46c031cefb5ef3e6a2ce3",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -20346,10 +22119,20 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_64402"
+      ],
+      "compatibleSourceHashes": [
+        "7f2d5710b8aca4bc3093bff06953ccd8305724a2ce08ad03a5fd1689fdda4b47"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_64401",
+      "id": "花好月圓_候月門",
       "name": "候月門",
       "theme": "花好月圓",
       "w": 8,
@@ -20405,7 +22188,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "dfc9bcf7195e1046750b7e066ed5c64781bdaae9edad904f9d13a3a18ae97704",
+      "sourceHash": "05e58ad8e8515753117ff1258da0babde551498d3c96376977488e9d7dde2811",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -20440,10 +22223,20 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_64401"
+      ],
+      "compatibleSourceHashes": [
+        "dfc9bcf7195e1046750b7e066ed5c64781bdaae9edad904f9d13a3a18ae97704"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_64400",
+      "id": "花好月圓_望月石",
       "name": "望月石",
       "theme": "花好月圓",
       "w": 4,
@@ -20499,7 +22292,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "5c1683f4545708695fc5375ecb1b35bc706ba295dc25e7137b3c9bddc4512fdb",
+      "sourceHash": "4f8a93a870029862037806cfd2e37348323fc0a56828261565ee3c2464580b28",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -20534,10 +22327,20 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_64400"
+      ],
+      "compatibleSourceHashes": [
+        "5c1683f4545708695fc5375ecb1b35bc706ba295dc25e7137b3c9bddc4512fdb"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_64399",
+      "id": "花好月圓_月見花",
       "name": "月見花",
       "theme": "花好月圓",
       "w": 2,
@@ -20593,7 +22396,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "80a196d3c54e06ba64c6d34f4c5bdf9065c89d9ffe3d12f31a42db8fb6a19e15",
+      "sourceHash": "bef1fe9891136a2eb948af204f3224771b335e0c40138f513aa393026dadf5cc",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -20628,10 +22431,20 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_64399"
+      ],
+      "compatibleSourceHashes": [
+        "80a196d3c54e06ba64c6d34f4c5bdf9065c89d9ffe3d12f31a42db8fb6a19e15"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_64398",
+      "id": "花好月圓_秋露金菊",
       "name": "秋露金菊",
       "theme": "花好月圓",
       "w": 2,
@@ -20687,7 +22500,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "f15be4ebb5bf2690db067f34380196e183d314527ab3ad2f4a4bb3d52aefc14b",
+      "sourceHash": "f2c450bb50be0bca0974f0970f7d7a01ebbf8b91f2a61e1271b074c1103134fe",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -20722,10 +22535,20 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_64398"
+      ],
+      "compatibleSourceHashes": [
+        "f15be4ebb5bf2690db067f34380196e183d314527ab3ad2f4a4bb3d52aefc14b"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     },
     {
-      "id": "item_64397",
+      "id": "花好月圓_錦繡牡丹",
       "name": "錦繡牡丹",
       "theme": "花好月圓",
       "w": 2,
@@ -20781,7 +22604,7 @@
         "points": null,
         "groundPoints": null
       },
-      "sourceHash": "2e6f34398915a711e1a3fff18360a2e736463b261a8ab0937b8879bb98ab629d",
+      "sourceHash": "34aed03f0ae45237c1b323cfe3054c4b33bd23041818925e728a308727f88fd2",
       "sourceInfo": {
         "width": 1254,
         "height": 1254,
@@ -20816,7 +22639,17 @@
       "floorSurface": null,
       "fitInset": 1,
       "displayHeight": null,
-      "requiresWater": false
+      "requiresWater": false,
+      "legacyIds": [
+        "item_64397"
+      ],
+      "compatibleSourceHashes": [
+        "2e6f34398915a711e1a3fff18360a2e736463b261a8ab0937b8879bb98ab629d"
+      ],
+      "pngSize": [
+        768,
+        768
+      ]
     }
   ]
 }
