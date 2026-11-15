@@ -1,0 +1,1096 @@
+{
+  "format": "homestead-planner",
+  "version": 32,
+  "assetMode": "catalog",
+  "catalog": {
+    "manifest": "家具素材/manifest.json",
+    "fingerprint": "d9be3d9636447e671b5b"
+  },
+  "rules": {
+    "themeBuildingLimit": "perAsset",
+    "retainedGroundConflicts": []
+  },
+  "map": {
+    "blockSize": 16,
+    "rows": [
+      [
+        6,
+        12
+      ],
+      [
+        5,
+        12
+      ],
+      [
+        5,
+        13
+      ],
+      [
+        5,
+        14
+      ],
+      [
+        5,
+        14
+      ],
+      [
+        5,
+        13
+      ],
+      [
+        5,
+        12
+      ],
+      [
+        4,
+        11
+      ],
+      [
+        0,
+        10
+      ],
+      [
+        0,
+        9
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        0,
+        7
+      ],
+      [
+        -2,
+        6
+      ],
+      [
+        -2,
+        5
+      ],
+      [
+        -2,
+        4
+      ],
+      [
+        -2,
+        3
+      ],
+      [
+        -2,
+        2
+      ],
+      [
+        -2,
+        1
+      ],
+      [
+        -2,
+        0
+      ],
+      [
+        -2,
+        -1
+      ]
+    ],
+    "unlocked": [
+      [
+        6,
+        0
+      ],
+      [
+        7,
+        0
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        9,
+        0
+      ],
+      [
+        10,
+        0
+      ],
+      [
+        11,
+        0
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        9,
+        1
+      ],
+      [
+        10,
+        1
+      ],
+      [
+        11,
+        1
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        7,
+        2
+      ],
+      [
+        8,
+        2
+      ],
+      [
+        9,
+        2
+      ],
+      [
+        10,
+        2
+      ],
+      [
+        11,
+        2
+      ],
+      [
+        12,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        8,
+        3
+      ],
+      [
+        9,
+        3
+      ],
+      [
+        10,
+        3
+      ],
+      [
+        11,
+        3
+      ],
+      [
+        12,
+        3
+      ],
+      [
+        13,
+        3
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        7,
+        4
+      ],
+      [
+        8,
+        4
+      ],
+      [
+        9,
+        4
+      ],
+      [
+        10,
+        4
+      ],
+      [
+        11,
+        4
+      ],
+      [
+        12,
+        4
+      ],
+      [
+        13,
+        4
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        7,
+        5
+      ],
+      [
+        8,
+        5
+      ],
+      [
+        9,
+        5
+      ],
+      [
+        10,
+        5
+      ],
+      [
+        11,
+        5
+      ],
+      [
+        12,
+        5
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        7,
+        6
+      ],
+      [
+        8,
+        6
+      ],
+      [
+        9,
+        6
+      ],
+      [
+        10,
+        6
+      ],
+      [
+        11,
+        6
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        10,
+        7
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        0,
+        9
+      ],
+      [
+        1,
+        9
+      ],
+      [
+        2,
+        9
+      ],
+      [
+        3,
+        9
+      ],
+      [
+        4,
+        9
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        6,
+        9
+      ],
+      [
+        7,
+        9
+      ],
+      [
+        8,
+        9
+      ],
+      [
+        0,
+        10
+      ],
+      [
+        1,
+        10
+      ],
+      [
+        2,
+        10
+      ],
+      [
+        3,
+        10
+      ],
+      [
+        4,
+        10
+      ],
+      [
+        5,
+        10
+      ],
+      [
+        6,
+        10
+      ],
+      [
+        7,
+        10
+      ],
+      [
+        0,
+        11
+      ],
+      [
+        1,
+        11
+      ],
+      [
+        2,
+        11
+      ],
+      [
+        3,
+        11
+      ],
+      [
+        4,
+        11
+      ],
+      [
+        5,
+        11
+      ],
+      [
+        6,
+        11
+      ]
+    ]
+  },
+  "assetOverrides": [],
+  "placed": [
+    {
+      "id": "pmwh3kvsquk753",
+      "asset": "grass_tile",
+      "x": 96,
+      "y": 48,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3kvsqxw4ym",
+      "asset": "grass_tile",
+      "x": 96,
+      "y": 52,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3kvsqgc2zf",
+      "asset": "grass_tile",
+      "x": 96,
+      "y": 56,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3kvsqvrhnp",
+      "asset": "grass_tile",
+      "x": 96,
+      "y": 60,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3kvsqcw6jn",
+      "asset": "grass_tile",
+      "x": 100,
+      "y": 48,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3kvsqly4jc",
+      "asset": "grass_tile",
+      "x": 100,
+      "y": 52,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3kvsqhnzdz",
+      "asset": "grass_tile",
+      "x": 100,
+      "y": 56,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3kvsqv6uhq",
+      "asset": "grass_tile",
+      "x": 104,
+      "y": 48,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3kvsqkdpmf",
+      "asset": "grass_tile",
+      "x": 104,
+      "y": 52,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3kvsqg23ef",
+      "asset": "grass_tile",
+      "x": 104,
+      "y": 56,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3kvsq81e87",
+      "asset": "grass_tile",
+      "x": 104,
+      "y": 60,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3kvsqof60v",
+      "asset": "grass_tile",
+      "x": 108,
+      "y": 48,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3kvsqacu7j",
+      "asset": "grass_tile",
+      "x": 108,
+      "y": 52,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3kvsq7i517",
+      "asset": "grass_tile",
+      "x": 108,
+      "y": 56,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3kvsqksd6e",
+      "asset": "grass_tile",
+      "x": 108,
+      "y": 60,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3kvsq2qskd",
+      "asset": "path_tile",
+      "x": 116,
+      "y": 48,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3kvsqyrr86",
+      "asset": "path_tile",
+      "x": 116,
+      "y": 52,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3kvsq1f8vz",
+      "asset": "path_tile",
+      "x": 120,
+      "y": 48,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3kvsqlvkdd",
+      "asset": "path_tile",
+      "x": 120,
+      "y": 52,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3kvsqx3v29",
+      "asset": "path_tile",
+      "x": 104,
+      "y": 64,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3kvsqej1vo",
+      "asset": "path_tile",
+      "x": 108,
+      "y": 64,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3kvsq4mv3o",
+      "asset": "path_tile",
+      "x": 112,
+      "y": 64,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3kvsqcbxwh",
+      "asset": "path_tile",
+      "x": 116,
+      "y": 64,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3kvsqus5dz",
+      "asset": "path_tile",
+      "x": 120,
+      "y": 64,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3kvsq5d9hj",
+      "asset": "path_tile",
+      "x": 124,
+      "y": 64,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3kvsq5svhl",
+      "asset": "path_tile",
+      "x": 128,
+      "y": 64,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3kvsqbl732",
+      "asset": "path_tile",
+      "x": 132,
+      "y": 64,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3kvsqj17b1",
+      "asset": "path_tile",
+      "x": 136,
+      "y": 64,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3kvsqzodi5",
+      "asset": "path_tile",
+      "x": 140,
+      "y": 64,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3kvsq7tudf",
+      "asset": "path_tile",
+      "x": 144,
+      "y": 64,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3kvsqygua2",
+      "asset": "path_tile",
+      "x": 148,
+      "y": 64,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3kvsqhht0w",
+      "asset": "path_tile",
+      "x": 104,
+      "y": 68,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3kvsq1ddvr",
+      "asset": "water_tile",
+      "x": 140,
+      "y": 48,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3kvsq08zsz",
+      "asset": "water_tile",
+      "x": 140,
+      "y": 52,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3kvsqa7jls",
+      "asset": "water_tile",
+      "x": 140,
+      "y": 56,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3kvsqnwp3r",
+      "asset": "water_tile",
+      "x": 144,
+      "y": 48,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3kvsqjcsax",
+      "asset": "water_tile",
+      "x": 144,
+      "y": 52,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3kvsqllu7d",
+      "asset": "water_tile",
+      "x": 144,
+      "y": 56,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3kvsq5cjj7",
+      "asset": "water_tile",
+      "x": 148,
+      "y": 48,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3kvsq69v25",
+      "asset": "water_tile",
+      "x": 148,
+      "y": 52,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3kvsqqvoj1",
+      "asset": "water_tile",
+      "x": 148,
+      "y": 56,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3kvsqizhtu",
+      "asset": "windmill",
+      "x": 96,
+      "y": 48,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3kvsqzb3ps",
+      "asset": "pocket_house",
+      "x": 116,
+      "y": 48,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3kvsqkpo92",
+      "asset": "kiln",
+      "x": 128,
+      "y": 48,
+      "flip": false,
+      "mirror": true
+    },
+    {
+      "id": "pmwh3kvsqf2mnz",
+      "asset": "cow_pen",
+      "x": 116,
+      "y": 72,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3kvsq2ms8s",
+      "asset": "rice_field",
+      "x": 136,
+      "y": 72,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3kvsqkxk4o",
+      "asset": "wood_fence",
+      "x": 132,
+      "y": 56,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3kvsqg4z2f",
+      "asset": "wood_fence",
+      "x": 132,
+      "y": 60,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3kvsq9egwc",
+      "asset": "wood_fence",
+      "x": 134,
+      "y": 62,
+      "flip": true,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3kvsqw2sos",
+      "asset": "wood_fence",
+      "x": 138,
+      "y": 62,
+      "flip": true,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3l9cb205nj",
+      "asset": "path_tile",
+      "x": 100,
+      "y": 68,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3l9l4npf24",
+      "asset": "path_tile",
+      "x": 96,
+      "y": 68,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3la2p7oclv",
+      "asset": "path_tile",
+      "x": 92,
+      "y": 72,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3laig2oii5",
+      "asset": "path_tile",
+      "x": 92,
+      "y": 68,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3ldqnpxzfi",
+      "asset": "path_tile",
+      "x": 92,
+      "y": 76,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3lecfthlyh",
+      "asset": "path_tile",
+      "x": 92,
+      "y": 80,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3lg3lm06uf",
+      "asset": "path_tile",
+      "x": 96,
+      "y": 80,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3lh53cmtei",
+      "asset": "path_tile",
+      "x": 96,
+      "y": 76,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3kvsqgyiff",
+      "asset": "chicken_coop",
+      "x": 96,
+      "y": 72,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3m62fdk9wt",
+      "asset": "path_tile",
+      "x": 112,
+      "y": 68,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3m6vtlwdcv",
+      "asset": "path_tile",
+      "x": 112,
+      "y": 72,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3m7g2s9jpb",
+      "asset": "path_tile",
+      "x": 112,
+      "y": 76,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3m86xrxi7g",
+      "asset": "path_tile",
+      "x": 112,
+      "y": 80,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3m8orq4638",
+      "asset": "path_tile",
+      "x": 116,
+      "y": 76,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3m8xo1kvrp",
+      "asset": "path_tile",
+      "x": 116,
+      "y": 80,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3mjiq74myg",
+      "asset": "rice_field",
+      "x": 144,
+      "y": 72,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3mmpzvaqw2",
+      "asset": "wood_fence",
+      "x": 142,
+      "y": 76,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3mozr4gz6u",
+      "asset": "wood_fence",
+      "x": 142,
+      "y": 72,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3mu3vxynsd",
+      "asset": "wood_fence",
+      "x": 140,
+      "y": 78,
+      "flip": false,
+      "mirror": true
+    },
+    {
+      "id": "pmwh3mxox21qw9",
+      "asset": "wood_fence",
+      "x": 136,
+      "y": 78,
+      "flip": false,
+      "mirror": true
+    },
+    {
+      "id": "pmwh3n06h0g579",
+      "asset": "wood_fence",
+      "x": 140,
+      "y": 70,
+      "flip": false,
+      "mirror": true
+    },
+    {
+      "id": "pmwh3n4cxm1j11",
+      "asset": "wood_fence",
+      "x": 136,
+      "y": 70,
+      "flip": false,
+      "mirror": true
+    },
+    {
+      "id": "pmwh3n8t50abd7",
+      "asset": "wood_fence",
+      "x": 134,
+      "y": 72,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3niy3rt0it",
+      "asset": "wood_fence",
+      "x": 134,
+      "y": 76,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3puuxlvjpr",
+      "asset": "path_tile",
+      "x": 100,
+      "y": 60,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3pvd0ktfav",
+      "asset": "path_tile",
+      "x": 100,
+      "y": 64,
+      "flip": false,
+      "mirror": false
+    }
+  ],
+  "cam": {
+    "x": -1879.1576757152236,
+    "y": 749.2999565796486,
+    "z": 1.3334441641157817
+  }
+}
