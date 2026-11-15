@@ -1,0 +1,624 @@
+{
+  "format": "homestead-planner",
+  "version": 32,
+  "assetMode": "catalog",
+  "catalog": {
+    "manifest": "家具素材/manifest.json",
+    "fingerprint": "d9be3d9636447e671b5b"
+  },
+  "rules": {
+    "themeBuildingLimit": "perAsset",
+    "retainedGroundConflicts": []
+  },
+  "map": {
+    "blockSize": 16,
+    "rows": [
+      [
+        6,
+        12
+      ],
+      [
+        5,
+        12
+      ],
+      [
+        5,
+        13
+      ],
+      [
+        5,
+        14
+      ],
+      [
+        5,
+        14
+      ],
+      [
+        5,
+        13
+      ],
+      [
+        5,
+        12
+      ],
+      [
+        4,
+        11
+      ],
+      [
+        0,
+        10
+      ],
+      [
+        0,
+        9
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        0,
+        7
+      ],
+      [
+        -2,
+        6
+      ],
+      [
+        -2,
+        5
+      ],
+      [
+        -2,
+        4
+      ],
+      [
+        -2,
+        3
+      ],
+      [
+        -2,
+        2
+      ],
+      [
+        -2,
+        1
+      ],
+      [
+        -2,
+        0
+      ],
+      [
+        -2,
+        -1
+      ]
+    ],
+    "unlocked": [
+      [
+        6,
+        0
+      ],
+      [
+        7,
+        0
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        9,
+        0
+      ],
+      [
+        10,
+        0
+      ],
+      [
+        11,
+        0
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        9,
+        1
+      ],
+      [
+        10,
+        1
+      ],
+      [
+        11,
+        1
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        7,
+        2
+      ],
+      [
+        8,
+        2
+      ],
+      [
+        9,
+        2
+      ],
+      [
+        10,
+        2
+      ],
+      [
+        11,
+        2
+      ],
+      [
+        12,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        8,
+        3
+      ],
+      [
+        9,
+        3
+      ],
+      [
+        10,
+        3
+      ],
+      [
+        11,
+        3
+      ],
+      [
+        12,
+        3
+      ],
+      [
+        13,
+        3
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        7,
+        4
+      ],
+      [
+        8,
+        4
+      ],
+      [
+        9,
+        4
+      ],
+      [
+        10,
+        4
+      ],
+      [
+        11,
+        4
+      ],
+      [
+        12,
+        4
+      ],
+      [
+        13,
+        4
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        7,
+        5
+      ],
+      [
+        8,
+        5
+      ],
+      [
+        9,
+        5
+      ],
+      [
+        10,
+        5
+      ],
+      [
+        11,
+        5
+      ],
+      [
+        12,
+        5
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        7,
+        6
+      ],
+      [
+        8,
+        6
+      ],
+      [
+        9,
+        6
+      ],
+      [
+        10,
+        6
+      ],
+      [
+        11,
+        6
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        10,
+        7
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        0,
+        9
+      ],
+      [
+        1,
+        9
+      ],
+      [
+        2,
+        9
+      ],
+      [
+        3,
+        9
+      ],
+      [
+        4,
+        9
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        6,
+        9
+      ],
+      [
+        7,
+        9
+      ],
+      [
+        8,
+        9
+      ],
+      [
+        0,
+        10
+      ],
+      [
+        1,
+        10
+      ],
+      [
+        2,
+        10
+      ],
+      [
+        3,
+        10
+      ],
+      [
+        4,
+        10
+      ],
+      [
+        5,
+        10
+      ],
+      [
+        6,
+        10
+      ],
+      [
+        7,
+        10
+      ],
+      [
+        0,
+        11
+      ],
+      [
+        1,
+        11
+      ],
+      [
+        2,
+        11
+      ],
+      [
+        3,
+        11
+      ],
+      [
+        4,
+        11
+      ],
+      [
+        5,
+        11
+      ],
+      [
+        6,
+        11
+      ]
+    ]
+  },
+  "assetOverrides": [],
+  "placed": [
+    {
+      "id": "pmwh3zqk201ncw",
+      "asset": "antique_tile",
+      "x": 112,
+      "y": 32,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3zqk2z7t0t",
+      "asset": "antique_tile",
+      "x": 112,
+      "y": 36,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3zqk2f85yw",
+      "asset": "antique_tile",
+      "x": 112,
+      "y": 40,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3zqk2lcqvw",
+      "asset": "antique_tile",
+      "x": 116,
+      "y": 32,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3zqk2es1gm",
+      "asset": "antique_tile",
+      "x": 116,
+      "y": 36,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3zqk2nioxu",
+      "asset": "antique_tile",
+      "x": 116,
+      "y": 40,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3zqk2vys92",
+      "asset": "antique_tile",
+      "x": 120,
+      "y": 32,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3zqk2d8480",
+      "asset": "antique_tile",
+      "x": 120,
+      "y": 36,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3zqk21ebvc",
+      "asset": "antique_tile",
+      "x": 120,
+      "y": 40,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3zqk2itnms",
+      "asset": "jade_wall_side",
+      "x": 98,
+      "y": 28,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3zqk2ie1qn",
+      "asset": "jade_wall_up",
+      "x": 106,
+      "y": 28,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3zqk2ri7fk",
+      "asset": "jade_wall_down",
+      "x": 98,
+      "y": 36,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3zqk2ssa88",
+      "asset": "jade_wall_side",
+      "x": 106,
+      "y": 36,
+      "flip": false,
+      "mirror": true
+    },
+    {
+      "id": "pmwh3zqk2o9h0p",
+      "asset": "jade_wall",
+      "x": 102,
+      "y": 28,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3zqk2gu2bg",
+      "asset": "jade_wall",
+      "x": 102,
+      "y": 36,
+      "flip": false,
+      "mirror": false
+    },
+    {
+      "id": "pmwh3zqk25gzl8",
+      "asset": "jade_wall",
+      "x": 98,
+      "y": 32,
+      "flip": false,
+      "mirror": true
+    },
+    {
+      "id": "pmwh3zqk2xi6qu",
+      "asset": "jade_wall",
+      "x": 106,
+      "y": 32,
+      "flip": false,
+      "mirror": true
+    }
+  ],
+  "cam": {
+    "x": -3073.1666666666665,
+    "y": 1435.5,
+    "z": 2.6866666666666665
+  }
+}

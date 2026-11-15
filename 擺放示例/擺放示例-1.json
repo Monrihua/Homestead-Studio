@@ -4,7 +4,7 @@
   "assetMode": "catalog",
   "catalog": {
     "manifest": "家具素材/manifest.json",
-    "fingerprint": "d9be3d9636447e671b5b"
+    "fingerprint": "6d5522690717a3d28320"
   },
   "rules": {
     "themeBuildingLimit": "perAsset",
@@ -1089,8 +1089,8 @@
     }
   ],
   "cam": {
-    "x": -1879.1576757152236,
-    "y": 749.2999565796486,
-    "z": 1.3334441641157817
+    "x": -1228.7314863490747,
+    "y": 694.2933649196798,
+    "z": 1.0630135236892393
   }
 }
